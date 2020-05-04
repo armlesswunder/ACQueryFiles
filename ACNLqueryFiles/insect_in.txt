@@ -1,0 +1,143 @@
+[Common Butterfly]* monshirochou - 90 - G - green - 54mm - near flowers - March through June, 4am to 7pm (best time is 8am to 5pm) - September, 8am to 4pm
+
+[Yellow Butterfly]* monkichou - 90 - F - green - 54mm - near flowers - March through June, 4am to 7pm (best time is 8am to 5pm) - September, 8am to 4pm
+
+[Tiger Butterfly]* agehachou - 160 - E - yellow - 114mm - near red and pink flowers - March through June, 4am to 7pm (best time is 8am to 5pm) - July through August, 8am to 5pm - September, 8am to 4pm
+
+[Peacock Butterfly]* karasuageha - 220 - D - yellow - 133mm - near blue, purple and black flowers - March through June, 4am to 7pm (best time is 8am to 5pm, May through June) - July, 4am to 5pm - August, 8am to 5pm - September, 8am to 4pm
+
+[Monarch Butterfly]* ookabamadara - 140 - F - red - 108mm - near flowers - September through October, 4am to 5pm - November, 8am to 5pm (best time is 8am to 4pm, October through November)
+
+[Emperor Butterfly]* morufochou - 2,500 - C - red - 146mm - near flowers - June through September, 7pm to 8am
+
+[Agrias Butterfly]* miirotateha - 3,000 - C - red - 53mm - near flowers - June through September, 8am to 5pm
+
+[Raja B. Butterfly]* akaeriageha - 2,500 - C - purple - 178mm - near freshwater - May through September, 8am to 5pm
+
+[Birdwing Butterfly]* arekusandoraageha - 4,000 - B - red - 250mm - near flowers - June through September, 8am to 4pm
+
+[Moth]* ga - 60 - G - green - 55mm - near outdoor lights - May through September, 7pm to 4am (best time is June through August)
+
+[Oak Silk Moth] yamamayuga - 1,200 - B - yellow - 320mm - on trees - June through September, 7pm to 4am
+
+[Honeybee]* mitsubachi - 100 - F - green - 16mm - near flowers - March through June, 8am to 5pm - July, 8am to 4pm
+
+[Bee]** hachi - 2,500 - C - red - 30mm - in trees - all year, all day
+
+[Long Locust]* shouryoubatta - 200 - G - green - 60mm - on ground - May through November, 8am to 7pm (best time is September through November)
+
+[Migratory Locust]* tonosamabatta - 600 - E - yellow - 50mm - on ground - August through November, 8am to 7pm (best time is 8am to 4pm)
+
+[Rice Grasshopper]* inago - 400 - B - blue - 25mm - on ground - August through November, 8am to 7pm (best time is August to October)
+
+[Mantis]* kamakiri - 430 - D - yellow - 82mm - on flowers - April through November, 8am to 5pm (best time is 8am to 4pm, September through November)
+
+[Orchid Mantis]* hanakamakiri - 2,400 - C - red - 46mm - on white flowers - April through November, 8am to 5pm
+
+[Brown Cicada] aburazemi - 200 - G - green - 57mm - on trees - July through August, 8am to 5pm (best time is 8am to 4pm)
+
+[Robust Cicada] minminsemi - 300 - G - green - 60mm - on trees - July through August, 8am to 5pm (best time is 8am to 4pm)
+
+[Giant Cicada] kumazemi - 500 - G - blue - 62mm - on trees - July through August, 8am to 5pm
+
+[Walker Cicada] tsukutsukuhoushi - 400 - G - yellow - 35mm - on trees - July through September, 8am to 5pm (best time is August)
+
+[Evening Cicada] higurashi - 550 - G - yellow - 33mm - on trees - July through August, 4am to 8am and 4pm to 7pm
+
+[Cicada Shell] semi no nukegara - 100 - G - blue - 40mm - on trees - July through August, all day
+
+[Lantern Fly] biwahagoromo - 1,800 - C - yellow - 70mm - on trees - June and September, 4pm to 7pm and 11pm to 8am - July through August, 4pm to 8am
+
+[Red Dragonfly]* akiakane - 80 - F - green - 40mm - in air - September through October, 8am to 7pm (best time is 4pm to 5pm)
+
+[Darner Dragonfly]* ginyanma - 200 - E - yellow - 77mm - in air - June through August, 8am to 5pm (best time is 4pm to 5pm)
+
+[Banded Dragonfly]* oniyanma - 4,500 - D - red - 105mm - in air - July through August, 8am to 5pm
+
+[Petaltail Dragonfly]* teioumukashiyanma - 8,000 - B - purple - 160mm - in air - August through October, 5pm to 7pm
+
+[Ant]** ari - 80 - G - farm - 6mm - on Candy, Lollipop, spoiled turnips, and rotten fruit - all year, all day
+
+[Pondskater]* amenbo - 130 - F - green - 15mm - on freshwater - May through September, 8am to 7pm (best time is 5pm to 7pm, June)
+
+[Diving Beetle] gengorou - 800 - E - purple - 37mm - in river - May through September, 8am to 5pm
+
+[Stinkbug] kamemushi - 120 - G - blue - 14mm - on trees - April through October,all day
+
+[Snail] katatsumuri - 250 - F - green - 57mm - on shrubs, during rain - April through September, all day (best time is May through June)
+
+[Cricket]* koorogi - 130 - G - wood - 17mm - on ground - September through November, 5pm to 8am (best time is November)
+
+[Bell Cricket]* suzumushi - 430 - F - wood - 21mm - on ground - September through October, 5pm to 8am
+
+[Grasshopper]* kirigirisu - 160 - F - wood - 34mm - on ground - July, 4pm to 5pm - August through September, 8am to 5pm (best time is September)
+
+[Mole Cricket] okera - 280 - D - green - 44mm - underground - November through May, all day
+
+[Walking Leaf]** konohamushi - 600 - E - purple - 75mm - on ground - July through September, 8am to 5pm
+
+[Walking Stick] nanafushi - 600 - D - yellow - 85mm - on trees - July through August, 4am to 8am and 5pm to 7pm - September through November, 4am to 7pm
+
+[Bagworm]** minomushi - 300 - F - purple - 35mm - in trees - October through February, all day (best time is November through December, 8am to 7pm)
+
+[Ladybug]* tentoumushi - 200 - F - green - 6.5mm - on flowers - March through June and October, 8am to 5pm (best time is March through May)
+
+[Violin Beetle]* baiorinmushi - 260 - D - purple - 51mm - on tree stumps - June,4am to 7pm - September through October, 4am to 5pm - November, 8am to 5pm
+
+[Longhorn Beetle]* kamikirimushi - 260 - D - yellow - 52mm - on tree stumps - July through August, 11pm to 7pm
+
+[Tiger Beetle] hanmyou - 1,500 - C - blue - 18mm - on ground - March through September, 8am to 7pm - October, 4am to 5pm
+
+[Dung Beetle]** funkorogashi - 800 - C - yellow - 33mm - near snowballs - December through February, 5pm to 8am
+
+[Wharf Roach] funamushi - 200 - G - blue - 42mm - on beach - all year, all day
+
+[Hermit Crab]** yadokari - 1,000 - E - blue - 40mm - on Island beach - all year,7pm to 8am
+
+[Firefly]* hotaru - 300 - E - yellow - 13mm - near freshwater - June, 7pm to 4am
+
+[Fruit Beetle] koganemushi - 100 - F - green - 20mm - on trees - July through August, all day (best time is 5pm to 4am) - September, 7pm to 8am
+
+[Scarab Beetle] purachinakogane - 6,000 - B - red - 32mm - on trees - July through August, 11pm to 8am
+
+[Jewel Beetle] tamamushi - 2,400 - D - red - 35mm - on trees - July through August, 8am to 5pm
+
+[Miyama Stag] miyamakuwagata - 1,000 - D - purple - 60mm - on trees - July through August, all day (best time is August, 7pm to 8am)
+
+[Saw Stag] nokogirikuwagata - 2,000 - C - red - 54mm - on trees - July through August, all day (best time is 7pm to 8am)
+
+[Giant Stag] ookuwagata - 10,000 - C - red - 55mm - on trees - July through August, 11pm to 8am
+
+[Rainbow Stag] nijiirokuwagata - 10,000 - B - red - 60mm - on trees - June and September, 7pm to 8am - July through August, 5pm to 8am
+
+[Cyclommatus Stag] hosoakakuwagata - 8,000 - B - purple - 90mm - on palm trees - July through August, 5pm to 8am
+
+[Golden Stag] ougononikuwagata - 12,000 - A - purple - 62mm - on palm trees - July through August, 5pm to 8am
+
+[Horned Dynastid] kabutomushi - 1,350 - D - red - 72mm - on trees - July through August, 5pm to 8am (best time is 11pm to 8am)
+
+[Horned Atlas] kokasasuookabuto - 8,000 - B - red - 152mm - on palm trees - July through August, 5pm to 8am
+
+[Horned Elephant] zoukabuto - 8,000 - C - red - 146mm - on palm trees - July through August, 5pm to 8am
+
+[Horned Hercules] herakuresuookabuto - 12,000 - A - red - 160mm - on palm trees - July through August, 5pm to 8am
+
+[Goliath Beetle] goraiasu hanamuguri - 6,000 - B - red - 108mm - on palm trees - June and September, 7pm to 8am - July through August, 5pm to 8am
+
+[Flea]** nomi - 70 - G - yellow - 3mm - on villager - March through November, all day
+
+[Pill Bug] dangomushi - 250 - G - green - 13mm - under rocks - September through June, all day (best time is November through March) - July through August, 7pm to 4am
+
+[Mosquito]* ** ka - 130 - G - green - 4.5mm - in air - June through September, 5pm to 4am (best time is 7pm to 11pm)
+
+[Fly]* ** hae - 60 - G - green - 9mm - near garbage, rafflesia or spoiled turnips - all year, all day
+
+[House Centipede] geji - 250 - F - blue - 25mm - under rocks - August through October, 7pm to 8am
+
+[Centipede] mukade - 300 - D - purple - 152mm - under rocks - June through February, 4pm to 11pm
+
+[Spider]** kumo - 300 - E - green - 25mm - in trees - March through June and September, all day (best times are 4pm to 8am, April through May; 7pm to 8am, September) - July through August, 7pm to 8am - October, 11pm to 4pm
+
+[Tarantula]* ** taranchura - 8,000 - C - red - 83mm - on ground - June through August, 7pm to 4am
+
+[Scorpion]* ** sasori - 8,000 - C - red - 203mm - on ground - July through September, 7pm to 4am

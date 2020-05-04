@@ -1,0 +1,5 @@
+Find: \r\n_
+Replace: _
+
+Find: __
+Replace: _

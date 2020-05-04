@@ -1,0 +1,261 @@
+Mega Alloid - ground - none/828 - brown/brown - none - makes sound
+
+Mini Alloid - ground - none/828 - brown/brown - none - makes sound
+
+Tall Alloid - ground - none/828 - brown/brown - none - makes sound
+
+Mega Bovoid - ground - none/828 - gray/gray - Rustic/Toy Shop - makes sound
+
+Tall Bovoid - ground - none/828 - gray/gray - Rustic/Toy Shop - makes sound
+
+Bowtoid - ground - none/828 - black/black - Toy Shop - makes sound
+
+Mega Bowtoid - ground - none/828 - black/black - Toy Shop - makes sound
+
+Mini Bowtoid - ground - none/828 - black/black - Toy Shop - makes sound
+
+Tall Bowtoid - ground - none/828 - black/black - Toy Shop - makes sound
+
+Brewstoid - Brewster - none/828 - green/black - Rustic/Antique/Trendy - makes sound
+
+Mega Brewstoid - Brewster - none/828 - green/black - Rustic/Antique/Trendy - makes sound
+
+Mini Brewstoid - Brewster - none/828 - green/black - Rustic/Antique/Trendy - makes sound
+
+Tall Brewstoid - Brewster - none/828 - green/black - Rustic/Antique/Trendy - makes sound
+
+Buzzoid - ground - none/828 - green/brown - Quirky - makes sound
+
+Mega Buzzoid - ground - none/828 - green/brown - Quirky - makes sound
+
+Mini Buzzoid - ground - none/828 - green/brown - Quirky - makes sound
+
+Tall Buzzoid - ground - none/828 - green/brown - Quirky - makes sound
+
+Clankoid - ground - none/828 - green/green - Harmonious - makes sound
+
+Mega Clankoid - ground - none/828 - green/green - Harmonious - makes sound
+
+Mini Clankoid - ground - none/828 - green/green - Harmonious - makes sound
+
+Tall Clankoid - ground - none/828 - green/green - Harmonious - makes sound
+
+Croakoid - ground - none/828 - green/green - Harmonious/Rustic/Quirky - makes sound
+
+Mega Croakoid - ground - none/828 - purple/purple - Harmonious/Rustic/Quirky - makes sound
+
+Mini Croakoid - ground - none/828 - brown/brown - Harmonious/Rustic/Quirky - makes sound
+
+Tall Croakoid - ground - none/828 - blue/gray - Harmonious/Rustic/Quirky - makes sound
+
+Dekkoid - ground - none/828 - green/green - Toy Shop/Quirky - makes sound
+
+Mega Dekkoid - ground - none/828 - orange/orange - Toy Shop/Quirky - makes sound
+
+Mini Dekkoid - ground - none/828 - pink/pink - Toy Shop/Quirky - makes sound
+
+Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Mega Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Squat Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Mini Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Tall Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Wee Dingloid - ground - none/828 - brown/brown - Harmonious/Antique/Fairy Tale - makes sound
+
+Mega Dinkoid - ground - none/828 - gray/gray - Trendy/Sci-Fi - makes sound
+
+Mini Dinkoid - ground - none/828 - gray/gray - Trendy/Sci-Fi - makes sound
+
+Drilloid - ground - none/828 - red/red - Trendy/Quirky - makes sound
+
+Mega Drilloid - ground - none/828 - red/red - Trendy/Quirky - makes sound
+
+Mini Drilloid - ground - none/828 - red/red - Trendy/Quirky - makes sound
+
+Tall Droploid - ground - none/828 - purple/purple - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Mega Echoid - ground - none/828 - blue/gray - Sci-Fi/Quirky - makes sound
+
+Mini Echoid - ground - none/828 - orange/orange - Harmonious/Sci-Fi - makes sound
+
+Tall Echoid - ground - none/828 - blue/gray - Trendy - makes sound
+
+Mega Fizzoid - ground - none/828 - red/red - Toy Shop - makes sound
+
+Mini Fizzoid - ground - none/828 - red/red - Toy Shop - makes sound
+
+Mega Freakoid - ground - none/828 - blue/gray - Quirky - makes sound
+
+Mini Freakoid - ground - none/828 - blue/gray - Quirky - makes sound
+
+Gargloid - ground - none/828 - gray/gray - Toy Shop - makes sound
+
+Mini Gargloid - ground - none/828 - pink/gray - Toy Shop - makes sound
+
+Tall Gargloid - ground - none/828 - gray/gray - Toy Shop - makes sound
+
+Gongoid - ground - none/828 - brown/brown - Harmonious/Quirky - makes sound
+
+Mega Gongoid - ground - none/828 - brown/brown - Harmonious/Quirky - makes sound
+
+Mini Gongoid - ground - none/828 - brown/brown - Harmonious/Quirky - makes sound
+
+Tall Gongoid - ground - none/828 - brown/brown - Harmonious/Quirky - makes sound
+
+Harmonoid - ground - none/828 - red/gray - Sci-Fi/Toy Shop - makes sound
+
+Mega Harmonoid - ground - none/828 - red/gray - Sci-Fi/Toy Shop - makes sound
+
+Mini Harmonoid - ground - none/828 - blue/gray - Sci-Fi/Toy Shop - makes sound
+
+Tall Harmonoid - ground - none/828 - blue/gray - Sci-Fi/Toy Shop - makes sound
+
+Howloid - ground - none/828 - red/red - Quirky - makes sound
+
+Mega Howloid - ground - none/828 - red/red - Quirky - makes sound
+
+Mini Howloid - ground - none/828 - blue/gray - Quirky - makes sound
+
+Lamentoid - ground - none/828 - brown/brown - Harmonious/Toy Shop/Quirky - makes sound
+
+Mega Lamentoid - ground - none/828 - brown/brown - Harmonious/Toy Shop/Quirky - makes sound
+
+Mini Lamentoid - ground - none/828 - brown/brown - Harmonious/Toy Shop/Quirky - makes sound
+
+Tall Lamentoid - ground - none/828 - brown/brown - Harmonious/Toy Shop/Quirky - makes sound
+
+Lullaboid - ground - none/828 - gray/gray - Rustic/Antique/Fairy Tale - makes sound
+
+Mega Lullaboid - ground - none/828 - gray/gray - Rustic/Antique/Fairy Tale - makes sound
+
+Mini Lullaboid - ground - none/828 - gray/gray - Rustic/Antique/Fairy Tale - makes sound
+
+Tall Lullaboid - ground - none/828 - gray/gray - Rustic/Antique/Fairy Tale - makes sound
+
+Metatoid - ground - none/828 - gray/gray - Harmonious/Rustic/Quirky - makes sound
+
+Mini Metatoid - ground - none/828 - gray/gray - Harmonious/Rustic/Quirky - makes sound
+
+Nebuloid - ground - none/828 - blue/colorful - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Mega Nebuloid - ground - none/828 - blue/blue - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Squat Nebuloid - ground - none/828 - green/colorful - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Mini Nebuloid - ground - none/828 - purple/purple - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Tall Nebuloid - ground - none/828 - green/colorful - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Slim Nebuloid - ground - none/828 - purple/purple - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Oboid - ground - none/828 - gray/black - Harmonious - makes sound
+
+Mega Oboid - ground - none/828 - gray/black - Harmonious - makes sound
+
+Tall Oboid - ground - none/828 - gray/black - Harmonious - makes sound
+
+Oombloid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mega Oombloid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mini Oombloid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Tall Oombloid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mega Percoloid - ground - none/828 - brown/brown - Harmonious/Rustic/Quirky - makes sound
+
+Tall Percoloid - ground - none/828 - brown/brown - Harmonious/Rustic/Quirky - makes sound
+
+Plinkoid - ground - none/828 - pink/gray - Trendy - makes sound
+
+Mega Plinkoid - ground - none/828 - blue/gray - Trendy - makes sound
+
+Mini Plinkoid - ground - none/828 - green/gray - Trendy - makes sound
+
+Poltergoid - ground - none/828 - brown/gray - Harmonious/Rustic/Quirky - makes sound
+
+Mega Poltergoid - ground - none/828 - brown/gray - Harmonious/Rustic/Quirky - makes sound
+
+Mini Poltergoid - ground - none/828 - brown/gray - Harmonious/Rustic/Quirky - makes sound
+
+Tall Poltergoid - ground - none/828 - brown/gray - Harmonious/Rustic/Quirky - makes sound
+
+Mega Puffoid - ground - none/828 - green/green - Harmonious/Sci-Fi/Quirky - makes sound
+
+Mini Puffoid - ground - none/828 - green/green - Harmonious/Sci-Fi/Quirky - makes sound
+
+Tall Puffoid - ground - none/828 - green/green - Harmonious/Sci-Fi/Quirky - makes sound
+
+Quazoid - ground - none/828 - pink/pink - Trendy - makes sound
+
+Mega Quazoid - ground - none/828 - green/green - Trendy - makes sound
+
+Mini Quazoid - ground - none/828 - orange/orange - Trendy - makes sound
+
+Tall Quazoid - ground - none/828 - blue/blue - Trendy - makes sound
+
+Slim Quazoid - ground - none/828 - gray/gray - Trendy - makes sound
+
+Rhythmoid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mini Rhythmoid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Rustoid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mega Rustoid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Mini Rustoid - ground - none/828 - brown/brown - Harmonious - makes sound
+
+Sproid - ground - none/828 -yellow/yellow - Harmonious/Toy Shop - makes sound
+
+Mega Sproid - ground - none/828 - yellow/yellow - Harmonious/Toy Shop - makes sound
+
+Mini Sproid - ground - none/828 - yellow/yellow - Harmonious/Toy Shop - makes sound
+
+Tall Sproid - ground - none/828 - yellow/yellow - Harmonious/Toy Shop - makes sound
+
+Sputnoid - ground - none/828 - gray/gray - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Mega Sputnoid - ground - none/828 - green/gray - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Mini Sputnoid - ground - none/828 - gray/gray - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Tall Sputnoid - ground - none/828 - gray/gray - Trendy/Sci-Fi/Toy Shop - makes sound
+
+Squelchoid - ground - none/828 - yellow/green - Toy Shop - makes sound
+
+Mega Squelchoid - ground - none/828 - green/green - Toy Shop - makes sound
+
+Mini Squelchoid - ground - none/828 - red/red - Toy Shop - makes sound
+
+Strumboid - ground - none/828 - green/brown - Harmonious - makes sound
+
+Mega Strumboid - ground - none/828 - green/brown - Harmonious - makes sound
+
+Mini Strumboid - ground - none/828 - green/brown - Harmonious - makes sound
+
+Tall Strumboid - ground - none/828 - green/brown - Harmonious - makes sound
+
+Timpanoid - ground - none/828 - red/red - Antique - makes sound
+
+Mega Timpanoid - ground - none/828 - red/red - Antique - makes sound
+
+Mini Timpanoid - ground - none/828 - red/red - Antique - makes sound
+
+Tall Timpanoid - ground - none/828 - red/red - Antique - makes sound
+
+Tootoid - ground - none/828 - pink/pink - Toy Shop/Quirky - makes sound
+
+Mega Tootoid - ground - none/828 - pink/pink - Toy Shop/Quirky - makes sound
+
+Mini Tootoid - ground - none/828 - pink/pink - Toy Shop/Quirky - makes sound
+
+Warbloid - ground - none/828 - pink/pink - Toy Shop - makes sound
+
+Mini Warbloid - ground - none/828 - pink/pink - Toy Shop - makes sound
+
+Tall Warbloid - ground - none/828 - pink/pink - Toy Shop - makes sound

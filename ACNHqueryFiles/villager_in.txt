@@ -1,0 +1,391 @@
+Cyrano -  - Anteater - Male - Cranky - 3/9 - ah-CHOO - Cool - Active - ant00
+Antonio -  - Anteater - Male - Jock - 10/20 - honk - Simple - Simple - ant01
+Pango -  - Anteater - Female - Peppy - 11/9 - snooooof - Elegant - Cool - ant02
+Anabelle -  - Anteater - Female - Peppy - 2/16 - snorty - Cute - Simple - ant03
+Snooty -  - Anteater - Female - Snooty - 10/24 - sniffff - Simple - Simple - ant06
+Annalisa -  - Anteater - Female - Normal - 2/6 - gumdrop - Elegant - Gorgeous - ant08
+Olaf -  - Anteater - Male - Smug - 5/19 - whiffa - Elegant - Gorgeous - ant09
+Teddy -  - Bear - Male - Jock - 9/26 - grooof - Simple - Simple - bea00
+Pinky -  - Bear - Female - Peppy - 9/9 - wah - Cute - Simple - bea01
+Curt -  - Bear - Male - Cranky - 7/1 - fuzzball - Cool - Cool - bea02
+Chow -  - Bear - Male - Cranky - 7/22 - aiya - Cool - Gorgeous - bea03
+Nate -  - Bear - Male - Lazy - 8/16 - yawwwn - Simple - Simple - bea05
+Groucho -  - Bear - Male - Cranky - 10/23 - grumble - Cool - Simple - bea06
+Tutu -  - Bear - Female - Peppy - 9/15 - twinkles - Cute - Simple - bea07
+Ursala -  - Bear - Female - Uchi - 1/16 - grooomph - Simple - Cute - bea08
+Grizzly -  - Bear - Male - Cranky - 7/31 - grrr - Cool - Simple - bea09
+Paula -  - Bear - Female - Uchi - 3/22 - yodelay - Cute - Active - bea10
+Ike -  - Bear - Male - Cranky - 5/16 - roadie - Cool - Cool - bea11
+Charlise -  - Bear - Female - Uchi - 4/17 - urgh - Active - Cute - bea12
+Beardo -  - Bear - Male - Smug - 9/27 - whiskers - Elegant - Elegant - bea13
+Klaus -  - Bear - Male - Smug - 3/31 - strudel - Simple - Simple - bea14
+Megan -  - Bear - Female - Normal - 3/13 - sundae - Cute - Simple - bea15
+Jay -  - Bird - Male - Jock - 7/17 - heeeeeyy - Active - Active - brd00
+Robin -  - Bird - Female - Snooty - 12/4 - la-di-da - Elegant - Cool - brd01
+Anchovy -  - Bird - Male - Lazy - 3/4 - chuurp - Simple - Simple - brd02
+Twiggy -  - Bird - Female - Peppy - 7/13 - cheepers - Simple - Cute - brd03
+Jitters -  - Bird - Male - Jock - 2/2 - bzzert - Active - Active - brd04
+Piper -  - Bird - Female - Peppy - 4/18 - chickadee - Elegant - Gorgeous - brd05
+Admiral -  - Bird - Male - Cranky - 1/27 - aye aye - Cool - Cool - brd06
+Midge -  - Bird - Female - Normal - 3/12 - tweedledee - Cute - Simple - brd08
+Jakey -  - Bird - Male - Lazy - 8/24 - ya feel - Simple - Simple - brd11
+Lucha -  - Bird - Male - Smug - 12/12 - cacaw - Active - Cool - brd15
+Jacques -  - Bird - Male - Smug - 6/22 - zut alors - Cool - Simple - brd16
+Peck -  - Bird - Male - Jock - 7/25 - crunch - Simple - Active - brd17
+Sparro -  - Bird - Male - Jock - 11/20 - like whoa - Active - Simple - brd18
+Angus -  - Bull - Male - Cranky - 4/30 - macmoo - Cool - Cool - bul00
+Rodeo -  - Bull - Male - Lazy - 10/29 - chaps - Simple - Cool - bul01
+Stu -  - Bull - Male - Lazy - 4/20 - mrooooo - Simple - Simple - bul03
+T-Bone -  - Bull - Male - Cranky - 5/20 - moocher - Cool - Simple - bul05
+Coach -  - Bull - Male - Jock - 4/29 - stubble - Active - Active - bul07
+Vic -  - Bull - Male - Cranky - 12/29 - cud - Cool - Active - bul08
+Bob -  - Cat - Male - Lazy - 1/1 - pthhpth - Simple - Cute - cat00
+Mitzi -  - Cat - Female - Normal - 9/25 - mew - Simple - Simple - cat01
+Rosie -  - Cat - Female - Peppy - 2/27 - silly - Cute - Cute - cat02
+Olivia -  - Cat - Female - Snooty - 2/3 - purrr - Cool - Elegant - cat03
+Kiki -  - Cat - Female - Normal - 10/8 - kitty cat - Simple - Simple - cat04
+Tangy -  - Cat - Female - Peppy - 6/17 - reeeeOWR - Simple - Cute - cat05
+Punchy -  - Cat - Male - Lazy - 4/11 - mrmpht - Simple - Simple - cat06
+Purrl -  - Cat - Female - Snooty - 5/29 - kitten - Cool - Elegant - cat07
+Moe -  - Cat - Male - Lazy - 1/12 - myawn - Active - Simple - cat08
+Kabuki -  - Cat - Male - Cranky - 11/29 - meooo-OH - Simple - Simple - cat09
+Kid Cat -  - Cat - Male - Jock - 8/1 - psst - Active - Simple - cat10
+Monique -  - Cat - Female - Snooty - 9/30 - pffffft - Gorgeous - Elegant - cat11
+Tabby -  - Cat - Female - Peppy - 8/13 - me-WOW - Active - Cool - cat12
+Stinky -  - Cat - Male - Jock - 8/17 - GAAHHH - Active - Simple - cat13
+Kitty -  - Cat - Female - Snooty - 2/15 - mrowrr - Elegant - Gorgeous - cat14
+Tom -  - Cat - Male - Cranky - 12/10 - me-YOWZA - Cool - Simple - cat15
+Merry -  - Cat - Female - Peppy - 6/29 - mweee - Cute - Cute - cat16
+Felicity -  - Cat - Female - Peppy - 3/30 - mimimi - Cute - Cute - cat17
+Lolly -  - Cat - Female - Normal - 3/27 - bonbon - Simple - Simple - cat18
+Ankha -  - Cat - Female - Snooty - 9/22 - me meow - Gorgeous - Simple - cat19
+Rudy -  - Cat - Male - Jock - 12/20 - mush - Active - Simple - cat20
+Katt -  - Cat - Female - Uchi - 4/27 - purrty - Cool - Cool - cat21
+Raymond -  - Cat - Male - Smug - 10/1 - crisp - Elegant - Cool - cat23
+Bluebear -  - Cub - Female - Peppy - 6/24 - peach - Cute - Simple - cbr00
+Maple -  - Cub - Female - Normal - 6/15 - honey - Simple - Cute - cbr01
+Poncho -  - Cub - Male - Jock - 1/2 - li'l bear - Simple - Simple - cbr02
+Pudge -  - Cub - Male - Lazy - 6/11 - pudgy - Simple - Simple - cbr03
+Kody -  - Cub - Male - Jock - 9/28 - grah grah - Active - Simple - cbr04
+Stitches -  - Cub - Male - Lazy - 2/10 - stuffin' - Simple - Cute - cbr05
+Vladimir -  - Cub - Male - Cranky - 8/2 - nyet - Simple - Cool - cbr06
+Murphy -  - Cub - Male - Cranky - 12/29 - malarkey - Simple - Cool - cbr07
+Olive -  - Cub - Female - Normal - 7/12 - sweet pea - Simple - Simple - cbr09
+Cheri -  - Cub - Female - Peppy - 3/17 - tralala - Simple - Cute - cbr10
+June -  - Cub - Female - Normal - 5/21 - rainbow - Cute - Simple - cbr13
+Pekoe -  - Cub - Female - Normal - 5/18 - bud - Elegant - Cute - cbr14
+Chester -  - Cub - Male - Lazy - 8/6 - rookie - Simple - Simple - cbr15
+Barold -  - Cub - Male - Lazy - 3/2 - cubby - Simple - Cool - cbr16
+Tammy -  - Cub - Female - Uchi - 6/23 - ya heard - Cool - Active - cbr17
+Judy -  - Cub - Female - Snooty - 3/10 - myohmy - Cute - Elegant - cbr19
+Goose -  - Chicken - Male - Jock - 10/4 - buh-kay - Simple - Active - chn00
+Benedict -  - Chicken - Male - Lazy - 10/10 - uh-hoo - Simple - Simple - chn01
+Egbert -  - Chicken - Male - Lazy - 10/14 - doodle-duh - Simple - Simple - chn02
+Ava -  - Chicken - Female - Normal - 4/28 - beaker - Elegant - Cute - chn05
+Becky -  - Chicken - Female - Snooty - 12/9 - chicklet - Gorgeous - Elegant - chn09
+Plucky -  - Chicken - Female - Uchi - 10/12 - chicky-poo - Cool - Simple - chn10
+Knox -  - Chicken - Male - Cranky - 11/23 - cluckling - Elegant - Gorgeous - chn11
+Broffina -  - Chicken - Female - Snooty - 10/24 - cluckadoo - Gorgeous - Elegant - chn12
+Ken -  - Chicken - Male - Smug - 12/23 - no doubt - Cool - Simple - chn13
+Patty -  - Cow - Female - Peppy - 5/10 - how-now - Simple - Cute - cow00
+Tipper -  - Cow - Female - Snooty - 8/25 - pushy - Gorgeous - Cute - cow01
+Norma -  - Cow - Female - Normal - 9/20 - hoof hoo - Cute - Simple - cow06
+Naomi -  - Cow - Female - Snooty - 2/28 - moolah - Elegant - Gorgeous - cow07
+Alfonso -  - Alligator - Male - Lazy - 6/9 - it'sa me - Simple - Simple - crd00
+Alli -  - Alligator - Female - Snooty - 11/8 - graaagh - Gorgeous - Elegant - crd01
+Boots -  - Alligator - Male - Jock - 8/7 - munchie - Gorgeous - Active - crd02
+Del -  - Alligator - Male - Cranky - 5/27 - gronk - Cool - Simple - crd04
+Sly -  - Alligator - Male - Jock - 11/15 - hoo-rah - Cool - Simple - crd06
+Gayle -  - Alligator - Female - Normal - 5/17 - snacky - Cute - Cute - crd07
+Drago -  - Alligator - Male - Lazy - 2/12 - burrrn - Elegant - Gorgeous - crd08
+Fauna -  - Deer - Female - Normal - 3/26 - dearie - Simple - Cute - der00
+Bam -  - Deer - Male - Jock - 11/7 - kablang - Active - Simple - der01
+Zell -  - Deer - Male - Smug - 6/7 - pronk - Cool - Gorgeous - der02
+Bruce -  - Deer - Male - Cranky - 5/26 - gruff - Cool - Simple - der03
+Deirdre -  - Deer - Female - Uchi - 5/4 - whatevs - Simple - Simple - der04
+Lopez -  - Deer - Male - Smug - 8/20 - badoom - Gorgeous - Gorgeous - der05
+Fuchsia -  - Deer - Female - Uchi - 9/19 - precious - Cool - Cool - der06
+Beau -  - Deer - Male - Lazy - 4/5 - saltlick - Simple - Cute - der07
+Diana -  - Deer - Female - Snooty - 1/4 - no doy - Elegant - Gorgeous - der08
+Erik -  - Deer - Male - Lazy - 7/27 - chow down - Simple - Simple - der09
+Goldie -  - Dog - Female - Normal - 12/27 - woof - Simple - Cute - dog00
+Butch -  - Dog - Male - Cranky - 11/1 - ROOOOOWF - Cool - Simple - dog01
+Lucky -  - Dog - Male - Lazy - 11/4 - rrr-owch - Simple - Simple - dog02
+Biskit -  - Dog - Male - Lazy - 5/13 - dawg - Gorgeous - Simple - dog03
+Bones -  - Dog - Male - Lazy - 8/4 - yip yip - Simple - Cute - dog04
+Portia -  - Dog - Female - Snooty - 10/25 - ruffian - Elegant - Gorgeous - dog05
+Walker -  - Dog - Male - Lazy - 6/10 - wuh - Simple - Simple - dog06
+Daisy -  - Dog - Female - Normal - 11/16 - bow-WOW - Simple - Cute - dog07
+Cookie -  - Dog - Female - Peppy - 6/18 - arfer - Cute - Cute - dog08
+Maddie -  - Dog - Female - Peppy - 1/11 - yippee - Simple - Cute - dog09
+Bea -  - Dog - Female - Normal - 10/15 - bingo - Simple - Cool - dog10
+Mac -  - Dog - Male - Jock - 11/11 - woo woof - Active - Cool - dog14
+Marcel -  - Dog - Male - Lazy - 12/31 - non - Simple - Cool - dog15
+Benjamin -  - Dog - Male - Lazy - 8/3 - alrighty - Simple - Simple - dog16
+Cherry -  - Dog - Female - Uchi - 5/11 - what what - Cool - Elegant - dog17
+Shep -  - Dog - Male - Smug - 11/24 - baa baa baa - Simple - Cool - dog18
+Bill -  - Duck - Male - Jock - 2/1 - quacko - Active - Active - duk00
+Joey -  - Duck - Male - Lazy - 1/3 - bleeeeeck - Simple - Simple - duk01
+Pate -  - Duck - Female - Peppy - 2/23 - quackle - Simple - Cute - duk02
+Maelle -  - Duck - Female - Snooty - 4/8 - duckling - Cool - Simple - duk03
+Deena -  - Duck - Female - Normal - 6/27 - woowoo - Simple - Cute - duk04
+Pompom -  - Duck - Female - Peppy - 2/11 - rah rah - Cute - Simple - duk05
+Mallary -  - Duck - Female - Snooty - 11/17 - quackpth - Cool - Gorgeous - duk06
+Freckles -  - Duck - Female - Peppy - 2/19 - ducky - Simple - Cute - duk07
+Derwin -  - Duck - Male - Lazy - 5/25 - derrrr - Simple - Elegant - duk08
+Drake -  - Duck - Male - Lazy - 6/25 - quacko - Cool - Simple - duk09
+Scoot -  - Duck - Male - Jock - 6/13 - zip zoom - Active - Simple - duk10
+Weber -  - Duck - Male - Lazy - 6/30 - quaa - Cool - Simple - duk11
+Miranda -  - Duck - Female - Snooty - 4/23 - quackulous - Elegant - Gorgeous - duk12
+Ketchup -  - Duck - Female - Peppy - 7/27 - bitty - Cute - Cute - duk13
+Gloria -  - Duck - Female - Snooty - 8/12 - quacker - Gorgeous - Elegant - duk15
+Molly -  - Duck - Female - Normal - 3/7 - quackidee - Cute - Simple - duk16
+Quillson -  - Duck - Male - Smug - 12/22 - ridukulous - Elegant - Cool - duk17
+Opal -  - Elephant - Female - Snooty - 1/20 - snoot - Elegant - Cool - elp00
+Dizzy -  - Elephant - Male - Lazy - 7/14 - woo-oo - Simple - Simple - elp01
+Big Top -  - Elephant - Male - Lazy - 10/3 - villain - Simple - Active - elp02
+Eloise -  - Elephant - Female - Snooty - 12/8 - tooooot - Elegant - Simple - elp03
+Margie -  - Elephant - Female - Normal - 1/28 - tootie - Elegant - Cute - elp04
+Paolo -  - Elephant - Male - Lazy - 5/5 - pal - Simple - Elegant - elp05
+Axel -  - Elephant - Male - Jock - 3/23 - WHONK - Active - Simple - elp06
+Ellie -  - Elephant - Female - Normal - 5/12 - li'l one - Simple - Cute - elp07
+Tucker -  - Elephant - Male - Lazy - 9/7 - fuzzers - Active - Simple - elp09
+Tia -  - Elephant - Female - Normal - 11/18 - teacup - Cute - Elegant - elp10
+Cyd -  - Elephant - Male - Cranky - 6/9 - rockin' - Cool - Active - elp12
+Lily -  - Frog - Female - Normal - 2/4 - toady - Cute - Simple - flg00
+Ribbot -  - Frog - Male - Jock - 2/13 - zzrrbbitt - Simple - Active - flg01
+Frobert -  - Frog - Male - Jock - 2/8 - fribbit - Active - Simple - flg02
+Camofrog -  - Frog - Male - Cranky - 6/5 - ten-hut - Cool - Active - flg03
+Drift -  - Frog - Male - Jock - 10/9 - dribbit - Simple - Active - flg04
+Wart Jr. -  - Frog - Male - Cranky - 8/21 - grr-ribbit - Simple - Simple - flg05
+Puddles -  - Frog - Female - Peppy - 1/13 - splish - Cute - Gorgeous - flg06
+Jeremiah -  - Frog - Male - Lazy - 7/8 - nee-deep - Simple - Simple - flg07
+Tad -  - Frog - Male - Jock - 8/3 - sluuuurp - Active - Simple - flg09
+Cousteau -  - Frog - Male - Jock - 12/17 - oui oui - Elegant - Gorgeous - flg10
+Huck -  - Frog - Male - Smug - 7/9 - hopper - Simple - Cool - flg11
+Prince -  - Frog - Male - Lazy - 7/21 - burrup - Simple - Active - flg12
+Jambette -  - Frog - Female - Normal - 10/27 - croak-kay - Cool - Cool - flg13
+Raddle -  - Frog - Male - Lazy - 6/6 - aaach— - Elegant - Simple - flg15
+Gigi -  - Frog - Female - Snooty - 8/11 - ribbette - Gorgeous - Elegant - flg16
+Croque -  - Frog - Male - Cranky - 7/18 - as if - Elegant - Cool - flg17
+Diva -  - Frog - Female - Uchi - 10/2 - ya know - Gorgeous - Elegant - flg18
+Henry -  - Frog - Male - Smug - 9/21 - snoozit - Cool - Simple - flg19
+Chevre -  - Goat - Female - Normal - 3/6 - la baa - Cute - Elegant - goa00
+Nan -  - Goat - Female - Normal - 8/24 - kid - Simple - Elegant - goa01
+Billy -  - Goat - Male - Jock - 3/25 - dagnaabit - Simple - Active - goa02
+Gruff -  - Goat - Male - Cranky - 8/29 - bleh eh eh - Cool - Gorgeous - goa04
+Velma -  - Goat - Female - Snooty - 1/14 - blih - Elegant - Gorgeous - goa06
+Kidd -  - Goat - Male - Smug - 6/28 - wut - Elegant - Cool - goa07
+Pashmina -  - Goat - Female - Uchi - 12/26 - kidders - Cool - Elegant - goa08
+Sherb -  - Goat - Male - Lazy - 1/18 - bawwww - Simple - Cute - goa09
+Cesar -  - Gorilla - Male - Cranky - 9/6 - highness - Cool - Elegant - gor00
+Peewee -  - Gorilla - Male - Cranky - 9/11 - li'l bitty baby - Active - Cool - gor01
+Boone -  - Gorilla - Male - Jock - 9/12 - baboom - Elegant - Cool - gor02
+Louie -  - Gorilla - Male - Jock - 3/26 - hoo hoo ha - Active - Simple - gor04
+Boyd -  - Gorilla - Male - Cranky - 10/1 - uh-oh - Simple - Cool - gor05
+Violet -  - Gorilla - Female - Snooty - 9/1 - sweetie - Gorgeous - Cool - gor07
+Al -  - Gorilla - Male - Lazy - 10/18 - ayyyeee - Active - Active - gor08
+Rocket -  - Gorilla - Female - Uchi - 4/14 - vroom - Active - Cool - gor09
+Hans -  - Gorilla - Male - Smug - 12/5 - groovy - Elegant - Gorgeous - gor10
+Hamlet -  - Hamster - Male - Jock - 5/30 - hammie - Simple - Active - ham00
+Apple -  - Hamster - Female - Peppy - 9/24 - cheekers - Cute - Simple - ham01
+Graham -  - Hamster - Male - Smug - 6/20 - indeed - Simple - Cool - ham02
+Rodney -  - Hamster - Male - Smug - 11/10 - le ham - Gorgeous - Cool - ham03
+Soleil -  - Hamster - Female - Snooty - 8/9 - tarnation - Cool - Gorgeous - ham04
+Clay -  - Hamster - Male - Lazy - 10/19 - thump - Elegant - Simple - ham05
+Flurry -  - Hamster - Female - Normal - 1/30 - powderpuff - Elegant - Cute - ham06
+Hamphrey -  - Hamster - Male - Cranky - 2/25 - snort - Cool - Simple - ham07
+Rocco -  - Hamster - Male - Cranky - 8/18 - hippie - Simple - Cool - hip00
+Bubbles -  - Hippo - Female - Peppy - 9/18 - hipster - Active - Cute - hip02
+Bertha -  - Hippo - Female - Normal - 4/25 - bloop - Cute - Elegant - hip03
+Biff -  - Hippo - Male - Jock - 3/29 - squirt - Gorgeous - Active - hip04
+Bitty -  - Hippo - Female - Snooty - 10/6 - my dear - Cute - Elegant - hip05
+Harry -  - Hippo - Male - Cranky - 1/7 - beach bum - Cool - Simple - hip08
+Hippeux -  - Hippo - Male - Smug - 10/15 - natch - Elegant - Gorgeous - hip09
+Buck -  - Horse - Male - Jock - 4/4 - pardner - Active - Simple - hrs00
+Victoria -  - Horse - Female - Peppy - 7/11 - sugar cube - Active - Simple - hrs01
+Savannah -  - Horse - Female - Normal - 1/25 - y'all - Cool - Simple - hrs02
+Elmer -  - Horse - Male - Lazy - 10/5 - tenderfoot - Simple - Cool - hrs03
+Roscoe -  - Horse - Male - Cranky - 6/16 - nay - Cool - Gorgeous - hrs04
+Winnie -  - Horse - Female - Peppy - 1/31 - hay-OK - Cool - Simple - hrs05
+Ed -  - Horse - Male - Smug - 9/16 - greenhorn - Gorgeous - Elegant - hrs06
+Cleo -  - Horse - Female - Snooty - 2/9 - sugar - Cute - Elegant - hrs07
+Peaches -  - Horse - Female - Normal - 11/28 - neighbor - Cute - Simple - hrs08
+Annalise -  - Horse - Female - Snooty - 12/2 - nipper - Elegant - Active - hrs09
+Clyde -  - Horse - Male - Lazy - 5/1 - clip clawp - Simple - Cute - hrs10
+Colton -  - Horse - Male - Smug - 5/22 - check it - Gorgeous - Elegant - hrs11
+Papi -  - Horse - Male - Lazy - 1/10 - haaay - Simple - Simple - hrs12
+Julian -  - Horse - Male - Smug - 3/15 - glitter - Gorgeous - Cool - hrs13
+Reneigh -  - Horse - Female - Uchi - 6/4 - ayup yup - Cool - Gorgeous - hrs16
+Yuka -  - Koala - Female - Snooty - 7/20 - tsk tsk - Cool - Elegant - kal00
+Alice -  - Koala - Female - Normal - 8/19 - guvnor - Cute - Cute - kal01
+Melba -  - Koala - Female - Normal - 4/12 - toasty - Cute - Cute - kal02
+Sydney -  - Koala - Female - Normal - 6/21 - sunshine - Cute - Simple - kal03
+Gonzo -  - Koala - Male - Cranky - 10/13 - mate - Simple - Cool - kal04
+Ozzie -  - Koala - Male - Lazy - 5/7 - ol' bear - Simple - Cute - kal05
+Canberra -  - Koala - Female - Uchi - 5/14 - nuh uh - Active - Cool - kal08
+Lyman -  - Koala - Male - Jock - 10/12 - chips - Simple - Active - kal09
+Eugene -  - Koala - Male - Smug - 10/26 - yeah buddy - Cool - Gorgeous - kal10
+Kitt -  - Kangaroo - Female - Normal - 10/11 - child - Elegant - Simple - kgr00
+Mathilda -  - Kangaroo - Female - Snooty - 11/12 - wee baby - Cool - Gorgeous - kgr01
+Carrie -  - Kangaroo - Female - Normal - 12/5 - little one - Cute - Cute - kgr02
+Astrid -  - Kangaroo - Female - Snooty - 9/8 - my pet - Cool - Active - kgr05
+Sylvia -  - Kangaroo - Female - Uchi - 5/3 - boing - Simple - Gorgeous - kgr06
+Walt -  - Kangaroo - Male - Cranky - 4/24 - pockets - Cool - Cool - kgr08
+Rooney -  - Kangaroo - Male - Cranky - 12/1 - punches - Active - Active - kgr09
+Marcie -  - Kangaroo - Female - Normal - 5/31 - pouches - Cute - Elegant - kgr10
+Bud -  - Lion - Male - Jock - 8/8 - shredded - Active - Simple - lon00
+Elvis -  - Lion - Male - Cranky - 7/23 - unh-hunh - Gorgeous - Elegant - lon01
+Rex -  - Lion - Male - Lazy - 7/24 - cool cat - Simple - Cute - lon02
+Leopold -  - Lion - Male - Smug - 8/14 - lion cub - Elegant - Gorgeous - lon04
+Mott -  - Lion - Male - Jock - 7/10 - cagey - Active - Elegant - lon06
+Rory -  - Lion - Male - Jock - 8/7 - capital - Simple - Active - lon07
+Lionel -  - Lion - Male - Smug - 7/29 - precisely - Gorgeous - Active - lon08
+Nana -  - Monkey - Female - Normal - 8/23 - po po - Cute - Cute - mnk01
+Simon -  - Monkey - Male - Lazy - 1/19 - zzzook - Simple - Active - mnk02
+Tammi -  - Monkey - Female - Peppy - 4/2 - chimpy - Cute - Active - mnk03
+Monty -  - Monkey - Male - Cranky - 12/7 - g'tang - Cool - Cool - mnk04
+Elise -  - Monkey - Female - Snooty - 3/21 - puh-lease - Elegant - Gorgeous - mnk05
+Flip -  - Monkey - Male - Jock - 11/21 - rerack - Active - Simple - mnk06
+Shari -  - Monkey - Female - Uchi - 4/10 - cheeky - Cute - Active - mnk07
+Deli -  - Monkey - Male - Lazy - 5/24 - monch - Gorgeous - Elegant - mnk08
+Dora -  - Mouse - Female - Normal - 2/18 - squeaky - Simple - Elegant - mus00
+Limberg -  - Mouse - Male - Cranky - 10/17 - squinky - Simple - Cool - mus01
+Bella -  - Mouse - Female - Peppy - 12/28 - eeks - Cool - Active - mus02
+Bree -  - Mouse - Female - Snooty - 7/7 - cheeseball - Elegant - Gorgeous - mus03
+Samson -  - Mouse - Male - Jock - 7/5 - pipsqueak - Simple - Active - mus04
+Rod -  - Mouse - Male - Jock - 8/14 - ace - Active - Cool - mus05
+Candi -  - Mouse - Female - Peppy - 4/13 - sweetie - Simple - Cute - mus08
+Rizzo -  - Mouse - Male - Cranky - 1/17 - squee - Simple - Cool - mus09
+Anicotti -  - Mouse - Female - Peppy - 2/24 - cannoli - Simple - Elegant - mus10
+Broccolo -  - Mouse - Male - Lazy - 6/30 - eat it - Simple - Cute - mus12
+Moose -  - Mouse - Male - Jock - 9/13 - shorty - Cool - Gorgeous - mus14
+Bettina -  - Mouse - Female - Normal - 6/12 - eekers - Simple - Elegant - mus15
+Greta -  - Mouse - Female - Snooty - 9/5 - yelp - Elegant - Simple - mus16
+Penelope -  - Mouse - Female - Peppy - 2/5 - oh bow - Cute - Gorgeous - mus17
+Chadder -  - Mouse - Male - Smug - 12/15 - fromage - Elegant - Gorgeous - mus18
+Octavian -  - Octopus - Male - Cranky - 9/20 - sucker - Cool - Simple - ocp00
+Marina -  - Octopus - Female - Normal - 6/26 - blurp - Cute - Cute - ocp01
+Zucker -  - Octopus - Male - Lazy - 3/8 - bloop - Simple - Cute - ocp02
+Queenie -  - Ostrich - Female - Snooty - 11/13 - chicken - Gorgeous - Elegant - ost00
+Gladys -  - Ostrich - Female - Normal - 1/15 - stretch - Elegant - Cute - ost01
+Sandy -  - Ostrich - Female - Normal - 10/21 - speedy - Simple - Cool - ost02
+Sprocket -  - Ostrich - Male - Jock - 12/1 - zort - Simple - Active - ost03
+Julia -  - Ostrich - Female - Snooty - 7/31 - dahling - Elegant - Gorgeous - ost05
+Cranston -  - Ostrich - Male - Lazy - 9/23 - sweatband - Simple - Cool - ost06
+Phil -  - Ostrich - Male - Smug - 11/27 - hurk - Elegant - Cool - ost07
+Blanche -  - Ostrich - Female - Snooty - 12/21 - quite so - Elegant - Gorgeous - ost08
+Flora -  - Ostrich - Female - Peppy - 2/9 - pinky - Cute - Active - ost09
+Phoebe -  - Ostrich - Female - Uchi - 4/22 - sparky - Gorgeous - Cool - ost10
+Apollo -  - Eagle - Male - Cranky - 7/4 - pah - Cool - Simple - pbr00
+Amelia -  - Eagle - Female - Snooty - 11/19 - cuz - Cool - Elegant - pbr01
+Pierce -  - Eagle - Male - Jock - 1/8 - hawkeye - Elegant - Active - pbr02
+Buzz -  - Eagle - Male - Cranky - 12/7 - captain - Simple - Active - pbr03
+Avery -  - Eagle - Male - Cranky - 2/22 - skree-haw - Simple - Gorgeous - pbr05
+Frank -  - Eagle - Male - Cranky - 7/30 - crushy - Gorgeous - Cool - pbr06
+Sterling -  - Eagle - Male - Jock - 12/11 - skraaaaw - Simple - Elegant - pbr07
+Keaton -  - Eagle - Male - Smug - 6/1 - wingo - Gorgeous - Cool - pbr08
+Celia -  - Eagle - Female - Normal - 3/25 - feathers - Elegant - Cute - pbr09
+Aurora -  - Penguin - Female - Normal - 1/27 - b-b-baby - Cute - Elegant - pgn00
+Roald -  - Penguin - Male - Jock - 1/5 - b-b-buddy - Active - Simple - pgn01
+Cube -  - Penguin - Male - Lazy - 1/29 - brainfreeze - Simple - Cute - pgn02
+Hopper -  - Penguin - Male - Cranky - 4/6 - slushie - Cool - Simple - pgn03
+Friga -  - Penguin - Female - Snooty - 10/16 - brrrmph - Elegant - Gorgeous - pgn04
+Gwen -  - Penguin - Female - Snooty - 1/23 - h-h-h-hon - Gorgeous - Elegant - pgn05
+Puck -  - Penguin - Male - Lazy - 2/21 - brrrrrrrrr - Active - Simple - pgn06
+Wade -  - Penguin - Male - Lazy - 10/30 - so it goes - Simple - Gorgeous - pgn09
+Boomer -  - Penguin - Male - Lazy - 2/7 - human - Simple - Cool - pgn10
+Iggly -  - Penguin - Male - Jock - 11/2 - waddler - Active - Simple - pgn11
+Tex -  - Penguin - Male - Smug - 10/6 - picante - Cool - Elegant - pgn12
+Flo -  - Penguin - Female - Uchi - 9/2 - cha - Cool - Gorgeous - pgn13
+Sprinkle -  - Penguin - Female - Peppy - 2/20 - frappe - Cute - Elegant - pgn14
+Curly -  - Penguin - Male - Jock - 7/26 - nyoink - Simple - Active - pig00
+Truffles -  - Pig - Female - Peppy - 7/28 - snoutie - Cute - Gorgeous - pig01
+Rasher -  - Pig - Male - Cranky - 4/7 - swine - Cool - Simple - pig02
+Hugh -  - Pig - Male - Lazy - 12/30 - snortle - Simple - Active - pig03
+Lucy -  - Pig - Female - Normal - 6/2 - snoooink - Cute - Elegant - pig04
+Crackle -  - Pig - Male - Lazy - 9/3 - snork - Simple - Active - pig05
+Cobb -  - Pig - Male - Jock - 10/7 - hot dog - Simple - Active - pig08
+Boris -  - Pig - Male - Cranky - 11/6 - schnort - Cool - Gorgeous - pig09
+Maggie -  - Pig - Female - Normal - 9/3 - schep - Cute - Elegant - pig10
+Peggy -  - Pig - Female - Peppy - 5/23 - shweetie - Cute - Active - pig11
+Gala -  - Pig - Female - Normal - 3/5 - snortie - Cute - Elegant - pig13
+Chops -  - Pig - Male - Smug - 10/13 - zoink - Gorgeous - Elegant - pig14
+Kevin -  - Pig - Male - Jock - 4/26 - weeweewee - Active - Simple - pig15
+Pancetti -  - Pig - Female - Snooty - 11/14 - sooey - Cute - Gorgeous - pig16
+Agnes -  - Pig - Female - Uchi - 4/21 - snuffle - Simple - Elegant - pig17
+Bunnie -  - Rabbit - Female - Peppy - 5/9 - tee-hee - Cute - Cute - rbt00
+Dotty -  - Rabbit - Female - Peppy - 3/14 - wee one - Simple - Cute - rbt01
+Coco -  - Rabbit - Female - Normal - 3/1 - doyoing - Simple - Cute - rbt02
+Snake -  - Rabbit - Male - Jock - 11/3 - bunyip - Active - Simple - rbt03
+Gaston -  - Rabbit - Male - Cranky - 10/28 - mon chou - Simple - Gorgeous - rbt04
+Gabi -  - Rabbit - Female - Peppy - 12/16 - honeybun - Cute - Gorgeous - rbt05
+Pippy -  - Rabbit - Female - Peppy - 6/14 - li'l hare - Cute - Simple - rbt06
+Tiffany -  - Rabbit - Female - Snooty - 1/9 - bunbun - Gorgeous - Cool - rbt07
+Genji -  - Rabbit - Male - Jock - 1/21 - otaku - Elegant - Simple - rbt08
+Ruby -  - Rabbit - Female - Peppy - 12/25 - li'l ears - Cute - Active - rbt09
+Doc -  - Rabbit - Male - Lazy - 3/16 - old bunny - Simple - Elegant - rbt10
+Claude -  - Rabbit - Male - Lazy - 12/3 - hopalong - Simple - Simple - rbt11
+Francine -  - Rabbit - Female - Snooty - 1/22 - karat - Elegant - Gorgeous - rbt12
+Chrissy -  - Rabbit - Female - Peppy - 8/28 - sparkles - Cute - Cute - rbt13
+Hopkins -  - Rabbit - Male - Lazy - 3/11 - thumper - Simple - Active - rbt14
+O'Hare -  - Rabbit - Male - Smug - 7/24 - amigo - Active - Cool - rbt15
+Carmen -  - Rabbit - Female - Peppy - 1/6 - nougat - Elegant - Cute - rbt16
+Bonbon -  - Rabbit - Female - Peppy - 3/3 - deelish - Cute - Elegant - rbt17
+Cole -  - Rabbit - Male - Lazy - 8/10 - coooooool - Simple - Cute - rbt18
+Mira -  - Rabbit - Female - Uchi - 7/6 - cottontail - Active - Cool - rbt19
+Tank -  - Rhino - Male - Jock - 5/6 - kerPOW - Active - Simple - rhn00
+Rhonda -  - Rhino - Female - Normal - 1/24 - bigfoot - Elegant - Gorgeous - rhn01
+Spike -  - Rhino - Male - Cranky - 6/17 - punk - Cool - Gorgeous - rhn02
+Hornsby -  - Rhino - Male - Lazy - 3/20 - schnozzle - Simple - Simple - rhn04
+Merengue -  - Rhino - Female - Normal - 3/19 - shortcake - Cute - Simple - rhn07
+Renée -  - Rhino - Female - Uchi - 5/28 - yo yo yo - Cool - Active - rhn08
+Vesta -  - Sheep - Female - Normal - 4/16 - baaaffo - Simple - Cute - shp00
+Baabara -  - Sheep - Female - Snooty - 3/28 - daahling - Gorgeous - Elegant - shp01
+Eunice -  - Sheep - Female - Normal - 4/3 - lambchop - Simple - Elegant - shp02
+Stella -  - Sheep - Female - Normal - 4/9 - baa-dabing - Simple - Simple - shp03
+Cashmere -  - Sheep - Female - Snooty - 4/2 - baaaby - Gorgeous - Elegant - shp04
+Willow -  - Sheep - Female - Snooty - 11/26 - bo peep - Cute - Gorgeous - shp07
+Curlos -  - Sheep - Male - Smug - 5/8 - shearly - Active - Gorgeous - shp08
+Wendy -  - Sheep - Female - Peppy - 8/15 - lambkins - Cool - Gorgeous - shp09
+Timbra -  - Sheep - Female - Snooty - 10/21 - pine nut - Elegant - Gorgeous - shp10
+Frita -  - Sheep - Female - Uchi - 7/16 - oh ewe - Active - Cute - shp11
+Muffy -  - Sheep - Female - Uchi - 2/14 - nightshade - Gorgeous - Elegant - shp12
+Pietro -  - Sheep - Male - Smug - 4/19 - honk honk - Gorgeous - Simple - shp13
+Dom -  - Sheep - Male - Jock - 3/18 - indeedaroo - Active - Cute - shp15
+Peanut -  - Squirrel - Female - Peppy - 6/8 - slacker - Cute - Cute - squ00
+Blaire -  - Squirrel - Female - Snooty - 7/3 - nutlet - Gorgeous - Elegant - squ01
+Filbert -  - Squirrel - Male - Lazy - 6/3 - bucko - Simple - Cute - squ02
+Pecan -  - Squirrel - Female - Snooty - 9/10 - chipmunk - Elegant - Gorgeous - squ03
+Nibbles -  - Squirrel - Female - Peppy - 7/19 - niblet - Cute - Active - squ04
+Agent S -  - Squirrel - Female - Peppy - 7/2 - sidekick - Active - Simple - squ05
+Caroline -  - Squirrel - Female - Normal - 7/15 - hulaaaa - Cute - Gorgeous - squ06
+Sally -  - Squirrel - Female - Normal - 6/19 - nutmeg - Simple - Elegant - squ07
+Static -  - Squirrel - Male - Cranky - 7/9 - krzzt - Cool - Active - squ08
+Mint -  - Squirrel - Female - Snooty - 5/2 - ahhhhhh - Gorgeous - Cute - squ09
+Ricky -  - Squirrel - Male - Cranky - 9/14 - nutcase - Cool - Simple - squ10
+Cally -  - Squirrel - Female - Normal - 9/4 - WHEE - Cute - Elegant - squ11
+Tasha -  - Squirrel - Female - Snooty - 11/30 - nice nice - Elegant - Gorgeous - squ13
+Sylvana -  - Squirrel - Female - Normal - 10/22 - hubbub - Cute - Simple - squ14
+Poppy -  - Squirrel - Female - Normal - 8/5 - nutty - Cute - Elegant - squ15
+Sheldon -  - Squirrel - Male - Jock - 2/26 - cardio - Active - Cool - squ16
+Marshal -  - Squirrel - Male - Smug - 9/29 - sulky - Elegant - Cool - squ17
+Hazel -  - Squirrel - Female - Uchi - 8/30 - uni-wow - Active - Cute - squ18
+Rolf -  - Tiger - Male - Cranky - 8/22 - grrrolf - Cool - Active - tig00
+Rowan -  - Tiger - Male - Jock - 8/26 - mango - Active - Simple - tig01
+Tybalt -  - Tiger - Male - Jock - 8/19 - grrrRAH - Active - Simple - tig02
+Bangle -  - Tiger - Female - Peppy - 8/27 - growf - Gorgeous - Cute - tig03
+Leonardo -  - Tiger - Male - Jock - 5/15 - flexin' - Active - Gorgeous - tig04
+Claudia -  - Tiger - Female - Snooty - 11/22 - ooh la la - Gorgeous - Elegant - tig05
+Bianca -  - Tiger - Female - Peppy - 12/13 - glimmer - Cute - Cute - tig06
+Chief -  - Wolf - Male - Cranky - 12/19 - harrumph - Cool - Simple - wol00
+Lobo -  - Wolf - Male - Cranky - 11/5 - ah-rooooo - Cool - Active - wol01
+Wolfgang -  - Wolf - Male - Cranky - 11/25 - snarrrl - Cool - Active - wol02
+Whitney -  - Wolf - Female - Snooty - 9/17 - snappy - Elegant - Cool - wol03
+Dobie -  - Wolf - Male - Cranky - 2/17 - ohmmm - Simple - Cool - wol04
+Freya -  - Wolf - Female - Snooty - 12/14 - uff da - Elegant - Cool - wol05
+Fang -  - Wolf - Male - Cranky - 12/18 - cha-chomp - Simple - Cool - wol06
+Vivian -  - Wolf - Female - Snooty - 1/26 - piffle - Gorgeous - Elegant - wol08
+Skye -  - Wolf - Female - Normal - 3/24 - airmail - Cute - Cute - wol09
+Kyle -  - Wolf - Male - Smug - 12/6 - alpha - Gorgeous - Cool - wol10
+Audie -  - Wolf - Female - Peppy - 8/31 - foxtrot - Cute - Active - wol12

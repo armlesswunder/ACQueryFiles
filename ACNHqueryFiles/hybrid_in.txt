@@ -1,0 +1,30 @@
+black-cosmos plant -  - NFS - 240 - Red/red cosmos
+black-lily plant -  - NFS - 80 - Red/red lilies
+black-rose plant -  - NFS - 240 - Red/red roses
+black-tulip plant -  - NFS - 80 - Red/red tulips
+blue-hyacinth plant -  - NFS - 80 - White/white hyacinths
+blue-pansy plant -  - NFS - 80 - White/white pansies
+blue-rose plant -  - NFS - 1000 - Orange/orange roses
+blue-windflower plant -  - NFS - 80 - White/white windflowers or Orange/white windflowers
+gold-rose plant -  - NFS - 1000 - Black/black roses Water with gold watering can
+green-mum plant -  - NFS - 240 - Purple/purple mums
+lily-of-the-valley plant -  - NFS - 222 - 5-star town status
+orange-cosmos plant -  - NFS - 80 - Red/yellow cosmos
+orange-hyacinth plant -  - NFS - 80 - Red/yellow hyacinths
+orange-lily plant -  - NFS - 80 - Red/yellow lilies
+orange-pansy plant -  - NFS - 80 - Red/yellow pansies
+orange-rose plant -  - NFS - 80 - Red/yellow roses
+orange-tulip plant -  - NFS - 80 - Red/yellow tulips
+pink-cosmos plant -  - NFS - 80 - Red/white cosmos
+pink-hyacinth plant -  - NFS - 80 - Red/white hyacinths
+pink-lily plant -  - NFS - 80 - Red/white lilies
+pink-mum plant -  - NFS - 80 - Red/white mums
+pink-rose plant -  - NFS - 80 - Red/white roses
+pink-tulip plant -  - NFS - 80 - Red/white tulips
+pink-windflower plant -  - NFS - 80 - Red/orange windflowers
+purple-hyacinth plant -  - NFS - 240 - Blue/blue hyacinths
+purple-mum plant -  - NFS - 80 - White/white mums
+purple-pansy plant -  - NFS - 240 - Blue/blue pansies
+purple-rose plant -  - NFS - 240 - White/white roses
+purple-tulip plant -  - NFS - 240 - Orange/orange tulips
+purple-windflower plant -  - NFS - 240 - Blue/blue windflowers or Blue/pink windflowers

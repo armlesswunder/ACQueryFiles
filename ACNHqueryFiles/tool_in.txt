@@ -1,0 +1,124 @@
+axe -  - No - Y - N -  - 2500 - 625 - 2100 -  - 1x1 -  - Nook's Cranny, Crafting - 
+bamboo wand -  - No - Y - N - Unlimited - NFS - 3900 - 7590 -  - 1x1 -  - Crafting - Spring seasonal DIY using bamboo (from bamboo trees)
+bug wand -  - No - N - N - Unlimited - NFS - 1500 - 8769 -  - 1x1 -  - Bug-Off - 
+Bunny Day wand -  - No - Y - N - Unlimited - NFS -  -  -  - 1x1 -  - Crafting - 
+cherry-blossom wand -  - No - Y - N - Unlimited - NFS - 2700 - 7589 -  - 1x1 -  - Crafting - 
+colorful fishing rod -  - Yes - N - N -  - 2500 - 625 - 8472 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful net -  - Yes - N - N -  - 2500 - 625 - 8177 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful shovel -  - Yes - N - N -  - 2500 - 625 - 8577 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful slingshot -  - Yes - N - N -  - 2500 - 625 - 8580 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful watering can -  - Yes - N - N -  - 2500 - 625 - 8534 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+cosmos wand -  - No - Y - N - Unlimited - NFS - 1580 - 5092 -  - 1x1 -  - Crafting - 
+elephant watering can -  - Yes - N - N -  - 2500 - 625 - 8535 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+fish fishing rod -  - Yes - N - N -  - 2500 - 625 - 8471 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+fish wand -  - No - N - N - Unlimited - NFS - 1500 - 8770 -  - 1x1 -  - Fishing Tourney - 
+fishing rod -  - Yes - Y - Y - 30 - NFS - 600 - 2377 -  - 1x1 - 1 - Crafting - 
+flimsy axe -  - No - Y - N - 40 - 800 - 200 - 3068 -  - 1x1 -  - Nook's Cranny, Crafting - Available after unlocking the axe in the story
+flimsy fishing rod -  - No - Y - N - 10 - NFS - 100 - 3084 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+flimsy net -  - No - Y - N - 10 - NFS - 100 - 2376 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+flimsy shovel -  - No - Y - N - 40 - 800 - 200 - 3082 -  - 1x1 -  - Nook's Cranny, Crafting - Available after unlocking the shovel in the story
+flimsy watering can -  - No - Y - N -  - 800 - 200 - 3083 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+golden axe -  - No - Y - N -  - NFS - 10655 - 9617 -  - 1x1 -  - Crafting - 
+golden net -  - No - Y - N -  - NFS - 10400 - 8179 -  - 1x1 -  - Crafting - 
+golden rod -  - No - Y - N -  - NFS - 10400 - 8660 -  - 1x1 -  - Crafting - 
+golden shovel -  - No - Y - N -  - NFS - 10675 - 8574 -  - 1x1 -  - Crafting - 
+golden slingshot -  - No - Y - N -  - NFS - 10300 - 8578 -  - 1x1 -  - Crafting - 
+golden wand -  - No - Y - N -  - NFS - 20750 - 7591 -  - 1x1 -  - Crafting - 
+golden watering can -  - No - Y - N -  - NFS - 10675 - 8533 -  - 1x1 -  - Crafting - 
+hyacinth wand -  - No - Y - N - Unlimited - NFS - 1660 - 5083 -  - 1x1 -  - Crafting - 
+ice wand -  - No - Y - N - Unlimited - NFS - 6500 - 7585 -  - 1x1 -  - Crafting - 
+iron wand -  - No - Y - N - Unlimited - NFS - 3750 - 7592 -  - 1x1 -  - Crafting - 
+ladder -  - No - Y - N - Unlimited - NFS - 1440 - 2615 -  - 1x1 -  - Crafting - 
+light stick -  - No -  - N - Unlimited - 1500 - 375 - 5741 -  - 1x1 -  - Crafting - 
+lily wand -  - No - Y - N - Unlimited - NFS - 1580 - 5094 -  - 1x1 -  - Crafting - 
+mums wand -  - No - Y - N - Unlimited - NFS - 1580 - 5095 -  - 1x1 -  - Crafting - 
+mushroom wand -  - Yes - Y - Y - Unlimited - NFS - 3300 - 7588 -  - 1x1 - 1 - Crafting - 
+net -  - Yes - Y - Y - 30 - 2400 - 600 - 5784 -  - 1x1 - 1 - Crafting - 
+Nook Inc. uchiwa fan -  - No - N - N - Unlimited - 8000 - 2000 - 9762 -  - 1x1 -  - Nook Miles Shop - 
+ocarina -  - No - Y - N - Unlimited - NFS - 1000 - 5320 -  - 1x1 -  - Crafting - 
+outdoorsy fishing rod -  - Yes - N - N - 30 - 2500 - 625 - 8473 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy net -  - Yes - N - N - 30 - 2500 - 625 - 8178 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy shovel -  - Yes - N - N -  - 2500 - 625 - 8575 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy slingshot -  - Yes - N - N -  - 2500 - 625 - 8579 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy watering can -  - Yes - N - N -  - 2500 - 625 - 8536 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+pan flute -  - No - Y - N - Unlimited - NFS - 2800 - 5517 -  - 1x1 -  - Crafting - Spring seasonal DIY using bamboo (from bamboo trees)
+pansy wand -  - No - Y - N - Unlimited - NFS - 1580 - 5091 -  - 1x1 -  - Crafting - 
+party popper -  - No - N - N - 1 - 100 - 25 - 2753 -  - 1x1 -  - Nook's Cranny - Only available close to new year holiday
+printed-design shovel -  - Yes - N - N -  - 2500 - 625 - 8576 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+rose wand -  - No - Y - N - Unlimited - NFS - 1580 - 5093 -  - 1x1 -  - Crafting - 
+shell wand -  - No - Y - N - Unlimited - NFS - 5100 - 7586 -  - 1x1 -  - Crafting - 
+shovel -  - Yes - Y - Y -  - 2400 - 600 - 2099 -  - 1x1 - 1 - Crafting - 
+slingshot -  - Yes - Y - Y -  - 900 - 225 - 2822 -  - 1x1 - 1 - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+star net -  - Yes -  - N -  - 2500 - 625 - 8176 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+star wand -  - No - Y - N - Unlimited - NFS - 6500 - 2544 -  - 1x1 -  - Crafting - 
+stone axe -  - No - Y - N - 100 - NFS - 560 - 5856 -  - 1x1 -  - Crafting - 
+tambourine -  - No - N - N - Unlimited - 1500 - 375 - 5430 -  - 1x1 -  - Nook's Cranny - Available in the re-buyable slot in Nook's Cranny
+timer -  - No - N - N - Unlimited - 840 - 210 - 3331 -  - 1x1 -  - Nook's Cranny - 
+tree-branch wand -  - No - Y - N - Unlimited - NFS - 1550 - 7587 -  - 1x1 -  - Crafting - 
+tulip wand -  - No - Y - N - Unlimited - NFS - 1580 - 5085 -  - 1x1 -  - Crafting - 
+vaulting pole -  - No - Y - N - Unlimited - NFS - 600 - 4703 -  - 1x1 -  - Crafting - 
+wand -  - No - Y - N - Unlimited - NFS - 1000 - 7584 -  - 1x1 -  - Crafting - 
+watering can -  - Yes - Y - Y -  - 2400 - 600 - 2379 -  - 1x1 - 1 - Crafting - 
+windflower wand -  - No - Y - N - Unlimited - NFS - 1580 - 5084 -  - 1x1 -  - Crafting - 
+axe -  - No - Y - N -  - 2500 - 625 - 2100 -  - 1x1 -  - Nook's Cranny, Crafting - 
+bamboo wand -  - No - Y - N - Unlimited - NFS - 3900 - 7590 -  - 1x1 -  - Crafting - Spring seasonal DIY using bamboo (from bamboo trees)
+bug wand -  - No - N - N - Unlimited - NFS - 1500 - 8769 -  - 1x1 -  - Bug-Off - 
+Bunny Day wand -  - No - Y - N - Unlimited - NFS -  -  -  - 1x1 -  - Crafting - 
+cherry-blossom wand -  - No - Y - N - Unlimited - NFS - 2700 - 7589 -  - 1x1 -  - Crafting - 
+colorful fishing rod -  - Yes - N - N -  - 2500 - 625 - 8472 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful net -  - Yes - N - N -  - 2500 - 625 - 8177 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful shovel -  - Yes - N - N -  - 2500 - 625 - 8577 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful slingshot -  - Yes - N - N -  - 2500 - 625 - 8580 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+colorful watering can -  - Yes - N - N -  - 2500 - 625 - 8534 - Colorful Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+cosmos wand -  - No - Y - N - Unlimited - NFS - 1580 - 5092 -  - 1x1 -  - Crafting - 
+elephant watering can -  - Yes - N - N -  - 2500 - 625 - 8535 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+fish fishing rod -  - Yes - N - N -  - 2500 - 625 - 8471 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+fish wand -  - No - N - N - Unlimited - NFS - 1500 - 8770 -  - 1x1 -  - Fishing Tourney - 
+fishing rod -  - Yes - Y - Y - 30 - NFS - 600 - 2377 -  - 1x1 - 1 - Crafting - 
+flimsy axe -  - No - Y - N - 40 - 800 - 200 - 3068 -  - 1x1 -  - Nook's Cranny, Crafting - Available after unlocking the axe in the story
+flimsy fishing rod -  - No - Y - N - 10 - NFS - 100 - 3084 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+flimsy net -  - No - Y - N - 10 - NFS - 100 - 2376 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+flimsy shovel -  - No - Y - N - 40 - 800 - 200 - 3082 -  - 1x1 -  - Nook's Cranny, Crafting - Available after unlocking the shovel in the story
+flimsy watering can -  - No - Y - N -  - 800 - 200 - 3083 -  - 1x1 -  - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+golden axe -  - No - Y - N -  - NFS - 10655 - 9617 -  - 1x1 -  - Crafting - 
+golden net -  - No - Y - N -  - NFS - 10400 - 8179 -  - 1x1 -  - Crafting - 
+golden rod -  - No - Y - N -  - NFS - 10400 - 8660 -  - 1x1 -  - Crafting - 
+golden shovel -  - No - Y - N -  - NFS - 10675 - 8574 -  - 1x1 -  - Crafting - 
+golden slingshot -  - No - Y - N -  - NFS - 10300 - 8578 -  - 1x1 -  - Crafting - 
+golden wand -  - No - Y - N -  - NFS - 20750 - 7591 -  - 1x1 -  - Crafting - 
+golden watering can -  - No - Y - N -  - NFS - 10675 - 8533 -  - 1x1 -  - Crafting - 
+hyacinth wand -  - No - Y - N - Unlimited - NFS - 1660 - 5083 -  - 1x1 -  - Crafting - 
+ice wand -  - No - Y - N - Unlimited - NFS - 6500 - 7585 -  - 1x1 -  - Crafting - 
+iron wand -  - No - Y - N - Unlimited - NFS - 3750 - 7592 -  - 1x1 -  - Crafting - 
+ladder -  - No - Y - N - Unlimited - NFS - 1440 - 2615 -  - 1x1 -  - Crafting - 
+light stick -  - No -  - N - Unlimited - 1500 - 375 - 5741 -  - 1x1 -  - Crafting - 
+lily wand -  - No - Y - N - Unlimited - NFS - 1580 - 5094 -  - 1x1 -  - Crafting - 
+mums wand -  - No - Y - N - Unlimited - NFS - 1580 - 5095 -  - 1x1 -  - Crafting - 
+mushroom wand -  - Yes - Y - Y - Unlimited - NFS - 3300 - 7588 -  - 1x1 - 1 - Crafting - 
+net -  - Yes - Y - Y - 30 - 2400 - 600 - 5784 -  - 1x1 - 1 - Crafting - 
+Nook Inc. uchiwa fan -  - No - N - N - Unlimited - 8000 - 2000 - 9762 -  - 1x1 -  - Nook Miles Shop - 
+ocarina -  - No - Y - N - Unlimited - NFS - 1000 - 5320 -  - 1x1 -  - Crafting - 
+outdoorsy fishing rod -  - Yes - N - N - 30 - 2500 - 625 - 8473 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy net -  - Yes - N - N - 30 - 2500 - 625 - 8178 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy shovel -  - Yes - N - N -  - 2500 - 625 - 8575 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy slingshot -  - Yes - N - N -  - 2500 - 625 - 8579 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+outdoorsy watering can -  - Yes - N - N -  - 2500 - 625 - 8536 - Outdoor Tools - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+pan flute -  - No - Y - N - Unlimited - NFS - 2800 - 5517 -  - 1x1 -  - Crafting - Spring seasonal DIY using bamboo (from bamboo trees)
+pansy wand -  - No - Y - N - Unlimited - NFS - 1580 - 5091 -  - 1x1 -  - Crafting - 
+party popper -  - No - N - N - 1 - 100 - 25 - 2753 -  - 1x1 -  - Nook's Cranny - Only available close to new year holiday
+printed-design shovel -  - Yes - N - N -  - 2500 - 625 - 8576 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+rose wand -  - No - Y - N - Unlimited - NFS - 1580 - 5093 -  - 1x1 -  - Crafting - 
+shell wand -  - No - Y - N - Unlimited - NFS - 5100 - 7586 -  - 1x1 -  - Crafting - 
+shovel -  - Yes - Y - Y -  - 2400 - 600 - 2099 -  - 1x1 - 1 - Crafting - 
+slingshot -  - Yes - Y - Y -  - 900 - 225 - 2822 -  - 1x1 - 1 - Nook's Cranny, Crafting - Available in all tiers of shops, including Timmy & Tommy before the shop is opened
+star net -  - Yes -  - N -  - 2500 - 625 - 8176 -  - 1x1 - 1 - Nook's Cranny - Available in Nook's Cranny (upgraded only)
+star wand -  - No - Y - N - Unlimited - NFS - 6500 - 2544 -  - 1x1 -  - Crafting - 
+stone axe -  - No - Y - N - 100 - NFS - 560 - 5856 -  - 1x1 -  - Crafting - 
+tambourine -  - No - N - N - Unlimited - 1500 - 375 - 5430 -  - 1x1 -  - Nook's Cranny - Available in the re-buyable slot in Nook's Cranny
+timer -  - No - N - N - Unlimited - 840 - 210 - 3331 -  - 1x1 -  - Nook's Cranny - 
+tree-branch wand -  - No - Y - N - Unlimited - NFS - 1550 - 7587 -  - 1x1 -  - Crafting - 
+tulip wand -  - No - Y - N - Unlimited - NFS - 1580 - 5085 -  - 1x1 -  - Crafting - 
+vaulting pole -  - No - Y - N - Unlimited - NFS - 600 - 4703 -  - 1x1 -  - Crafting - 
+wand -  - No - Y - N - Unlimited - NFS - 1000 - 7584 -  - 1x1 -  - Crafting - 
+watering can -  - Yes - Y - Y -  - 2400 - 600 - 2379 -  - 1x1 - 1 - Crafting - 
+windflower wand -  - No - Y - N - Unlimited - NFS - 1580 - 5084 -  - 1x1 -  - Crafting - 

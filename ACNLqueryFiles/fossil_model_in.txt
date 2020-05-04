@@ -1,0 +1,39 @@
+Ankylo Model - Cyrus - sm - 3,600/9,000 - none/none - Antique/Quirky - Historical
+
+Apato Model - Cyrus - sm - 5,400/13,500 - none/none - Antique/Quirky - Historical
+
+Archelon Model - Cyrus - sm - 3,000/7,500 - none/none - Antique/Quirky - Historical
+
+Dimetrodon Model - Cyrus - sm - 6,000/15,000 - none/none - Antique/Quirky - Historical
+
+Diplo Model - Cyrus - sm - 8,800/22,000 - none/none - Antique/Quirky - Historical
+
+Ichthyo Model - Cyrus - sm - 1,800/4,500 - none/none - Antique/Quirky - Historical
+
+Iguanodon Model - Cyrus - sm - 4,200/10,500 - none/none - Antique/Quirky - Historical
+
+Mammoth Model - Cyrus - sm - 2,200/5,500 - none/none - Antique/Quirky - Historical
+
+Megacero Model - Cyrus - sm - 4,400/11,000 - none/none - Antique/Quirky - Historical
+
+Pachy Model - Cyrus - sm - 4,200/10,500 - none/none - Antique/Quirky - Historical
+
+Parasaur Model - Cyrus - sm - 3,600/9,000 - none/none - Antique/Quirky - Historical
+
+Plesio Model - Cyrus - sm - 5,200/13,000 - none/none - Antique/Quirky - Historical
+
+Ptera Model - Cyrus - sm - 5,200/13,000 - none/none - Antique/Quirky - Historical
+
+Raptor Model - Cyrus - sm - 2,200/5,500 - none/none - Antique/Quirky - Historical
+
+Sabertooth Model - Cyrus - sm - 1,800/4,500 - none/none - Antique/Quirky - Historical
+
+Spino Model - Cyrus - sm - 3,800/9,500 - none/none - Antique/Quirky - Historical
+
+Stego Model - Cyrus - sm - 5,400/13,500 - none/none - Antique/Quirky - Historical
+
+Styraco Model - Cyrus - sm - 3,600/9,000 - none/none - Antique/Quirky - Historical
+
+T. Rex Model - Cyrus - sm - 6,600/16,500 - none/none - Antique/Quirky - Historical
+
+Tricera Model - Cyrus - sm - 6,000/15,000 - none/none - Antique/Quirky - Historical

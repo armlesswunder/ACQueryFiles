@@ -1,0 +1,593 @@
+acorn pochette - 6 acorn -  -  -  -  -  - Balloon/Bottle/Villager (Fall) - Bags
+acoustic guitar - 8 softwood - 3 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+angled signpost - 2 hardwood - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+apple chair - 10 apple - 4 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+apple dress - 8 apple -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+apple hat - 5 apple -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+apple rug - 6 apple -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+apple umbrella - 7 apple -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+apple wall - 20 apple -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+Aquarius urn - 3 star fragment - 2 Aquarius fragment - 2 gold nugget - 5 stone -  -  - Celeste - Housewares
+Aries rocking chair - 3 star fragment - 2 Aries fragment - 1 gold nugget - 5 stone -  -  - Celeste - Housewares
+armor shoes - 4 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Shoes
+aroma pot - 3 clay -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+asteroid - 5 star fragment - 10 stone -  -  -  -  - Celeste - Housewares
+astronaut suit - 5 star fragment - 5 iron nugget -  -  -  -  - Celeste - Housewares
+autumn wall - 10 maple leaf - 5 wood - 5 clump of weed -  -  -  - Balloon/Bottle/Villager - Wallpaper
+axe - 1 flimsy axe - 3 wood - 1 iron nugget -  -  -  - Tom Nook - Tools
+backyard lawn - 30 clump of weed -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+bamboo basket - 7 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo bench - 8 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo candleholder - 3 bamboo piece - 2 clay -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+bamboo doll - 6 young spring bamboo -  -  -  -  -  - Balloon/Bottle/Villager (Spring) - Housewares
+bamboo drum - 3 bamboo piece - 2 softwood -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+bamboo floor lamp - 8 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo flooring - 15 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+bamboo hat - 10 clump of weed -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+bamboo lattice fence - 6 bamboo piece -  -  -  -  -  - Nook Miles Exchange - Fencing
+bamboo lunch box - 4 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+bamboo noodle slide - 7 young spring bamboo - 3 wood -  -  -  -  - Balloon/Bottle/Villager (Spring) - Housewares
+bamboo partition - 7 bamboo piece - 6 stone -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo shelf - 15 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo speaker - 3 bamboo piece - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo sphere - 3 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+bamboo stool - 5 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo stopblock - 3 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bamboo wall - 15 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+bamboo wall decoration - 1 bamboo piece -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+bamboo wand - 6 young spring bamboo - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager (Spring) - Tools
+bamboo-grove wall - 7 young spring bamboo - 3 bamboo shoot -  -  -  -  - Balloon/Bottle/Villager (Spring) - Wallpaper
+bamboo-shoot lamp - 4 young spring bamboo - 5 bamboo shoot - 4 clay -  -  -  - Balloon/Bottle/Villager (Spring) - Miscellaneous
+barbed-wire fence - 3 hardwood - 2 iron nugget -  -  -  -  - Nook Miles Exchange - Fencing
+barbell - 10 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+barrel - 5 wood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+basement flooring - 10 stone -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+basket pack - 6 young spring bamboo -  -  -  -  -  - Balloon/Bottle/Villager (Spring) - Bags
+beekeeper's hive - 3 wasp nest - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+big festive tree - 6 red ornament - 6 blue ornament - 4 gold ornament - 5 wood - 5 clay -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+birdbath - 6 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+birdcage - 8 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+birdhouse - 2 wood - 5 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+blossom-viewing lantern - 6 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Housewares
+blue rose crown - 6 blue roses -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+blue rose wreath - 10 blue roses -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+bone doorplate - 3 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+bonfire - 1 campfire - 10 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+bonsai shelf - 1 cherry-blossom bonsai - 1 pine bonsai tree - 8 wood -  -  -  - Balloon/Bottle/Villager - Housewares
+boomerang - 3 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+brick fence - 6 clay -  -  -  -  -  - Nook Miles Exchange - Fencing
+brick oven - 8 clay - 2 iron nugget - 6 wood -  -  -  - Balloon/Bottle/Villager - Housewares
+brick well - 8 clay - 5 wood - 1 flimsy shovel -  -  -  - Balloon/Bottle/Villager - Housewares
+bridge construction kit - 4 log stakes - 4 clay - 4 stone -  -  -  - Tom Nook (Story) - Other
+brown herringbone wall - 15 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+Bunny Day arch - 2 earth egg - 2 stone egg - 2 leaf egg - 2 wood egg - 2 sky egg - 2 water egg - Zipper for collecting all 6 egg types (Bunny Day) - Housewares
+Bunny Day bag - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Villager (Bunny Day) - Bags
+Bunny Day bed - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Egg message bottle - Housewares
+Bunny Day crown - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Villager (Bunny Day) - Headwear
+Bunny Day fence - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Egg message bottle - Fencing
+Bunny Day festive balloons - 1 stone egg - 1 wood egg - 1 water egg -  -  -  - Egg message bottle - Housewares
+Bunny Day flooring - 2 earth egg - 2 stone egg - 2 leaf egg - 2 wood egg - 2 sky egg - 2 water egg - Egg message bottle - Floors
+Bunny Day glowy garland - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Egg message bottle - Wall-Mounted
+Bunny Day lamp - 4 wood egg -  -  -  -  -  - Egg message bottle - Miscellaneous
+Bunny Day merry balloons - 1 earth egg - 1 leaf egg - 1 sky egg -  -  -  - Egg message bottle - Housewares
+Bunny Day rug - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Egg message bottle - Rugs
+Bunny Day stool - 3 water egg -  -  -  -  -  - Egg message bottle - Housewares
+Bunny Day table - 4 earth egg -  -  -  -  -  - Egg message bottle - Housewares
+Bunny Day vanity - 4 leaf egg -  -  -  -  -  - Egg message bottle - Housewares
+Bunny Day wall - 2 earth egg - 2 stone egg - 2 leaf egg - 2 wood egg - 2 sky egg - 2 water egg - Egg message bottle - Wallpaper
+Bunny Day wall clock - 3 sky egg -  -  -  -  -  - Egg message bottle - Wall-Mounted
+Bunny Day wand - 1 wobbling Zipper toy - 3 star fragment -  -  -  -  - Zipper after crafting toy (Bunny Day) - Tools
+Bunny Day wardrobe - 4 stone egg -  -  -  -  -  - Egg message bottle - Housewares
+Bunny Day wreath - 1 earth egg - 1 stone egg - 1 leaf egg - 1 wood egg - 1 sky egg - 1 water egg - Bunny Day - Wall-Mounted
+butter churn - 4 wood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cabin wall - 15 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+camp construction kit - 3 tree branch -  -  -  -  -  - Tom Nook (Story) - Other
+campfire - 3 tree branch -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+campsite construction kit - 15 wood - 15 softwood - 15 hardwood - 15 iron nugget -  -  - Tom Nook (Story) - Other
+Cancer table - 3 star fragment - 2 Cancer fragment - 2 gold  nugget - 3 stone -  -  - Celeste - Housewares
+Capricorn ornament - 3 star fragment - 2 Capricorn fragment - 2 gold  nugget - 12 stone -  -  - Celeste - Housewares
+cardboard bed - 4 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cardboard chair - 1 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cardboard sofa - 2 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cardboard table - 4 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cherry dress - 8 cherry -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+cherry hat - 5 cherry -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+cherry lamp - 10 cherry - 2 clay -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+cherry rug - 6 cherry -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+cherry speakers - 10 cherry - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+cherry umbrella - 7 cherry -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+cherry wall - 20 cherry -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+cherry-blossom bonsai - 6 cherry-blossom petal - 2 hardwood - 3 clump of weeds - 3 clay -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Miscellaneous
+cherry-blossom branches - 8 cherry-blossom petal - 4 tree branch - 5 clay -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Housewares
+cherry-blossom clock - 5 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Wall-Mounted
+cherry-blossom flooring - 10 cherry-blossom petal - 20 clump of weeds -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Floors
+cherry-blossom pochette - 6 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Bags
+cherry-blossom pond stone - 10 stone - 3 cherry-blossom petal -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Housewares
+cherry-blossom umbrella - 7 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Umbrellas
+cherry-blossom wand - 3 cherry-blossom petal - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Tools
+cherry-blossom-petal pile - 5 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Housewares
+cherry-blossom-trees wall - 10 cherry-blossom petal - 5 hardwood -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Wallpaper
+chic cosmos wreath - 10 black cosmos -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+chic mum crown - 3 purple mums - 3 pink mums -  -  -  -  - Balloon/Bottle/Villager - Headwear
+chic rose crown - 3 purple roses - 3 black roses -  -  -  -  - Balloon/Bottle/Villager - Headwear
+chic tulip crown - 2 purple tulips - 2 pink tulips - 1 orange tulips -  -  -  - Balloon/Bottle/Villager - Headwear
+chic windflower wreath - 10 purple windflowers -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+chocolate herringbone wall - 15 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+clackercart - 2 hardwood - 6 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+classic pitcher - 4 clay -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+classic-library wall - 10 book -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+clothesline - 10 tree branch -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+coconut juice - 1 coconut -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+coconut wall planter - 1 coconut - 5 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+colored-leaves flooring - 10 maple leaf - 15 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Floors
+cool hyacinth crown - 4 blue hyacinths - 2 pink hyacinths - 2 orange hyacinths -  -  -  - Balloon/Bottle/Villager - Headwear
+cool hyacinth wreath - 3 orange hyacinths - 3 blue hyacinths - 3 pink hyacinths -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+cool pansy crown - 3 orange pansies - 3 blue pansies -  -  -  -  - Balloon/Bottle/Villager - Headwear
+cool pansy wreath - 10 purple pansies -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+cool windflower crown - 3 blue windflowers - 3 pink windflowers -  -  -  -  - Balloon/Bottle/Villager - Headwear
+cool windflower wreath - 3 blue windflowers - 3 pink windflowers - 3 white windflowers -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+corral fence - 6 wood -  -  -  -  -  - Nook Miles Exchange - Fencing
+cosmos crown - 2 red cosmos - 2 yellow cosmos - 3 white cosmos -  -  -  - Balloon/Bottle/Villager - Headwear
+cosmos shower - 5 pink cosmos - 3 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+cosmos wand - 1 white cosmos - 3 star fragments -  -  -  -  - Celeste - Tools
+cosmos wreath - 3 yellow cosmos - 3 white cosmos - 3 red cosmos -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+country fence - 6 hardwood -  -  -  -  -  - Nook Miles Exchange - Fencing
+crescent-moon chair - 7 star fragments - 1 large star fragment -  -  -  -  - Celeste - Housewares
+crest doorplate - 4 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+crewed spaceship - 10 star fragments - 20 iron nugget -  -  -  -  - Celeste - Housewares
+cute lily crown - 2 pink lillies - 2 orange lillies - 2 white lillies -  -  -  - Balloon/Bottle/Villager - Headwear
+cute rose crown - 3 pink roses - 3 orange roses -  -  -  -  - Balloon/Bottle/Villager - Headwear
+cutting board - 2 hardwood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+dark bamboo rug - 6 bamboo pieces -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+dark cosmos crown - 7 black cosmos -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+dark lily crown - 6 black lilies -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+dark lily wreath - 10 black lilies -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+dark rose wreath - 3 black roses - 6 purple roses -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+dark tulip crown - 5 black tulips -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+dark tulip wreath - 10 black tulips -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+dark wooden-mosaic wall - 15 wood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+decoy duck - 4 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+deer decoration - 8 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+deer scare - 3 bamboo piece - 8 stone - 3 clump of weeds -  -  -  - Balloon/Bottle/Villager - Housewares
+destinations signpost - 4 hardwood - 8 softwood -  -  -  -  - Nook Miles Exchange - Housewares
+DIY workbench - 5 wood - 5 hardwood - 5 softwood - 3 iron nugget - 1 mini DIY workbench -  - Balloon/Bottle/Villager - Housewares
+document stack - 1 scattered papers -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+doghouse - 10 wood - 7 hardwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+drinking fountain - 8 stone - 2 iron nugget -  -  -  -  - Nook Miles Exchange - Housewares
+earth-egg outfit - 3 earth egg -  -  -  -  -  - Collecting 11 earth eggs (Bunny Day) - Dresses
+earth-egg shell - 2 earth egg -  -  -  -  -  - Collecting 11 earth eggs (Bunny Day) - Headwear
+earth-egg shoes - 2 earth egg -  -  -  -  -  - Collecting 11 earth eggs (Bunny Day) - Shoes
+egg party dress - 3 earth egg - 3 stone egg - 3 leaf egg - 3 wood egg - 3 sky egg - 3 water egg - Learning all egg outfit DIYs (Bunny Day) - Dresses
+egg party hat - 2 earth egg - 2 stone egg - 2 leaf egg - 2 wood egg - 2 sky egg - 2 water egg - Learning all egg outfit DIYs (Bunny Day) - Headwear
+fancy lily wreath - 3 orange lilies - 3 pink lilies - 3 yellow lilies -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+fancy mum wreath - 3 pink mums - 3 purple mums - 3 red mums -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+fancy rose wreath - 3 orange roses - 3 pink roses - 3 yellow roses -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+festive top set - 2 gold ornament - 1 hardwood -  -  -  -  - Balloon/Bottle/Villager (Festive Season) - Miscellaneous
+festive tree - 3 red ornament - 3 blue ornament - 3 gold ornament - 5 wood -  -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+firewood - 8 wood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+fish bait - 1 manilla clam -  -  -  -  -  - Clam dig spot - Other
+fishing rod - 1 flimsy fishing rod - 1 iron nugget -  -  -  -  - Tom Nook - Tools
+flat garden rock - 20 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+flimsy axe - 5 tree branch - 1 stone -  -  -  -  - Tom Nook - Tools
+flimsy fishing rod - 5 tree branch -  -  -  -  -  - Tom Nook - Tools
+flimsy net - 5 tree branch -  -  -  -  -  - Tom Nook - Tools
+flimsy shovel - 5 hardwood -  -  -  -  -  - Blathers - Tools
+flimsy watering can - 5 softwood -  -  -  -  -  - Tom Nook - Tools
+floral swag - 10 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+flower stand - 1 red roses - 2 pink roses - 2 orange roses - 2 white liles - 2 yellow lilies - 5 purple windflowers - Balloon/Bottle/Villager - Housewares
+flying saucer - 15 star fragment - 10 iron nugget -  -  -  -  - Celeste - Housewares
+forest flooring - 1 rare mushroom - 2 round mushroom - 2 skinny mushroom - 2 flat mushroom - 10 clump of weeds -  - Balloon/Bottle/Villager (Mushroom Season) - Floors
+forest wall - 2 elegant mushroom - 2 round mushroom - 2 skinny mushroom - 2 flat mushroom - 10 wood -  - Balloon/Bottle/Villager (Mushroom Season) - Wallpaper
+fossil doorplate - 1 fossil - 2 stone -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+fountain - 1 drinking fountain - 20 stone - 8 iron nugget -  -  -  - Nook Miles Exchange - Housewares
+frozen arch - 1 large snowflake - 10 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen bed - 1 large snowflake - 10 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen chair - 1 large snowflake - 3 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen counter - 1 large snowflake - 5 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen partition - 1 large snowflake - 6 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen pillar - 1 large snowflake - 4 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen sculpture - 1 large snowflake - 4 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen table - 1 large snowflake - 8 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen tree - 1 large snowflake - 8 snowflake -  -  -  -  - Making a perfect Snowboy - Housewares
+frozen-treat set - 1 large snowflake - 1 snowflake -  -  -  -  - Making a perfect Snowboy - Miscellaneous
+fruit basket - 1 apple - 1 pear - 1 cherry - 1 orange - 1 peach -  - Balloon/Bottle/Villager - Miscellaneous
+fruit wreath - 2 apple - 1 pear - 3 cherry - 3 orange - 1 peach -  - Balloon/Bottle/Villager - Wall-Mounted
+frying pan - 2 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+galaxy flooring - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Floors
+garbage-heap flooring - 2 empty can - 2 boot - 2 old tire -  -  -  - Balloon/Bottle/Villager - Floors
+garbage-heap wall - 2 empty can - 2 boot - 2 old tire -  -  -  - Balloon/Bottle/Villager - Wallpaper
+garden bench - 12 wood - 4 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+garden rock - 15 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+garden wagon - 3 white hyacinths - 3 red cosmos - 3 yellow roses - 8 wood - 2 iron nugget -  - Balloon/Bottle/Villager - Housewares
+Gemini closet - 3 star fragment - 2 Gemini fragment - 2 gold nugget - 6 stone -  -  - Celeste - Housewares
+giant teddy bear - 1 Papa bear - 1 Mama bear - 1 Baby bear -  -  -  - Balloon/Bottle/Villager - Housewares
+gold armor - 8 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+gold bars - 3 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+gold helmet - 5 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+gold rose crown - 6 gold roses -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+gold rose wreath - 10 gold roses -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+gold-armor shoes - 4 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Shoes
+gold-screen wall - 2 gold nugget - 1 screen wall -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+golden arowana model - 3 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+golden axe - 1 axe - 1 gold nugget -  -  -  -  - Break 100 axes - Tools
+golden candlestick - 2 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+golden casket - 8 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+golden dishes - 1 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+golden dung beetle - 3 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+golden flooring - 4 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+golden gears - 1 gold nugget - 3 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+golden net - 1 net - 1 gold nugget -  -  -  -  - Completing bug Critterpedia - Tools
+golden rod - 1 rod - 1 gold nugget -  -  -  -  - Completing fish Critterpedia - Tools
+golden seat - 5 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+golden shovel - 1 shovel - 1 gold nugget -  -  -  -  - Helping Gulliver 30 times. - Tools
+golden slingshot - 1 slingshot - 1 gold nugget -  -  -  -  - Shoot 300 balloons - Tools
+golden toilet - 6 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+golden wall - 4 gold nugget -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+golden wand - 2 gold nugget - 3 star fragment -  -  -  -  - Celeste - Tools
+golden watering can - 1 watering can - 1 gold nugget -  -  -  -  - 5-star town evaluation - Tools
+gong - 6 iron nugget - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+grass skirt - 7 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Bottoms
+grass standee - 2 wood - 2 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+green grass skirt - 7 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Bottoms
+green-leaf pile - 1 young spring bamboo - 10 clump of weeds -  -  -  -  - Balloon/Bottle/Villager (Spring) - Housewares
+hanging terrarium - 10 clump of weeds - 4 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+hay bed - 20 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+hearth - 2 bamboo piece - 5 iron nugget - 4 clay - 5 hardwood -  -  - Balloon/Bottle/Villager - Housewares
+hedge standee - 2 wood - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+holiday candle - 5 red ornament - 5 clump of weeds -  -  -  -  - Balloon/Bottle/Villager (Festive Season) - Miscellaneous
+honeycomb flooring - 5 wasp nest -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+honeycomb wall - 6 wasp nest -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+hyacinth crown - 4 red hyacinths - 2 yellow hyacinths - 2 white hyacinths -  -  -  - Balloon/Bottle/Villager - Headwear
+hyacinth lamp - 5 purple hyacinths - 3 clay -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+hyacinth wand - 1 pink hyacinths - 3 star fragment -  -  -  -  - Celeste - Tools
+hyacinth wreath - 3 white hyacinths - 3 red hyacinths - 3 yellow hyacinths -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+ice flooring - 1 large snowflake - 8 snowflake -  -  -  -  - Making a perfect Snowboy - Floors
+ice wall - 1 large snowflake - 8 snowflake -  -  -  -  - Making a perfect Snowboy - Wallpaper
+ice wand - 1 large snowflake - 3 star fragment -  -  -  -  - Making a perfect Snowboy - Tools
+iceberg flooring - 10 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Floors
+iceberg wall - 1 large snowflake - 8 snowflake -  -  -  -  - Balloon/Bottle/Villager (Winter) - Wallpaper
+illuminated present - 3 red ornament  - 4 gold ornament - 3 iron nugget -  -  -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+illuminated reindeer - 6 gold ornament - 5 iron nugget -  -  -  -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+illuminated snowflakes - 9 blue ornament - 3 gold nugget -  -  -  -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+illuminated tree - 3 red ornament - 4 gold ornament - 3 iron nugget -  -  -  - Balloon/Bottle/Villager (Festive Season) - Housewares
+imperial fence - 6 wood - 4 softwood -  -  -  -  - Nook Miles Exchange - Fencing
+infused-water dispenser - 2 apple - 2 pear - 2 cherry - 2 orange - 2 peach - 2 coconut - Balloon/Bottle/Villager - Miscellaneous
+iron armor - 8 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+iron closet - 12 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron doorplate - 2 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+iron fence - 6 iron nugget -  -  -  -  -  - Nook Miles Exchange - Fencing
+iron frame - 20 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron garden bench - 4 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron garden chair - 3 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron garden table - 5 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron hanger stand - 3 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron shelf - 14 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron wall lamp - 4 iron nugget - 2 clay -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+iron wall rack - 3 iron nugget - 1 clay -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+iron wand - 3 iron nugget - 3 star fragment -  -  -  -  - Celeste - Tools
+iron worktable - 10 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+iron-and-stone fence - 6 stone - 3 iron nugget -  -  -  -  - Nook Miles Exchange - Fencing
+ironwood bed - 20 wood - 10 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood cart - 6 wood - 4 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood chair - 3 wood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood clock - 2 wood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+ironwood cupboard - 12 wood - 6 iron nugget - 1 ironwood dresser -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood DIY workbench - 12 wood - 6 iron nugget - 1 mini DIY workbench -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood dresser - 7 wood - 4 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood kitchenette - 4 wood - 3 iron nugget - 1 ironwood dresser - 1 cutting board -  -  - Balloon/Bottle/Villager - Housewares
+ironwood low table - 6 wood - 4 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ironwood table - 12 wood - 6 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+jail bars - 5 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+Jingle wall - 5 red ornament - 5 blue ornament - 5 gold ornament - 5 clay -  -  - Balloon/Bottle/Villager (Festive Season) - Wallpaper
+juicy-apple TV - 10 apple - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+jungle flooring - 10 clump of weeds - 10 clay -  -  -  -  - Balloon/Bottle/Villager - Floors
+jungle wall - 15 clump of weeds - 3 wood - 3 hardwood - 3 softwood -  -  - Balloon/Bottle/Villager - Wallpaper
+kettle bathtub - 8 iron nugget - 2 wood - 1 campfire -  -  -  - Balloon/Bottle/Villager - Housewares
+kettlebell - 5 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+key holder - 3 wood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+knight's helmet - 5 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+knitted-grass backpack - 20 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Bags
+ladder - 4 wood - 4 hardwood - 4 softwood -  -  -  - Tom Nook - Tools
+large cardboard boxes - 5 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+lattice fence - 8 softwood -  -  -  -  -  - Nook Miles Exchange - Fencing
+leaf - 5 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Accessories
+leaf campfire - 3 pine cone - 5 clump of weeds - 3 tree branch -  -  -  - Balloon/Bottle/Villager (Fall) - Housewares
+leaf mask - 10 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+leaf stool - 3 maple leaf - 3 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+leaf umbrella - 15 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+leaf-egg outfit - 3 leaf egg -  -  -  -  -  - Collecting 12 leaf eggs (Bunny Day) - Dresses
+leaf-egg shell - 2 leaf egg -  -  -  -  -  - Collecting 12 leaf eggs (Bunny Day) - Headwear
+leaf-egg shoes - 2 leaf egg -  -  -  -  -  - Collecting 12 leaf eggs (Bunny Day) - Shoes
+Leo sculpture - 3 star fragment - 2 Leo fragment - 2 gold nugget - 3 stone -  -  - Celeste - Wall-Mounted
+Libra scale - 3 star fragment - 2 Libra fragment - 2 gold nugget -  -  -  - Celeste - Miscellaneous
+light bamboo rug - 6 young spring bamboo -  -  -  -  -  - Balloon/Bottle/Villager (Spring) - Rugs
+lily crown - 2 red lilies - 2 yellow lilies - 2 white lilies -  -  -  - Balloon/Bottle/Villager - Headwear
+lily record player - 5 white lilies - 3 iron nugget - 3 wood -  -  -  - Balloon/Bottle/Villager - Housewares
+lily wand - 1 white lilies - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager - Tools
+lily wreath - 3 white lilies - 3 red lilies  - 3 yellow lilies -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+log bed - 30 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log bench - 5 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log decorative shelves - 2 log bench - 3 hardwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log dining table - 15 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log extra-long sofa - 2 log sofa -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log garden lounge - 12 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log pack - 3 wood - 5 hardwood -  -  -  -  - Balloon/Bottle/Villager - Bags
+log round table - 15 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log sofa - 8 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log stakes - 3 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log stool - 4 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+log wall-mounted clock - 2 hardwood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+lovely cosmos crown - 3 pink cosmos - 3 orange cosmos -  -  -  -  - Balloon/Bottle/Villager - Headwear
+lucky gold cat - 2 gold nugget - 1 lucky cat -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+lunar lander - 10 star fragment - 15 iron nugget -  -  -  -  - Celeste - Housewares
+lunar rover - 10 star fragment - 10 iron nugget - 4 old tire -  -  -  - Celeste - Housewares
+lunar surface - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Floors
+magazine rack - 2 magazine - 4 wood -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+manga-library wall - 10 magazine -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+manhole cover - 3 iron nugget -  -  -  -  -  - Nook Miles Exchange - Housewares
+maple-leaf pochette - 6 maple leaf -  -  -  -  -  - Balloon/Bottle/Villager - Bags
+maple-leaf pond stone - 10 stone - 3 maple leaf -  -  -  -  - Balloon/Bottle/Villager - Housewares
+maple-leaf umbrella - 7 maple leaf -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+matryoshka - 5 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+medicine - 1 wasp nest - 3 clump of weeds -  -  -  -  - Villager when stung - Other
+medium cardboard boxes - 4 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+mini DIY workbench - 3 wood - 3 hardwood - 3 softwood - 2 iron nugget -  -  - Balloon/Bottle/Villager - Housewares
+modeling clay - 2 clay -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+modern wood wall - 5 wood - 5 softwood - 5 hardwood -  -  -  - Balloon/Bottle/Villager - Wallpaper
+money flooring - 50,000 bells -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+moon - 15 star fragment - 1 large star fragment -  -  -  -  - Celeste - Housewares
+mossy garden rock - 15 stone - 15 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Housewares
+mountain standee - 4 wood - 5 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+mum crown - 2 red mums - 2 yellow mums - 2 white mums -  -  -  - Balloon/Bottle/Villager - Headwear
+mum cushion - 3 yellow mum - 10 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Housewares
+mum wreath - 3 white mum - 3 yellow mum - 3 red mum -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+mums wand - 1 yellow mum -  -  -  -  -  - Balloon/Bottle/Villager - Tools
+mush lamp - 1 skinny mushroom - 5 clay -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush log - 2 skinny mushroom - 1 log stool -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush low stool - 2 round mushroom -  -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush parasol - 3 flat mushroom -  -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush partition - 3 skinny mushroom -  -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush table - 2 flat mushroom - 6 wood -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Housewares
+mush umbrella - 3 flat mushroom -  -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Umbrellas
+mush wall - 1 elegant mushroom - 1 round mushroom - 1 skinny mushroom - 1 flat mushroom -  -  - Balloon/Bottle/Villager (Mushroom Season) - Wallpaper
+mushroom wand - 3 skinny mushroom - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager (Mushroom Season) - Tools
+mushroom wreath - 10 tree branch - 1 round mushroom - 1 skinny mushroom - 1 flat mushroom -  -  - Balloon/Bottle/Villager (Mushroom Season) - Wall-Mounted
+music stand - 8 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+natural garden chair - 6 hardwood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+natural garden table - 9 hardwood - 3 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+natural mum wreath - 10 green mums -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+natural square table - 4 hardwood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+net - 1 flimsy net - 1 iron nugget -  -  -  -  - Tom Nook - Tools
+nova light - 5 star fragment -  -  -  -  -  - Celeste - Miscellaneous
+ocarina - 5 clay -  -  -  -  -  - Balloon/Bottle/Villager - Tools
+oil-barrel bathtub - 1 oil barrel - 1 campfire - 2 stone -  -  -  - Balloon/Bottle/Villager - Housewares
+old-fashioned washtub - 3 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+orange dress - 8 orange -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+orange end table - 10 orange - 4 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+orange hat - 5 orange -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+orange rug - 6 orange -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+orange umbrella - 7 orange -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+orange wall - 20 orange -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+orange wall-mounted clock - 10 orange - 2 wood -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+ornament mobile - 1 red ornament - 1 blue ornament - 1 gold ornament - 4 tree branch -  -  - Balloon/Bottle/Villager (Festive Season) - Wall-Mounted
+ornament wreath - 6 blue ornament - 2 gold ornament -  -  -  -  - Isabelle (Festive season) - Wall-Mounted
+outdoor bath - 20 stone - 1 shovel -  -  -  -  - Balloon/Bottle/Villager - Housewares
+outdoor picnic set - 10 cherry-blossom petal -  -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Housewares
+palm-tree lamp - 4 coconut - 4 wood - 4 clay -  -  -  - Balloon/Bottle/Villager - Housewares
+pan flute - 7 young spring bamboo -  -  -  -  -  - Balloon/Bottle/Villager (Spring) - Tools
+pansy crown - 2 red pansies - 2 yellow panies - 2 white pansies -  -  -  - Balloon/Bottle/Villager - Headwear
+pansy table - 5 yellow pansies - 3 hardwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pansy wand - 1 yellow pansies - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager - Tools
+pansy wreath - 3 yellow pansies - 3 white pansies - 3 red pansies -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+paw-print doorplate - 3 wood -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+peach chair - 10 peach - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+peach dress - 8 peach -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+peach hat - 5 peach -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+peach rug - 6 peach -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+peach surprise box - 10 peach - 4 softwood -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+peach umbrella - 7 peach -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+peach wall - 6 peach -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+pear bed - 10 pear - 6 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pear dress - 8 pear -  -  -  -  -  - Balloon/Bottle/Villager - Dresses
+pear hat - 5 pear -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+pear rug - 6 pear -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+pear umbrella - 7 pear -  -  -  -  -  - Balloon/Bottle/Villager - Umbrellas
+pear wall - 20 pear -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+pear wardrobe - 10 pear - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pile of leaves - 3 pine cone - 5 clump of weeds -  -  -  -  - Balloon/Bottle/Villager (Fall) - Housewares
+pile of zen cushions - 3 zen cushion -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pine bonsai tree - 8 pine cone - 5 clay -  -  -  -  - Balloon/Bottle/Villager (Fall) - Miscellaneous
+Pisces lamp - 3 star fragment - 2 Pisces fragment - 2 gold nugget - 4 stone -  -  - Celeste - Housewares
+pitfall seed - 4 clump of weeds - 6 tree branch -  -  -  -  - Balloon/Bottle/Villager or Digging up a pitfall seed - Other
+plain sink - 6 wood - 4 clay - 1 iron nugget -  -  -  - Balloon/Bottle/Villager - Housewares
+plain wooden shop sign - 6 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pond stone - 10 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+pot - 5 clay -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+potted ivy - 5 clump of weeds - 5 clay -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+pretty cosmos wreath - 3 orange cosmos - 3 pink cosmos - 3 red cosmos -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+pretty tulip wreath - 3 orange tulips - 3 pink tulips - 3 purple tulips -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+purple hyacinth crown - 6 purple hyacinths -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+purple hyacinth wreath - 10 purple hyacinths -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+purple pansy crown - 6 purple pansies -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+purple windflower crown - 6 purple windflowers -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+raccoon figurine - 6 clay -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+recycled boots - 2 boot -  -  -  -  -  - Balloon/Bottle/Villager - Shoes
+recycled-can thumb piano - 1 empty can - 1 wood - 1 iron nugget -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+red-leaf pile - 3 maple leaf - 4 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Housewares
+ringtoss - 2 wood - 2 softwood -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+robot hero - 1 rocket - 1 gold armor - 30 rusted part - 90 iron nugget - 10 gold nugget -  - Nook Miles Exchange - Housewares
+rocket - 10 star fragment - 20 iron nugget -  -  -  -  - Celeste - Housewares
+rocking chair - 3 wood - 5 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+rocking horse - 5 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+rope fence - 4 iron nugget -  -  -  -  -  - Nook Miles Exchange - Fencing
+rose bed - 10 red roses - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+rose crown - 2 red roses - 2 yellow roses - 2 white roses -  -  -  - Balloon/Bottle/Villager - Headwear
+rose wand - 1 red roses - 3 star fragment -  -  -  -  - Celeste - Tools
+rose wreath - 3 red roses - 3 white roses - 3 yellow roses -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+rustic-stone wall - 5 stone - 5 clay -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+Sagittarius arrow - 3 star fragment - 2 Sagittarius fragment - 2 gold nugget -  -  -  - Celeste - Wall-Mounted
+sakura-wood flooring - 5 cherry-blossom petal - 10 wood -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Floors
+sakura-wood wall - 5 cherry-blossom petal - 10 wood -  -  -  -  - Balloon/Bottle/Villager (Cherry-Blossom Season) - Wallpaper
+sandy-beach flooring - 1 sea snail - 1 venus comb - 1 sand dollar - 1 coral - 1 giant clam - 1 cowrie - Balloon/Bottle/Villager - Floors
+satellite - 10 star fragment - 15 iron nugget -  -  -  -  - Celeste - Housewares
+sauna heater - 6 stone - 3 iron nugget - 3 wood -  -  -  - Balloon/Bottle/Villager - Housewares
+scarecrow - 3 tree branch - 5 clump of weeds -  -  -  -  - Balloon/Bottle/Villager - Housewares
+scattered papers - 1 document stack -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+sci-fi flooring - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Floors
+sci-fi wall - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Wallpaper
+Scorpio lamp - 3 star fragment - 2 Scorpius fragment - 2 gold nugget - 5 stone -  -  - Celeste - Miscellaneous
+shell arch - 3 sea snail - 3 venus comb - 3 sand dollar - 3 coral - 3 giant clam - 3 cowrie - Balloon/Bottle/Villager - Housewares
+shell bed - 5 giant clam - 3 clay - 4 stone -  -  -  - Balloon/Bottle/Villager - Housewares
+shell fountain - 5 giant clam - 3 stone -  -  -  -  - Balloon/Bottle/Villager - Housewares
+shell lamp - 2 giant clam - 3 clay -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+shell partition - 4 venus comb - 4 conch -  -  -  -  - Balloon/Bottle/Villager - Housewares
+shell rug - 3 giant clam -  -  -  -  -  - Balloon/Bottle/Villager - Rugs
+shell speaker - 3 conch - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+shell stool - 5 cowrie -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+shell table - 7 sand dollar - 3 clay -  -  -  -  - Balloon/Bottle/Villager - Housewares
+shell wand - 3 summer shell - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager (Summer) - Tools
+shell wreath - 1 summer shell - 1 sea snail - 1 sand dollar - 1 coral - 1 giant clam - 1 cowrie - Balloon/Bottle/Villager (Summer) - Wall-Mounted
+shellfish pochette - 2 giant clam - 6 summer shell -  -  -  -  - Balloon/Bottle/Villager (Summer) - Bags
+shovel - 1 flimsy shovel - 1 iron nugget -  -  -  -  - Tom Nook - Tools
+signpost - 2 hardwood - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+silo - 12 iron nugget - 6 hardwood - 12 clay - 12 stone -  -  - Balloon/Bottle/Villager - Housewares
+simple DIY workbench - 5 hardwood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+simple mum crown - 6 green mums -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+simple well - 15 stone - 1 flimsy shovel -  -  -  -  - Balloon/Bottle/Villager - Housewares
+simple wooden fence - 6 softwood -  -  -  -  -  - Nook Miles Exchange - Fencing
+ski-slope flooring - 8 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Floors
+ski-slope wall - 8 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Wallpaper
+sky-egg outfit - 3 sky egg -  -  -  -  -  - Collecting 9 sky eggs (Bunny Day) - Dresses
+sky-egg shell - 2 sky egg -  -  -  -  -  - Collecting 9 sky eggs (Bunny Day) - Headwear
+sky-egg shoes - 2 sky egg -  -  -  -  -  - Collecting 9 sky eggs (Bunny Day) - Shoes
+sleigh - 8 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+slingshot - 5 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Tools
+small cardboard boxes - 2 cardboard box -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+snazzy pansy wreath - 3 orange pansies - 3 blue pansies - 3 yellow pansies -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+snowflake pochette - 6 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Bags
+snowflake wall - 12 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Wallpaper
+snowflake wreath - 4 snowflake -  -  -  -  -  - Balloon/Bottle/Villager (Winter) - Wall-Mounted
+snowperson head - 1 large snowflake - 5 snowflake -  -  -  -  - Making a perfect Snowboy - Headwear
+space shuttle - 5 star fragment - 10 iron nugget -  -  -  -  - Celeste - Housewares
+spiky fence - 8 hardwood -  -  -  -  -  - Nook Miles Exchange - Fencing
+stack of books - 5 book -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+stacked magazines - 6 magazine -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+stacked-wood wall - 15 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+stall - 12 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+standard umbrella stand - 3 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+star clock - 3 star fragment - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+star head - 5 star fragment -  -  -  -  -  - Celeste - Headwear
+star pochette - 6 star fragment -  -  -  -  -  - Celeste - Bags
+star wand - 1 large star fragment - 3 star fragment -  -  -  -  - Celeste - Tools
+starry garland - 10 star fragment -  -  -  -  -  - Celeste - Wall-Mounted
+starry wall - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Wallpaper
+starry-sands flooring - 3 summer shell - 1 sandy-beach flooring -  -  -  -  - Balloon/Bottle/Villager (Summer) - Floors
+starry-sky wall - 5 star fragment - 1 large star fragment -  -  -  -  - Celeste - Wallpaper
+steamer-basket set - 6 young spring bamboo -  -  -  -  -  - Balloon/Bottle/Villager (Spring) - Miscellaneous
+steel flooring - 7 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Floors
+steel-frame wall - 8 iron nugget -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+stone arch - 90 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+stone axe - 1 flimsy axe - 3 wood -  -  -  -  - Tom Nook - Tools
+stone fence - 4 stone -  -  -  -  -  - Nook Miles Exchange - Fencing
+stone stool - 3 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+stone table - 8 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+stone tablet - 12 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+stone wall - 10 stone -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+stone-egg outfit - 3 stone egg -  -  -  -  -  - Collecting 17 stone eggs (Bunny Day) - Dresses
+stone-egg shell - 2 stone egg -  -  -  -  -  - Collecting 17 stone eggs (Bunny Day) - Headwear
+stone-egg shoes - 2 stone egg -  -  -  -  -  - Collecting 17 stone eggs (Bunny Day) - Shoes
+stone lion-dog - 24 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+straw fence - 10 clump of weeds - 3 wood -  -  -  -  - Nook Miles Exchange - Fencing
+straw umbrella hat - 10 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Headwear
+street piano - 1 upright piano - 1 painting set -  -  -  -  - Balloon/Bottle/Villager - Housewares
+succulent plant - 10 clump of weeds - 1 empty can -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+swinging bench - 5 wood - 7 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tabletop festive tree - 5 gold ornament - 3 tree branch - 2 clay -  -  -  - Balloon/Bottle/Villager (Festive Season) - Miscellaneous
+tall garden rock - 60 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tall lantern - 18 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+Taurus bathtub - 3 star fragment - 2 Taurus fragment - 1 gold nugget - 8 stone -  -  - Celeste - Housewares
+tea table - 12 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+terrarium - 12 clump of weeds - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+three-tiered snowperson - 1 large snowflake - 6 snowflake - 2 tree branch -  -  -  - Making a perfect Snowboy - Housewares
+tiki torch - 5 tree branch - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+timber doorplate - 2 wood - 1 pink rose -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+tiny library - 3 book - 5 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tire stack - 3 old tire -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tire toy - 1 old tire -  -  -  -  -  - Fishing up an old tire - Housewares
+traditional balancing toy - 4 acorn - 2 hardwood -  -  -  -  - Balloon/Bottle/Villager (Fall) - Miscellaneous
+traditional straw coat - 8 clump of weeds -  -  -  -  -  - Balloon/Bottle/Villager - Tops
+trash bags - 1 empty can - 1 boot - 1 old tire -  -  -  - Fishing up all 3 trash items - Miscellaneous
+tree branch wreath - 10 tree branch -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+tree standee - 5 wood - 8 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tree-branch wand - 5 tree branch - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager - Tools
+tree's bounty arch - 4 pine cone - 5 acorn - 5 maple leaf - 15 tree branch -  -  - Balloon/Bottle/Villager (Fall) - Housewares
+tree's bounty big tree - 5 pine cone - 4 acorn - 4 maple leaf - 8 tree branch - 4 clay -  - Balloon/Bottle/Villager (Fall) - Housewares
+tree's bounty lamp - 6 acorn - 4 clay -  -  -  -  - Balloon/Bottle/Villager (Fall) - Miscellaneous
+tree's bounty little tree - 6 pine cone - 4 acorn - 1 hardwood -  -  -  - Isabelle (Fall) - Miscellaneous
+tree's bounty mobile - 2 pine cone - 3 acorn - 3 tree branch -  -  -  - Balloon/Bottle/Villager (Fall) - Wall-Mounted
+trophy case - 24 hardwood - 3 gold nugget - 6 iron nugget -  -  -  - Balloon/Bottle/Villager - Housewares
+tropical vista - 5 summer shell -  -  -  -  -  - Balloon/Bottle/Villager (Summer) - Wallpaper
+tulip crown - 2 red tulips - 2 yellow tulips - 1 white tulips -  -  -  - Balloon/Bottle/Villager - Headwear
+tulip surprise box - 5 red tulips - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+tulip wand - 1 red tulips - 3 star fragment -  -  -  -  - Celeste - Tools
+tulip wreath - 3 red tulips - 3 yellow tulips - 3 white tulips -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+ukulele - 5 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+underwater flooring - 3 summer shell - 3 coral -  -  -  -  - Balloon/Bottle/Villager (Summer) - Floors
+underwater wall - 3 summer shell - 5 coral -  -  -  -  - Balloon/Bottle/Villager (Summer) - Wallpaper
+unglazed dish set - 3 clay -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+vaulting pole - 5 softwood -  -  -  -  -  - Blathers - Tools
+vertical-board fence - 8 wood -  -  -  -  -  - Nook Miles Exchange - Fencing
+Virgo harp - 3 star fragment - 2 Virgo fragment - 2 gold nugget - 4 stone -  -  - Celeste - Housewares
+wand - 2 star fragment -  -  -  -  -  - Celeste - Tools
+water flooring - 6 summer shell -  -  -  -  -  - Balloon/Bottle/Villager (Summer) - Floors
+water pump - 2 iron nugget - 6 clay -  -  -  -  - Balloon/Bottle/Villager - Housewares
+water-egg outfit - 3 water egg -  -  -  -  -  - Collecting 13 water eggs (Bunny Day) - Dresses
+water-egg shell - 2 water egg -  -  -  -  -  - Collecting 13 water eggs (Bunny Day) - Headwear
+water-egg shoes - 2 water egg -  -  -  -  -  - Collecting 13 water eggs (Bunny Day) - Shoes
+watering can - 1 flimsy watering can - 1 iron nugget -  -  -  -  - Tom Nook - Tools
+wave breaker - 10 stone - 10 clay -  -  -  -  - Nook Miles Exchange - Housewares
+western-style stone - 30 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wild log bench - 8 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wild-wood wall - 15 wood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+windflower crown - 2 red windflowers - 2 orange windflowers - 2 white windflowers -  -  -  - Balloon/Bottle/Villager - Headwear
+windflower fan - 3 red windflowers - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+windflower wand - 1 orange windflowers - 3 star fragment -  -  -  -  - Balloon/Bottle/Villager - Tools
+windflower wreath - 3 red windflowers - 3 white windflowers - 3 orange windflowers -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+Wobbling Zipper toy - 4 earth egg - 4 stone egg - 4 leaf egg - 4 wood egg - 4 sky egg - 4 water egg - Zipper for crafting all Bunny Day recipes - Miscellaneous
+wood-egg outfit - 3 wood egg -  -  -  -  -  - Collecting 22 wood eggs (Bunny Day) - Dresses
+wood-egg shell - 2 wood egg -  -  -  -  -  - Collecting 22 wood eggs (Bunny Day) - Headwear
+wood-egg shoes - 2 wood egg -  -  -  -  -  - Collecting 22 wood eggs (Bunny Day) - Shoes
+wooden bookshelf - 5 book - 10 wood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden bucket - 3 wood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden chair - 6 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden chest - 16 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden double bed - 30 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden end table - 8 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden fish - 3 wood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+wooden full-length mirror - 5 wood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden low table - 10 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden mini table - 6 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden simple bed - 18 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden stool - 4 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden table - 15 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden table mirror - 3 wood - 1 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+wooden toolbox - 4 softwood - 2 iron nugget -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+wooden wardrobe - 12 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden waste bin - 4 wood -  -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block bed - 1 wooden-block toy - 17 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block bench - 1 wooden-block toy - 4 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block bookshelf - 1 wooden-block toy - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block chair - 1 wooden-block toy - 3 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block chest - 1 wooden-block toy - 12 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block stereo - 1 wooden-block toy - 5 softwood - 2 iron nugget -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block stool - 1 wooden-block toy - 2 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block table - 1 wooden-block toy - 8 softwood -  -  -  -  - Balloon/Bottle/Villager - Housewares
+wooden-block toy - 3 softwood -  -  -  -  -  - Balloon/Bottle/Villager - Miscellaneous
+wooden-block wall clock - 1 wooden-block toy - 2 softwood - 1 iron nugget -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+wooden-knot wall - 15 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+wooden-mosaic wall - 15 wood -  -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+wooden-plank sign - 5 hardwood -  -  -  -  -  - Balloon/Bottle/Villager - Wall-Mounted
+woodland wall - 15 clump of weeds - 9 softwood -  -  -  -  - Balloon/Bottle/Villager - Wallpaper
+yellow-leaf pile - 3 acorn - 5 clump of weeds -  -  -  -  - Balloon/Bottle/Villager (Fall) - Housewares
+zen fence - 3 iron nugget - 3 clay - 3 stone -  -  -  - Nook Miles Exchange - Fencing
+zen-style stone - 30 stone -  -  -  -  -  - Balloon/Bottle/Villager - Housewares

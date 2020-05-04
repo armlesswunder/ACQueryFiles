@@ -1,0 +1,143 @@
+[Bitterling] tanago - 900 - sm - 8cm - tiny - in river - November through February, all day (best time is 4am to 9pm, December through February)
+
+[Pale Chub] oikawa - 200 - sm - 15cm - tiny - in river - all year, 9am to 4pm (best time is March through June and August through November)
+
+[Crucian Carp] funa - 120 - sm - 20cm - small - in river - all year, all day (best time is 9am to 4pm)
+
+[Dace] ugui - 200 - sm - 35cm - medium - in river - all year, 4pm to 9am (best time is November through March)
+
+[Barbel Steed] nigoi - 200 - sm - 50cm - medium - in river - all year, all day (best time is March and October through November)
+
+[Carp] koi - 300 - sm - 60cm - large - in river - all year, all day (best time is 4pm to 9am, April through July and October through November)
+
+[Koi] nishikigoi - 4,000 - sm - 60cm - large - in river - all year, 4pm to 9am
+
+[Goldfish] kingyo - 1,300 - sm - 15cm - tiny - in river - all year, all day
+
+[Pop-Eyed Goldfish] demekin - 1,300 - sm - 15cm - tiny - in river - all year, 9am to 4pm
+
+[Killifish] medaka - 300 - sm - 4cm - tiny - in holding pond - April through August, all day
+
+[Crawfish] zarigani - 200 - sm - 12cm - small - in holding pond - April through mid-September, all day
+
+[Soft-Shelled Turtle] suppon - 3,750 - sm - 30cm - medium - in river - August through September, 4pm to 9am
+
+[Tadpole] otamajakushi - 100 - sm - 4cm - tiny - in holding pond - March through July, all day
+
+[Frog] kaeru - 120 - sm - 12cm - small - in holding pond - May through August, all day
+
+[Freshwater Goby] donko - 300 - sm - 15cm - small - in river - all year, 4pm to 9am
+
+[Loach] dojou - 300 - sm - 20cm - small - in river - March through May, all day (best time is 9am to 4pm, March and April)
+
+[Catfish] namazu - 800 - sm - 60cm - large - in large pond (lake) - May through October, 4pm to 9am (best time is 9pm to 4am)
+
+[Eel] unagi - 2,000 - med - 100cm - thin - in river - June through mid-September, 4pm to 9am (best time is 9pm to 4am, June through August)
+
+[Giant Snakehead] raigyo - 5,500 - med - 85cm - very large - in large pond (lake) - June through August, 9am to 4pm
+
+[Bluegill] burugiru - 120 - sm - 25cm - small - in river - all year, 9am to 4pm (best time is March through November)
+
+[Yellow Perch] ieropachi - 240 - sm - 35cm - medium - in river - October through March, all day (best time is November through February)
+
+[Black Bass] burakkubasu - 300 - sm - 50cm - large - in river - all year, all day (best time is March through November)
+
+[Pike] paiku - 1,800 - med - 120cm - very large - in river - September through December, 4am to 9pm
+
+[Pond Smelt] wakasagi - 300 - sm - 15cm - small - in river - December through February, all day
+
+[Sweetfish] ayu - 900 - sm - 25cm - medium - in river - July through mid-September, all day (best time is 9am to 4pm)
+
+[Cherry Salmon] yamame - 1,000 - sm - 35cm - medium - in river - March through June, 4am to 9am and 4pm to 9pm (best time is March and April) - September through November, 4am to 9pm (best time is October)
+
+[Char] ooiwana - 3,800 - sm - 50cm - medium - under (beach) waterfall - March through June, 4am to 9am and 4pm to 9pm - September through November, 4am to 9pm
+
+[Rainbow Trout] nijimasu - 800 - sm - 60cm - large - in river - March through June, 4am to 9am and 4pm to 9pm (best time is March through May) - September through November, 4am to 9pm (best time is October)
+
+[Stringfish] itou - 15,000 - med - 140cm - huge - in river - December through February, 4pm to 9am
+
+[Salmon] sake - 700 - med - 90cm - large - near river mouth - September, all day
+
+[King Salmon] kingusamon - 1,800 - med - 140cm - huge - near river mouth - September, all day (best time is the first half of September)
+
+[Mitten Crab] shanhaigani - 2,000 - sm - 8cm - small - in river - mid-September through November, 4pm to 9am
+
+[Guppy] guppi - 1,300 - sm - 4cm - tiny - in river - April through November,9am to 4pm
+
+[Nibble Fish] dokutafisshu - 1,500 - sm - 8cm - small - in river - May through September, 9am to 4pm
+
+[Angelfish] enzerufisshu - 3,000 - sm - 12cm - small - in river - May through October, 4pm to 9am
+
+[Neon Tetra] neontetora - 500 - sm - 2cm - tiny - in river - April through November, 9am to 4pm
+
+[Piranha] pirania - 2,500 - sm - 30cm - small - in river - June through mid-September, 9am to 4pm and 9pm to 4am
+
+[Arowana] arowana - 10,000 - med - 70cm - large - in river - June through mid-September, 4pm to 9am
+
+[Dorado] dorado - 15,000 - med - 100cm - very large - in river - June through September, 4am to 9pm
+
+[Gar] ga - 6,000 - med - 190cm - huge - in large pond (lake) - June through September, 4pm to 9am
+
+[Arapaima] piraruku - 10,000 - lrg - 300cm - huge - in river - July through September, 4pm to 9am
+
+[Saddled Bichir] endorikeri - 4,000 - med - 60cm - large - in river - June through September, 9pm to 4am
+
+[Sea Butterfly] kurione - 1,000 - sm - 3cm - tiny - in ocean - December through February, all day (best time is 9pm to 4am)
+
+[Sea Horse] tatsunootoshigo - 1,100 - sm - 8cm - tiny - in ocean - April through November, all day (best time is 4am to 9pm, May through October)
+
+[Clown Fish] kumanomi - 650 - sm - 15cm - tiny - in ocean - April through September, all day (best time is May through mid-August)
+
+[Surgeonfish] nanyouhagi - 1,000 - sm - 31cm - small - in ocean - April through September, all day
+
+[Butterfly Fish] chouchouuo - 1,000 - sm - 18cm - small - in ocean - April through September, all day (best time is May and June)
+
+[Napoleonfish] naporeonfisshu - 10,000 - lrg - 180cm - huge - in ocean - July through August, 4am to 9pm
+
+[Zebra Turkeyfish] minokasago - 400 - sm - 30cm - medium - in ocean - April through November, all day (best time is May through October)
+
+[Blowfish] fugu - 125 - sm - 25cm - medium - in ocean - November through February, 9pm to 4am
+
+[Puffer Fish] harisenbon - 240 - sm - 35cm - medium - in ocean - July through September, all day (best time is August)
+
+[Horse Mackerel] aji - 150 - sm - 40cm - small - in ocean - all year, all day
+
+[Barred Knifejaw] ishidai - 5,000 - sm - 60cm - medium - in ocean - March through November, all day
+
+[Sea Bass] suzuki - 200 - med - 100cm - very large - in ocean - all year, all day
+
+[Red Snapper] tai - 3,000 - sm - 90cm - medium - in ocean - all year, all day (best time is March through October)
+
+[Dab] karei - 300 - sm - 50cm - medium - in ocean - October through April, all day (best time is November through March)
+
+[Olive Flounder] hirame - 800 - sm - 80cm - large - in ocean - all year, all day (best time is November through March)
+
+[Squid] ika - 400 - sm - 35cm - medium - in ocean - December through mid-August,all day
+
+[Moray Eel] utsubo - 2,000 - med - 80cm - very large - in ocean - August through October, all day
+
+[Ribbon Eel] hanahigeutsubo - 600 - med - 120cm - thin - in Island ocean - all year, all day
+
+[Football Fish] chouchinankou - 2,500 - sm - 60cm - large - in ocean - November through March, 4pm to 9am (best time is December through February)
+
+[Tuna] maguro - 7,000 - med - 230cm - huge - in ocean - November through March, all day
+
+[Blue Marlin] kajiki - 10,000 - med - 220cm - huge - in ocean - July through September, all day
+
+[Giant Trevally] rouninaji - 4,500 - med - 180cm - very large - in Island ocean - all year, all day
+
+[Ray] ei - 3,000 - med - 120cm - very large - in ocean - August through November, 4am to 9pm
+
+[Ocean Sunfish] manbou - 4,000 - lrg - 300cm - huge with fin - in ocean - June through September, 4am to 9pm
+
+[Hammerhead Shark] shumokuzame - 8,000 - lrg - 250cm - huge with fin - in ocean - June through September, 4pm to 9am
+
+[Shark] same - 15,000 - lrg - 540cm - huge with fin - in ocean - June through September, 4pm to 9am
+
+[Saw Shark] nokogirizame - 12,000 - lrg - 150cm - huge with fin - in ocean - June through September, 4pm to 9am
+
+[Whale Shark] jinbeezame - 13,000 - lrg - 600cm - huge with fin - in Island ocean - all year, all day
+
+[Oarfish] ryuuguunotsukai - 9,000 - lrg - 580sm - huge - in ocean - December through May, all day
+
+[Coelacanth] shirakansu - 15,000 - med - 150cm - huge - in ocean during rain or snow - all year, 4pm to 9am

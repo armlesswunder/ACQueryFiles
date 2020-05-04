@@ -1,0 +1,133 @@
+24-Hour-Shop ABD* - DLC (JP) - sm - none/711 - red/white - none - ??? - can use ("In-Store Bellpoint" in European version)
+
+24-Hour-Shop Counter* - DLC (JP) - med - none/711 - white/white - none - ???
+
+24-Hour-Shop Model* - DLC (JP) - sm - none/711 - colorful/brown - Toy Shop - ??? - can place on table
+
+24-Hour-Shop Sign* - DLC (JP) - sm - none/711 - colorful/gray - none - ??? - can use
+
+Afternoon-Tea Set* - DLC (JP, KOR, NA, EU) - sm - none/420 - colorful/white - Fairy Tale - ??? - can place on table
+
+Aquarius Urn - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - aqua/aqua - none - ???
+
+Aries Rocking Chair - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - beige/beige - none - ??? - can use
+
+Aurora Screen - DLC (JP, KOR, NA, EU) - med - 4,080/1,020 - colorful/black - Sci-Fi - ??? - changes color
+
+Autumn-Leaf Chair - DLC (JP, KOR, NA, EU) - sm - 4,440/1,110 - orange/orange - Rustic - ??? - chair
+
+Barbecue Bed* - DLC (JP, KOR, EU) - lrg - none/711 - brown/black - none - ??? - bed
+
+Buffet Server* - DLC (JP, EU) - sm - none/711 - brown/gray - Harmonious - ??? - can use, can place on table
+
+Cancer Table - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - yellow/yellow - none - ??? - table
+
+Capricorn Ornament - DLC (JP, KOR, NA, EU) - med - 4,800/1,200 - white/white - none - ??? - storage
+
+Cat Tower - DLC (JP, KOR, NA, EU) - sm - 1,600/400 - beige/beige - none - ???
+
+Cherry-Blossom Clock - DLC (JP, KOR, NA, EU) - sm - 4,160/1,040 - pink/pink - Rustic - ??? - clock, hangs on wall
+
+Double-Neck Guitar - DLC (JP, KOR, NA, EU) - sm - 2,800/700 - yellow/yellow - Trendy - ??? - can use, can refurbish
+
+Eraser Sofa - DLC (JP, EU) - med - 23,760/5,940 - white/white - Trendy - ??? - chair, can refurbish
+
+Fedora Chair* - DLC (JP, KOR, NA, EU) - sm - none/800 - white/black - Trendy - ??? - chair
+
+Fireworks Table - DLC (JP, KOR, NA, EU) - lrg - 4,320/1,080 - colorful/brown - none - ??? - table
+
+Full-Moon Vanity - DLC (JP, KOR, NA, EU) - med - 4,360/1,090 - yellow/white - none - ???
+
+Gemini Closet - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - blue/blue - none - ??? - storage
+
+Hagoita* - DLC (JP, NA, EU) - sm - none/600 - red/brown - Harmonious - ???
+
+Kadomatsu - DLC (JP, NA, EU) - sm - 2,580/645 - green/green - Harmonious/Rustic - ???
+
+Kagamimochi - DLC (JP, NA, EU) - sm - 1,800/450 - brown/white - Harmonious - ???
+
+Kimbap Plate* - DLC (JP, KOR, EU) - sm - none/200 - white/black - Harmonious - ??? - can place on table
+
+Leaf Bed - DLC (JP, KOR, NA, EU) - med - 4,200/1,050 - green/green - Rustic - ??? - bed
+
+Leo Sculpture - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - gray/gray - Quirky - ??? - hangs on wall
+
+Libra Scale - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - brown/brown - none - ??? - can place on table
+
+Notebook Bed - DLC (JP) - med - 23,760/5,940 - ???/pink - Trendy - ??? - bed, can refurbish
+
+Notebook Wardrobe - DLC (JP) - sm - 23,760/5,940 - ???/pink - Trendy - ??? - storage, can refurbish
+
+Palm-Tree Lamp - DLC (JP, KOR, NA, EU) - sm - 4,280/1,070 - ???/brown - Rustic - ??? - lamp
+
+Pencil Screen - DLC (JP, EU) - med - 23,760/5,940 - ???/??? - Trendy - ???
+
+Pile of Leaves - DLC (JP, KOR, NA, EU) - sm - 400/100 - yellow/brown - Rustic - ??? - can walk upon
+
+Pisces Lamp - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - blue/aqua - none - ??? - lamp
+
+Pumpkin Pie* - DLC (JP, KOR, NA, EU) - sm - none/375 - orange/??? - Fairy Tale - ??? - can place on table
+
+Raccoon Wall Clock - DLC (JP, KOR, NA, EU) - sm - 1,600/400 - brown/brown - Toy Shop - ??? - clock, hangs on wall
+
+Rainbow Screen - DLC (JP, KOR, NA, EU) - med - 4,240/1,060 - colorful/white - Sci-Fi - ???
+
+Rice-Plant Bed - DLC (JP, KOR, NA, EU) - med - 4,400/1,100 - beige/beige - Rustic - ??? - bed
+
+Rolling Suitcase - DLC (JP, KOR, NA, EU) - sm - 1,000/250 - red/gray - none - ??? - can refurbish
+
+Sagittarius Arrow - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - black/black - Quirky - ??? - hangs on wall
+
+Sandwich Display* - DLC (JP) - sm - none/711 - colorful/white - none - ???
+
+Scorpio Lamp - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - purple/purple - Quirky - ??? - lamp
+
+Set Square Table - DLC (JP) - lrg - 23,760/5,940 - ???/??? - Trendy - ??? - table
+
+Shaved-Ice Lamp* - DLC (JP, KOR, NA, EU) - sm - none/600 - colorful/white - Fairy Tale - ??? - lamp, can place on table
+
+Slushie Machine - DLC (JP, KOR, NA, EU) - sm - 2,400/600 - colorful/gray - none - ???
+
+Soft-Drink Display* - DLC (JP) - med - none/711 - colorful/white - none - ???
+
+Sprout Table - DLC (JP, KOR, NA, EU) - med - 4,120/1,030 - green/green - Rustic - ??? - table
+
+Steamed-Bun Case* - DLC (JP, KOR, EU) - sm - none/711 - ???/white - Harmonious - ??? - can place on table
+
+Sticker Tape Liner - DLC (JP) - sm - 23,760/5,940 - blue/??? - Trendy - ??? - can refurbish
+
+Sunrise Lamp - DLC (JP, KOR, NA, EU) - sm - 4,040/1,010 - orange/brown - none - ??? - lamp, hangs on wall
+
+Taurus Bathtub - DLC (JP, KOR, NA, EU) - med - 4,800/1,200 - black/black - none - ???
+
+Top - DLC (JP, KOR, NA, EU) - sm - 2,000/500 - red/black - Harmonious - ???
+
+Tree-Stump Chair - DLC (JP, KOR, NA, EU) - sm - 4,480/1,120 - beige/brown - Rustic - ??? - chair
+
+Tteok Plate* - DLC (JP, KOR, EU) - sm - none/80 - ???/brown - Harmonious - ??? - can place on table
+
+Turkey* - DLC (JP, KOR, EU) - sm - none/750 - ???/brown - none - ??? - can place on table
+
+Virgo Harp - DLC (JP, KOR, NA, EU) - sm - 4,800/1,200 - brown/brown - none - ??? - can use
+
+Yule Log* - DLC (JP, KOR, EU) - sm - none/250 - ???/brown - Fairy Tale - ??? - can place on table
+
+Notebook Wall - DLC (JP) - 23,760/5,940 - a - ???/??? - Trendy - ???
+
+Notebook Floor - DLC (JP) - 23,760/5,940 - a - ???/??? - Trendy - ???
+
+24-Hour-Shop Uniform* - DLC (JP) - none/711 - a - purple/??? - none - Official - ???
+
+Clerk's Shirt - DLC (JP, KOR, NA, EU) - 420/105 - a - colorful/white - none - Official - ??? - unisex, (not V-striped)
+
+Flamenco Hat - DLC (JP, KOR, EU) - 1,600/400 - a - black/black - none - Official - ???
+
+Red-Horned Hat - DLC (JP, KOR, EU) - 2,400/600 - a - red/red - Quirky - Sporty - ???
+
+School Cap - DLC (JP, KOR) - 360/90 - a - blue/blue - none - Sporty - ??? - (is a cap)
+
+Tam-O'-Shanter - DLC (JP, EU) - 4,000/1,000 - a - red/black - none - Iconic - ???
+
+White Police Cap - DLC (JP, KOR, EU) - 480/120 - a - white/black - none - Official - ??? - (is not a cap)
+
+White School Cap - DLC (JP, KOR) - 360/90 - a - white/white - none - Sporty - ??? - (is a cap)

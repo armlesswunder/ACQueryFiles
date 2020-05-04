@@ -1,0 +1,59 @@
+[Seaweed] wakame - 200 - sm - 80cm - large; stationary - in ocean - November through July, all day (best time is 9am to 4pm, December to June)
+
+[Sea Grapes] umibudou - 600 - sm - 20cm - small; stationary - in ocean - June through mid-September, all day (best time is 4am to 9pm, August)
+
+[Sea Urchin] uni - 800 - sm - 12cm - small; stationary - in ocean - May through mid-September, all day (best time is June through August)
+
+[Acorn Barnacle] fujitsubo - 200 - sm - 3cm - tiny; stationary - in ocean - all year, all day (best time is June through August)
+
+[Oyster] oisuta - 400 - sm - 8cm - small; stationary - in ocean - September through February, all day (best time is 9am to 4pm, November through December)
+
+[Turban Shell] sazae - 300 - sm - 12cm - small; uniform movement - in ocean - August through May, 4pm to 9am (best time is 9pm to 4am)
+
+[Abalone] awabi - 400 - sm - 18cm - medium; uniform movement - in ocean - all year, 4pm to 9am (best time is 9pm to 4am, May through mid-September)
+
+[Ear Shell] tokobushi - 300 - sm - 7cm - small; uniform movement - in ocean - all year, 4pm to 9am (best time is 9pm to 4am, May through mid-September)
+
+[Clam] hamaguri - 300 - sm - 4cm - small; erratic movement - in ocean - September through April, all day (best time is 9am to 4pm, January through February)
+
+[Pearl Oyster] akoyagai - 1,600 - sm - 10cm - small; stationary - in ocean - all year, all day (best time is January and February)
+
+[Scallop] hotate - 1,000 - sm - 14cm - medium; erratic movement - in ocean - all year, all day (best time is November through January)
+
+[Sea Anemone] isoginchaku - 100 - sm - 20cm - medium; stationary - in ocean - all year, all day
+
+[Sea Star] hitode - 100 - sm - 25cm - small; uniform movement - in ocean - all year, all day
+
+[Sea Cucumber] namako - 150 - sm - 60cm - medium; uniform movement - in ocean - November through April, all day (best time is January through March)
+
+[Sea Slug] umiushi - 200 - sm - 4cm - small; uniform movement - in ocean - all year, all day (best time is November through April)
+
+[Flatworm] hiramushi - 200 - sm - 4cm - small; uniform movement - in ocean - August through mid-September, 4pm to 9am
+
+[Mantis Shrimp] shako - 1,250 - sm - 20cm - small; erratic movement - in ocean - all year, 4pm to 9am
+
+[Sweet Shrimp] amaebi - 650 - sm - 12cm - small; erratic movement - in ocean - mid-September through February, 4pm to 9am (best time is 9pm to 4am, October through December)
+
+[Tiger Prawn] kurumaebi - 1,600 - sm - 20cm - small; uniform movement - in ocean - June through September, 4pm to 9am
+
+[Spiny Lobster] iseebi - 3,000 - sm - 30cm - large; erratic movement - in ocean - mid-September through December, 9pm to 4am
+
+[Lobster] robusuta - 2,500 - sm - 50cm - large; uniform movement - in ocean - all year, all day
+
+[Snow Crab] zuwaigani - 4,000 - sm - 36cm - large; uniform movement - in ocean - November through April, all day
+
+[Horsehair Crab] kegani - 4,000 - sm - 24cm - medium; uniform movement - in ocean - November through April, all day
+
+[Red King Crab] tarabagani - 6,000 - sm - 50cm - large; uniform movement - in ocean - November through March, all day
+
+[Spider Crab] takaashigani - 10,000 - lrg - 120cm - very large; uniform movement - in ocean - March through April, all day
+
+[Octopus] tako - 1,200 - sm - 50cm - medium; erratic movement - in ocean - March through July, all day - mid-September through January, all day
+
+[Spotted Garden Eel] chinanago - 600 - sm - 40cm - small; stationary - in Island ocean - all year, all day
+
+[Chambered Nautilus] oumugai - 900 - sm - 35cm - medium; uniform movement - in Island ocean - all year, all day
+
+[Horseshoe Crab] kabutogani - 1,500 - sm - 40cm - medium; uniform movement - in ocean - July through September, 9pm to 4am
+
+[Giant Isopod] daiou gusoku mushi - 9,000 - sm - 30cm - medium; uniform movement - in Island ocean - all year, all day

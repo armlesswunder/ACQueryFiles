@@ -1,0 +1,452 @@
+antique boots -  - Brown - No - 2640 - 660 - Brown - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeAntique0 - 5523
+antique boots -  - Black - No - 2640 - 660 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeAntique1 - 11689
+antique boots -  - Greige - No - 2640 - 660 - Beige - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeAntique2 - 11690
+armor shoes -  - Gray - Yes - NFS - 3000 - Gray - Gray - 1x1 - Crafting -  - 1.0.0 - Cool - Not for sale - ShoesKneeKnightIron - 5472
+babouches -  - Blue - No - 560 - 140 - Light blue - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush0 - 6043
+babouches -  - Orange - No - 560 - 140 - Orange - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush1 - 10109
+babouches -  - Pink - No - 560 - 140 - Pink - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush2 - 10110
+babouches -  - Yellow - No - 560 - 140 - Yellow - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush3 - 10111
+babouches -  - Gray - No - 560 - 140 - Gray - Yellow - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush4 - 10112
+babouches -  - Purple - No - 560 - 140 - Purple - Yellow - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush5 - 10113
+babouches -  - Mint - No - 560 - 140 - Green - Yellow - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush6 - 10114
+babouches -  - Red - No - 560 - 140 - Red - Yellow - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesSandalBaboush7 - 10115
+ballet slippers -  - Pink - No - 2200 - 550 - Pink - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet0 - 5608
+ballet slippers -  - Mint - No - 2200 - 550 - Light blue - Light blue - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet1 - 10155
+ballet slippers -  - Blue - No - 2200 - 550 - Blue - Blue - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet2 - 10156
+ballet slippers -  - Purple - No - 2200 - 550 - Purple - Purple - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet3 - 10157
+ballet slippers -  - Black - No - 2200 - 550 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet4 - 10158
+ballet slippers -  - White - No - 2200 - 550 - Beige - Beige - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet5 - 10159
+ballet slippers -  - Yellow - No - 2200 - 550 - Yellow - Yellow - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet6 - 10160
+ballet slippers -  - Red - No - 2200 - 550 - Orange - Orange - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutBallet7 - 10161
+basketball shoes -  - Red - No - 1500 - 375 - Red - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket0 - 5638
+basketball shoes -  - Green - No - 1500 - 375 - Green - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket1 - 10060
+basketball shoes -  - Beige - No - 1500 - 375 - Beige - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket2 - 10061
+basketball shoes -  - Orange - No - 1500 - 375 - Yellow - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket3 - 10062
+basketball shoes -  - Blue - No - 1500 - 375 - Blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket4 - 10063
+basketball shoes -  - Purple - No - 1500 - 375 - Purple - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket5 - 10064
+basketball shoes -  - Light blue - No - 1500 - 375 - Light blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket6 - 10065
+basketball shoes -  - Pink - No - 1500 - 375 - Pink - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutBasket7 - 10066
+beaded sandals -  - Orange - No - 1800 - 450 - Orange - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads0 - 5478
+beaded sandals -  - Purple - No - 1800 - 450 - Purple - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads1 - 10137
+beaded sandals -  - Yellow - No - 1800 - 450 - Yellow - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads2 - 10138
+beaded sandals -  - Red - No - 1800 - 450 - Red - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads3 - 10139
+beaded sandals -  - Green - No - 1800 - 450 - Green - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads4 - 10140
+beaded sandals -  - Beige - No - 1800 - 450 - Beige - Colorful - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Gorgeous - For sale - ShoesSandalBeads5 - 10141
+boots -  - Green - No - 560 - 140 - Green - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRubberboots0 - 5479
+boots -  - Black - No - 560 - 140 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRubberboots1 - 11685
+boots -  - Blue - No - 560 - 140 - Blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRubberboots2 - 11686
+boots -  - Red - No - 560 - 140 - Red - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRubberboots3 - 11687
+boots -  - Olive - No - 560 - 140 - Yellow - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRubberboots4 - 11688
+business shoes -  - Black - No - 1300 - 325 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutBusiness0 - 4730
+business shoes -  - Brown - No - 1300 - 325 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutBusiness1 - 11455
+cleats -  - Blue - No - 1200 - 300 - Blue - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike0 - 5654
+cleats -  - Light blue - No - 1200 - 300 - Light blue - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike1 - 10245
+cleats -  - Red - No - 1200 - 300 - Red - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike2 - 10246
+cleats -  - Yellow - No - 1200 - 300 - Yellow - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike3 - 10247
+cleats -  - Black - No - 1200 - 300 - Black - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike4 - 10248
+cleats -  - Orange - No - 1200 - 300 - Orange - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike5 - 10249
+cleats -  - Green - No - 1200 - 300 - Green - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike6 - 10250
+cleats -  - Purple - No - 1200 - 300 - Purple - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutSpike7 - 10251
+comfy sandals -  - Brown - No - 1040 - 260 - Brown - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort0 - 5619
+comfy sandals -  - White - No - 1040 - 260 - White - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort1 - 10700
+comfy sandals -  - Green - No - 1040 - 260 - Green - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort2 - 10701
+comfy sandals -  - Blue - No - 1040 - 260 - Blue - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort3 - 10702
+comfy sandals -  - Red - No - 1040 - 260 - Red - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort4 - 10703
+comfy sandals -  - Orange - No - 1040 - 260 - Orange - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort5 - 10704
+comfy sandals -  - Yellow - No - 1040 - 260 - Yellow - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort6 - 10705
+comfy sandals -  - Purple - No - 1040 - 260 - Purple - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalComfort7 - 10706
+cowboy boots -  - Brown - No - 2380 - 595 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeWestern0 - 5643
+cowboy boots -  - Black - No - 2380 - 595 - Black - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeWestern1 - 11253
+cowboy boots -  - Ivory - No - 2380 - 595 - White - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeWestern2 - 11254
+cowboy boots -  - Pink - No - 2380 - 595 - Pink - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeWestern3 - 11255
+cowboy boots -  - Blue - No - 2380 - 595 - Light blue - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeWestern4 - 11256
+cross-belt sandals -  - Green - No - 1040 - 260 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt0 - 4725
+cross-belt sandals -  - Pink - No - 1040 - 260 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt1 - 10121
+cross-belt sandals -  - Gray - No - 1040 - 260 - Gray - Gray - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt2 - 10122
+cross-belt sandals -  - Brown - No - 1040 - 260 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt3 - 10123
+cross-belt sandals -  - Black - No - 1040 - 260 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt4 - 10124
+cross-belt sandals -  - Purple - No - 1040 - 260 - Purple - Purple - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalCrossbelt5 - 10125
+cute sneakers -  - Light blue - No - 1260 - 315 - Light blue - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute0 - 5803
+cute sneakers -  - Green - No - 1260 - 315 - Green - Yellow - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute1 - 10266
+cute sneakers -  - Pink - No - 1260 - 315 - Pink - Purple - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute2 - 10267
+cute sneakers -  - Yellow - No - 1260 - 315 - Yellow - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute3 - 10268
+cute sneakers -  - Purple - No - 1260 - 315 - Purple - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute4 - 10269
+cute sneakers -  - Blue - No - 1260 - 315 - Blue - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutCute5 - 10270
+DAL slippers -  - Blue - No - 4040 - 1010 - Blue - Blue - 1x1 - Dodo Airlines - Received in mail from DAL after taking certain numbers of flights - 1.0.0 - Simple - Not for sale - AccessoryGlassSlippers0 - 12130
+earth-egg shoes -  - None - Yes - NFS - 800 - Red - Yellow - 1x1 - Crafting - Obtained after collecting Earth Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggground0 - 12455
+embroidered shoes -  - Red - No - 2100 - 525 - Red - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutEmbroidery0 - 9847
+embroidered shoes -  - White - No - 2100 - 525 - White - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutEmbroidery1 - 11987
+embroidered shoes -  - Black - No - 2100 - 525 - Black - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutEmbroidery2 - 11988
+embroidered shoes -  - Blue - No - 2100 - 525 - Light blue - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutEmbroidery3 - 11989
+faux-fur ankle booties -  - Olive - No - 1450 - 362 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesHighcutFurboots0 - 5476
+faux-fur ankle booties -  - Beige - No - 1450 - 362 - Beige - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesHighcutFurboots1 - 11682
+faux-fur ankle booties -  - Ruby red - No - 1450 - 362 - Red - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesHighcutFurboots2 - 11683
+faux-fur ankle booties -  - Navy blue - No - 1450 - 362 - Blue - Gray - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesHighcutFurboots3 - 11684
+faux-shearling boots -  - Beige - No - 1600 - 400 - Beige - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutMouton0 - 4721
+faux-shearling boots -  - Pink - No - 1600 - 400 - Pink - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutMouton1 - 11547
+faux-shearling boots -  - Green - No - 1600 - 400 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutMouton2 - 11548
+faux-shearling boots -  - Black - No - 1600 - 400 - Black - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutMouton3 - 11549
+faux-shearling boots -  - Gray - No - 1600 - 400 - Gray - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesHighcutMouton4 - 11550
+faux-suede sneakers -  - Green - No - 1080 - 270 - Green - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede0 - 6893
+faux-suede sneakers -  - Navy blue - No - 1080 - 270 - Blue - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede1 - 10074
+faux-suede sneakers -  - Beige - No - 1080 - 270 - Beige - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede2 - 10075
+faux-suede sneakers -  - Orange - No - 1080 - 270 - Orange - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede3 - 10076
+faux-suede sneakers -  - Pink - No - 1080 - 270 - Pink - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede4 - 10077
+faux-suede sneakers -  - Light blue - No - 1080 - 270 - Light blue - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede5 - 10078
+faux-suede sneakers -  - Purple - No - 1080 - 270 - Purple - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede6 - 10079
+faux-suede sneakers -  - Berry red - No - 1080 - 270 - Red - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutSuede7 - 10080
+flip-flops -  - Blue - No - 350 - 87 - Blue - Light blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder0 - 5470
+flip-flops -  - Green - No - 350 - 87 - Green - Orange - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder1 - 6922
+flip-flops -  - Yellow - No - 350 - 87 - Yellow - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder2 - 10169
+flip-flops -  - White - No - 350 - 87 - White - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder3 - 10735
+flip-flops -  - Orange - No - 350 - 87 - Orange - Blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder4 - 10736
+flip-flops -  - Light blue - No - 350 - 87 - Light blue - Orange - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder5 - 10737
+flip-flops -  - Pink - No - 350 - 87 - Pink - Gray - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder6 - 10738
+flip-flops -  - Red - No - 350 - 87 - Red - Yellow - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalBeachborder7 - 10739
+flower sandals -  - Yellow - No - 1200 - 300 - Yellow - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower0 - 5475
+flower sandals -  - Pink - No - 1200 - 300 - Red - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower1 - 10126
+flower sandals -  - Green - No - 1200 - 300 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower2 - 10127
+flower sandals -  - Purple - No - 1200 - 300 - Purple - Purple - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower3 - 10128
+flower sandals -  - Blue - No - 1200 - 300 - Blue - Light blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower4 - 10129
+flower sandals -  - Black - No - 1200 - 300 - Black - Gray - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower5 - 10130
+flower sandals -  - White - No - 1200 - 300 - White - Gray - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesSandalFlower6 - 10131
+ghillie brogues -  - Brown - No - 2340 - 585 - Brown - Brown - 1x1 - Kicks -  - 1.0.0 - Gorgeous - For sale - ShoesLowcutBrogues0 - 6042
+ghillie brogues -  - Black - No - 2340 - 585 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Gorgeous - For sale - ShoesLowcutBrogues1 - 11477
+ghillie brogues -  - White - No - 2340 - 585 - White - White - 1x1 - Kicks -  - 1.0.0 - Gorgeous - For sale - ShoesLowcutBrogues2 - 11478
+gladiator sandals -  - Brown - No - 1800 - 450 - Brown - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesSandalGladiator0 - 5620
+gladiator sandals -  - Black - No - 1800 - 450 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesSandalGladiator1 - 11251
+gladiator sandals -  - Red - No - 1800 - 450 - Red - Red - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Elegant - For sale - ShoesSandalGladiator2 - 11252
+gold-armor shoes -  - Gold - Yes - NFS - 40000 - Yellow - Yellow - 1x1 - Crafting -  - 1.0.0 - Gorgeous - Not for sale - ShoesKneeKnightGold - 5524
+hi-tech sneakers -  - Orange - No - 1260 - 315 - Orange - Yellow - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesHighcutHightech0 - 5659
+hi-tech sneakers -  - Pink - No - 1260 - 315 - Pink - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesHighcutHightech1 - 10252
+hi-tech sneakers -  - Green - No - 1260 - 315 - Green - Light blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesHighcutHightech2 - 10253
+hi-tech sneakers -  - Light blue - No - 1260 - 315 - Light blue - Purple - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesHighcutHightech3 - 10254
+hi-tech sneakers -  - Blue - No - 1260 - 315 - Blue - Red - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesHighcutHightech4 - 10255
+high-tops -  - Gray - No - 1080 - 270 - Gray - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker0 - 2572
+high-tops -  - Brown - No - 1080 - 270 - Brown - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker1 - 10039
+high-tops -  - Green - No - 1080 - 270 - Green - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker2 - 10040
+high-tops -  - Blue - No - 1080 - 270 - Blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker3 - 10041
+high-tops -  - Purple - No - 1080 - 270 - Purple - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker4 - 10042
+high-tops -  - Red - No - 1080 - 270 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker5 - 10043
+high-tops -  - Yellow - No - 1080 - 270 - Yellow - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker6 - 10044
+high-tops -  - White - No - 1080 - 270 - White - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutSneaker7 - 10045
+house slippers -  - Gray - No - 490 - 122 - Gray - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder0 - 5564
+house slippers -  - Navy blue - No - 490 - 122 - Blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder1 - 10091
+house slippers -  - Pink - No - 490 - 122 - Pink - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder2 - 10092
+house slippers -  - Yellow - No - 490 - 122 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder3 - 10093
+house slippers -  - Green - No - 490 - 122 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder4 - 10094
+house slippers -  - Blue - No - 490 - 122 - Light blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder5 - 10095
+house slippers -  - Red - No - 490 - 122 - Red - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder6 - 10096
+house slippers -  - Beige - No - 490 - 122 - Beige - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesSandalRoomborder7 - 10097
+jester's shoes -  - Purple - No - 1900 - 475 - Purple - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeClown0 - 5639
+jester's shoes -  - Black - No - 1900 - 475 - Black - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeClown1 - 11558
+jester's shoes -  - Red - No - 1900 - 475 - Red - Blue - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeClown2 - 11559
+jester's shoes -  - Green - No - 1900 - 475 - Green - Yellow - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeClown3 - 11560
+kiddie sneakers -  - Red - No - 700 - 175 - Red - Yellow - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports0 - 5761
+kiddie sneakers -  - Blue - No - 700 - 175 - Blue - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports1 - 10261
+kiddie sneakers -  - Green - No - 700 - 175 - Green - Blue - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports2 - 10262
+kiddie sneakers -  - Purple - No - 700 - 175 - Purple - Orange - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports3 - 10263
+kiddie sneakers -  - Silver - No - 700 - 175 - Gray - Blue - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports4 - 10264
+kiddie sneakers -  - Black - No - 700 - 175 - Black - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesHighcutSports5 - 10265
+kimono sandals -  - Black - No - 1600 - 400 - Black - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta0 - 3704
+kimono sandals -  - Red - No - 1600 - 400 - Red - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta1 - 10962
+kimono sandals -  - Pink - No - 1600 - 400 - Pink - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta2 - 10963
+kimono sandals -  - Dark blue - No - 1600 - 400 - Blue - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta3 - 10964
+kimono sandals -  - Gray - No - 1600 - 400 - Gray - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta4 - 10965
+kimono sandals -  - Purple - No - 1600 - 400 - Purple - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta5 - 10966
+kimono sandals -  - Yellow - No - 1600 - 400 - Yellow - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta6 - 10967
+kimono sandals -  - Green - No - 1600 - 400 - Green - Beige - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesSandalGeta7 - 10968
+kung-fu shoes -  - Black - No - 1260 - 315 - Black - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesLowcutKungfu0 - 9846
+Labelle pumps -  - Twilight - No - 3500 - 875 - Purple - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel0 - 9884
+Labelle pumps -  - Midnight - No - 3500 - 875 - Black - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel1 - 11766
+Labelle pumps -  - Passion - No - 3500 - 875 - Red - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel2 - 11767
+Labelle pumps -  - Ocean - No - 3500 - 875 - Blue - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel3 - 11768
+Labelle pumps -  - Sunset - No - 3500 - 875 - Yellow - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel4 - 11769
+Labelle pumps -  - Love - No - 3500 - 875 - Pink - Gray - 1x1 - Labelle -  - 1.0.0 - Elegant - For sale - ShoesLowcutKateheel5 - 11770
+Labelle sneakers -  - Twilight - No - 3300 - 825 - Purple - Black - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker0 - 9885
+Labelle sneakers -  - Midnight - No - 3300 - 825 - Black - White - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker1 - 11771
+Labelle sneakers -  - Passion - No - 3300 - 825 - Red - Black - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker2 - 11772
+Labelle sneakers -  - Ocean - No - 3300 - 825 - Blue - Black - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker3 - 11773
+Labelle sneakers -  - Sunset - No - 3300 - 825 - Yellow - Black - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker4 - 11774
+Labelle sneakers -  - Love - No - 3300 - 825 - Pink - Black - 1x1 - Labelle -  - 1.0.0 - Cool - For sale - ShoesHighcutKatesneaker5 - 11775
+lace-up boots -  - Black - No - 1920 - 480 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesKneeLaceup0 - 5667
+lace-up boots -  - White - No - 1920 - 480 - White - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesKneeLaceup1 - 11257
+lace-up boots -  - Brown - No - 1920 - 480 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesKneeLaceup2 - 11258
+lace-up boots -  - Red - No - 1920 - 480 - Red - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesKneeLaceup3 - 11259
+leaf-egg shoes -  - None - Yes - NFS - 800 - Yellow - Orange - 1x1 - Crafting - Obtained after collecting Leaf Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggleaf0 - 12456
+leopard pumps -  - Beige - No - 1560 - 390 - Beige - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard0 - 5477
+leopard pumps -  - Gray - No - 1560 - 390 - Gray - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard1 - 10132
+leopard pumps -  - Blue - No - 1560 - 390 - Blue - Blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard2 - 10133
+leopard pumps -  - Green - No - 1560 - 390 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard3 - 10134
+leopard pumps -  - Purple - No - 1560 - 390 - Purple - Purple - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard4 - 10135
+leopard pumps -  - Pink - No - 1560 - 390 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutLeopard5 - 10136
+loafers -  - Brown - No - 1300 - 325 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers0 - 4724
+loafers -  - Black - No - 1300 - 325 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers1 - 11449
+loafers -  - White - No - 1300 - 325 - White - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers2 - 11450
+loafers -  - Pink - No - 1300 - 325 - Pink - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers3 - 11451
+loafers -  - Blue - No - 1300 - 325 - Blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers4 - 11452
+loafers -  - Yellow - No - 1300 - 325 - Yellow - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers5 - 11453
+loafers -  - Red - No - 1300 - 325 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutLoafers6 - 11454
+mage's booties -  - Black - No - 1550 - 387 - Black - Purple - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeWitch0 - 6894
+mage's booties -  - Blue - No - 1550 - 387 - Blue - Light blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeWitch1 - 11561
+mage's booties -  - White - No - 1550 - 387 - White - White - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeWitch2 - 11562
+mage's booties -  - Red - No - 1550 - 387 - Red - Red - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeWitch3 - 11563
+mary janes -  - Black - No - 1800 - 450 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap0 - 5471
+mary janes -  - Red - No - 1800 - 450 - Red - Red - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap1 - 10162
+mary janes -  - White - No - 1800 - 450 - White - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap2 - 10163
+mary janes -  - Light blue - No - 1800 - 450 - Light blue - Light blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap3 - 10164
+mary janes -  - Yellow - No - 1800 - 450 - Yellow - Yellow - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap4 - 10165
+mary janes -  - Blue - No - 1800 - 450 - Blue - Blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap5 - 10166
+mary janes -  - Green - No - 1800 - 450 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap6 - 10167
+mary janes -  - Pink - No - 1800 - 450 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesLowcutStrap7 - 10168
+moccasin boots -  - Camel - No - 1120 - 280 - Yellow - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin0 - 5542
+moccasin boots -  - Olive - No - 1120 - 280 - Green - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin1 - 11456
+moccasin boots -  - Beige - No - 1120 - 280 - Beige - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin2 - 11457
+moccasin boots -  - Pink - No - 1120 - 280 - Pink - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin3 - 11458
+moccasin boots -  - Black - No - 1120 - 280 - Black - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin4 - 11459
+moccasin boots -  - Blue - No - 1120 - 280 - Light blue - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin5 - 11460
+moccasin boots -  - Orange - No - 1120 - 280 - Brown - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutMoccasin6 - 11461
+moccasins -  - Camel - No - 1080 - 270 - Yellow - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin0 - 5807
+moccasins -  - Red - No - 1080 - 270 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin1 - 11465
+moccasins -  - Light blue - No - 1080 - 270 - Light blue - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin2 - 11466
+moccasins -  - White - No - 1080 - 270 - White - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin3 - 11467
+moccasins -  - Pink - No - 1080 - 270 - Pink - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin4 - 11468
+moccasins -  - Gray - No - 1080 - 270 - Gray - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin5 - 11469
+moccasins -  - Black - No - 1080 - 270 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutMoccasin6 - 11470
+Nook Inc. slippers -  - White - No - NFS - 2000 - White - Green - 1x1 - Nook Miles Shop -  - 1.0.0 - Simple - Not for sale - ShoesSandalRco - 5630
+outdoor sandals -  - Green - No - 630 - 157 - Green - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor0 - 5640
+outdoor sandals -  - Red - No - 630 - 157 - Red - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor1 - 10707
+outdoor sandals -  - Blue - No - 630 - 157 - Blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor2 - 10708
+outdoor sandals -  - Purple - No - 630 - 157 - Purple - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor3 - 10709
+outdoor sandals -  - Yellow - No - 630 - 157 - Yellow - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor4 - 10710
+outdoor sandals -  - Orange - No - 630 - 157 - Orange - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor5 - 10711
+outdoor sandals -  - White - No - 630 - 157 - White - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor6 - 10712
+outdoor sandals -  - Black - No - 630 - 157 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalOutdoor7 - 10713
+paw slippers -  - Pink - No - 1260 - 315 - Pink - Pink - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutAnimal0 - 5469
+paw slippers -  - Brown - No - 1260 - 315 - Brown - Brown - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutAnimal1 - 10976
+paw slippers -  - White - No - 1260 - 315 - White - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutAnimal2 - 10977
+paw slippers -  - Blue - No - 1260 - 315 - Light blue - Light blue - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutAnimal3 - 10978
+paw slippers -  - Black - No - 1260 - 315 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutAnimal4 - 10979
+pleather ankle booties -  - Brown - No - 1280 - 320 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesHighcutShortboots0 - 5474
+pleather ankle booties -  - Black - No - 1280 - 320 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesHighcutShortboots1 - 11679
+pleather ankle booties -  - Green - No - 1280 - 320 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesHighcutShortboots2 - 11680
+pleather ankle booties -  - Mustard - No - 1280 - 320 - Yellow - Yellow - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesHighcutShortboots3 - 11681
+pleather sneakers -  - White - No - 700 - 175 - White - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker0 - 4716
+pleather sneakers -  - Black - No - 700 - 175 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker1 - 10046
+pleather sneakers -  - Red - No - 700 - 175 - Red - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker2 - 10047
+pleather sneakers -  - Green - No - 700 - 175 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker3 - 10048
+pleather sneakers -  - Blue - No - 700 - 175 - Blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker4 - 10049
+pleather sneakers -  - Yellow - No - 700 - 175 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker5 - 10050
+pleather sneakers -  - Light blue - No - 700 - 175 - Light blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker6 - 10051
+pleather sneakers -  - Orange - No - 700 - 175 - Orange - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutLeathersneker7 - 10052
+pom-pom boots -  - Pink - No - 1600 - 400 - Pink - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles0 - 5545
+pom-pom boots -  - Red - No - 1600 - 400 - Red - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles1 - 6860
+pom-pom boots -  - Yellow - No - 1600 - 400 - Yellow - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles2 - 6867
+pom-pom boots -  - Purple - No - 1600 - 400 - Purple - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles3 - 11691
+pom-pom boots -  - Green - No - 1600 - 400 - Green - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles4 - 11692
+pom-pom boots -  - Blue - No - 1600 - 400 - Blue - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles5 - 11693
+pom-pom boots -  - Black - No - 1600 - 400 - Gray - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cute - For sale - ShoesHighcutBobbles6 - 11694
+power boots -  - Red - No - 3150 - 787 - Red - Gray - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneePowered0 - 5698
+power boots -  - Blue - No - 3150 - 787 - Blue - Green - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneePowered1 - 11797
+power boots -  - Green - No - 3150 - 787 - Green - Purple - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneePowered2 - 11798
+power boots -  - Black - No - 3150 - 787 - Black - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneePowered3 - 11799
+rain boots -  - Yellow - No - 490 - 122 - Yellow - Yellow - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots0 - 4733
+rain boots -  - Green - No - 490 - 122 - Green - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots1 - 11551
+rain boots -  - Blue - No - 490 - 122 - Blue - Blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots2 - 11552
+rain boots -  - Purple - No - 490 - 122 - Purple - Purple - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots3 - 11553
+rain boots -  - Pink - No - 490 - 122 - Pink - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots4 - 11554
+rain boots -  - Red - No - 490 - 122 - Red - Red - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots5 - 11555
+rain boots -  - Beige - No - 490 - 122 - Beige - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots6 - 11556
+rain boots -  - Black - No - 490 - 122 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesKneeRainboots7 - 11557
+recycled boots -  - Brown - Yes - NFS - 40 - Brown - Gray - 1x1 - Crafting -  - 1.0.0 - Simple - Not for sale - ShoesKneeRecyclingboots0 - 12326
+restroom slippers -  - Navy blue - No - 350 - 87 - Blue - Blue - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutToilet0 - 5800
+restroom slippers -  - Red - No - 350 - 87 - Red - Red - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutToilet1 - 10105
+restroom slippers -  - Green - No - 350 - 87 - Green - Green - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutToilet2 - 10106
+restroom slippers -  - Light blue - No - 350 - 87 - Light blue - Light blue - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutToilet3 - 10107
+restroom slippers -  - Pink - No - 350 - 87 - Pink - Pink - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutToilet4 - 10108
+ribbon sandals -  - Blue - No - 1300 - 325 - Blue - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon0 - 5814
+ribbon sandals -  - White - No - 1300 - 325 - White - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon1 - 10721
+ribbon sandals -  - Pink - No - 1300 - 325 - Pink - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon2 - 10722
+ribbon sandals -  - Yellow - No - 1300 - 325 - Yellow - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon3 - 10723
+ribbon sandals -  - Green - No - 1300 - 325 - Green - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon4 - 10724
+ribbon sandals -  - Berry red - No - 1300 - 325 - Red - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon5 - 10725
+ribbon sandals -  - Black - No - 1300 - 325 - Black - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon6 - 10726
+ribbon sandals -  - Beige - No - 1300 - 325 - Gray - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalRibbon7 - 10727
+rubber-toe high tops -  - Blue - No - 1260 - 315 - Blue - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe0 - 5617
+rubber-toe high tops -  - Olive - No - 1260 - 315 - Green - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe1 - 10053
+rubber-toe high tops -  - Beige - No - 1260 - 315 - Beige - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe2 - 10054
+rubber-toe high tops -  - Pink - No - 1260 - 315 - Pink - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe3 - 10055
+rubber-toe high tops -  - Berry red - No - 1260 - 315 - Red - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe4 - 10056
+rubber-toe high tops -  - Coral - No - 1260 - 315 - Orange - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe5 - 10057
+rubber-toe high tops -  - Ivory - No - 1260 - 315 - White - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe6 - 10058
+rubber-toe high tops -  - Black - No - 1260 - 315 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesHighcutRubbertoe7 - 10059
+rubber-toe sneakers -  - Purple - No - 1080 - 270 - Purple - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe0 - 6892
+rubber-toe sneakers -  - Green - No - 1080 - 270 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe1 - 10067
+rubber-toe sneakers -  - Yellow - No - 1080 - 270 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe2 - 10068
+rubber-toe sneakers -  - Light blue - No - 1080 - 270 - Light blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe3 - 10069
+rubber-toe sneakers -  - Red - No - 1080 - 270 - Red - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe4 - 10070
+rubber-toe sneakers -  - Pink - No - 1080 - 270 - Pink - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe5 - 10071
+rubber-toe sneakers -  - Blue - No - 1080 - 270 - Blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe6 - 10072
+rubber-toe sneakers -  - Black - No - 1080 - 270 - Black - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutRubbertoe7 - 10073
+samurai greaves -  - Red - No - 4300 - 1075 - Red - Blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeLegguard0 - 5546
+samurai greaves -  - Black - No - 4300 - 1075 - Black - Blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeLegguard1 - 11567
+samurai greaves -  - Blue - No - 4300 - 1075 - Blue - Blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeLegguard2 - 11568
+samurai greaves -  - White - No - 4300 - 1075 - White - Blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeLegguard3 - 11569
+samurai greaves -  - Golden yellow - No - 4300 - 1075 - Orange - Blue - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeLegguard4 - 11570
+shiny bow platform shoes -  - Pink - No - 2400 - 600 - Pink - Pink - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita0 - 5606
+shiny bow platform shoes -  - Black - No - 2400 - 600 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita1 - 10149
+shiny bow platform shoes -  - Red - No - 2400 - 600 - Red - Red - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita2 - 10150
+shiny bow platform shoes -  - Purple - No - 2400 - 600 - Purple - Purple - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita3 - 10151
+shiny bow platform shoes -  - Light blue - No - 2400 - 600 - Blue - Blue - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita4 - 10152
+shiny bow platform shoes -  - White - No - 2400 - 600 - White - White - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita5 - 10153
+shiny bow platform shoes -  - Light purple - No - 2400 - 600 - Purple - Purple - 1x1 - Kicks -  - 1.0.0 - Cute - For sale - ShoesLowcutLolita6 - 10154
+shower sandals -  - Black - No - 350 - 87 - Black - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalShower0 - 4714
+shower sandals -  - White - No - 350 - 87 - White - Gray - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalShower1 - 10696
+shower sandals -  - Gold - No - 350 - 87 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalShower2 - 10697
+shower sandals -  - Red - No - 350 - 87 - Red - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalShower3 - 10698
+shower sandals -  - Blue - No - 350 - 87 - Blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalShower4 - 10699
+ski boots -  - White - No - 1800 - 450 - White - Blue - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki0 - 5660
+ski boots -  - Orange - No - 1800 - 450 - Orange - Black - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki1 - 10992
+ski boots -  - Red - No - 1800 - 450 - Red - Black - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki2 - 10993
+ski boots -  - Lime - No - 1800 - 450 - Yellow - Green - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki3 - 10994
+ski boots -  - Light blue - No - 1800 - 450 - Light blue - Yellow - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki4 - 10995
+ski boots -  - Purple - No - 1800 - 450 - Blue - Pink - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSki5 - 10996
+sky-egg shoes -  - None - Yes - NFS - 800 - Green - Green - 1x1 - Crafting - Obtained after collecting Sky Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggsky0 - 12457
+slip-on loafers -  - Yellow - No - 490 - 122 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon0 - 5566
+slip-on loafers -  - Red - No - 490 - 122 - Red - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon1 - 6884
+slip-on loafers -  - Blue - No - 490 - 122 - Blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon2 - 6885
+slip-on loafers -  - Green - No - 490 - 122 - Green - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon3 - 6889
+slip-on loafers -  - Black - No - 490 - 122 - Black - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon4 - 6890
+slip-on loafers -  - Light blue - No - 490 - 122 - Light blue - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon5 - 10081
+slip-on loafers -  - White - No - 490 - 122 - White - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon6 - 10082
+slip-on loafers -  - Beige - No - 490 - 122 - Beige - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutSlipon7 - 10083
+slip-on sandals -  - Light blue - No - 560 - 140 - Light blue - Light blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin0 - 5565
+slip-on sandals -  - Lime - No - 560 - 140 - Yellow - Yellow - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin1 - 10098
+slip-on sandals -  - Black - No - 560 - 140 - Black - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin2 - 10099
+slip-on sandals -  - Pink - No - 560 - 140 - Pink - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin3 - 10100
+slip-on sandals -  - Navy blue - No - 560 - 140 - Blue - Blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin4 - 10101
+slip-on sandals -  - Red - No - 560 - 140 - Red - Red - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin5 - 10102
+slip-on sandals -  - Orange - No - 560 - 140 - Orange - Orange - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin6 - 10103
+slip-on sandals -  - Purple - No - 560 - 140 - Purple - Purple - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesSandalResin7 - 10104
+slip-on school shoes -  - Red - No - 350 - 87 - Red - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSchool0 - 5473
+slip-on school shoes -  - Blue - No - 350 - 87 - Blue - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSchool1 - 10980
+slip-on school shoes -  - Green - No - 350 - 87 - Green - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSchool2 - 10981
+slip-on school shoes -  - Yellow - No - 350 - 87 - Yellow - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSchool3 - 10982
+slip-on school shoes -  - Pink - No - 350 - 87 - Pink - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSchool4 - 10983
+slippers -  - Gray - No - 350 - 87 - Gray - Gray - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper0 - 5525
+slippers -  - Black - No - 350 - 87 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper1 - 10084
+slippers -  - White - No - 350 - 87 - White - White - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper2 - 10085
+slippers -  - Pink - No - 350 - 87 - Pink - Pink - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper3 - 10086
+slippers -  - Green - No - 350 - 87 - Green - Green - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper4 - 10087
+slippers -  - Blue - No - 350 - 87 - Light blue - Light blue - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper5 - 10088
+slippers -  - Red - No - 350 - 87 - Red - Red - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper6 - 10089
+slippers -  - Yellow - No - 350 - 87 - Yellow - Yellow - 1x1 - Kicks -  - 1.0.0 - Simple - For sale - ShoesLowcutSlipper7 - 10090
+space boots -  - White - No - 4300 - 1075 - White - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeSpaceWhite - 5760
+sporty sandals -  - Red - No - 1300 - 325 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports0 - 5824
+sporty sandals -  - Olive - No - 1300 - 325 - Green - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports1 - 10728
+sporty sandals -  - Blue - No - 1300 - 325 - Blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports2 - 10729
+sporty sandals -  - Purple - No - 1300 - 325 - Purple - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports3 - 10730
+sporty sandals -  - Green - No - 1300 - 325 - Green - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports4 - 10731
+sporty sandals -  - Pink - No - 1300 - 325 - Pink - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports5 - 10732
+sporty sandals -  - Beige - No - 1300 - 325 - Beige - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports6 - 10733
+sporty sandals -  - Gray - No - 1300 - 325 - Light blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Active - For sale - ShoesSandalSports7 - 10734
+steel-toed boots -  - Brown - No - 2640 - 660 - Brown - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots0 - 2593
+steel-toed boots -  - Beige - No - 2640 - 660 - Beige - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots1 - 11232
+steel-toed boots -  - Green - No - 2640 - 660 - Green - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots2 - 11233
+steel-toed boots -  - Black - No - 2640 - 660 - Black - Gray - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots3 - 11234
+steel-toed boots -  - Red - No - 2640 - 660 - Red - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots4 - 11235
+steel-toed boots -  - Gray - No - 2640 - 660 - Gray - Brown - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesKneeEngineerboots5 - 11236
+stone-egg shoes -  - None - Yes - NFS - 800 - Orange - Brown - 1x1 - Crafting - Obtained after collecting Stone Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggrock0 - 12458
+strappy heels -  - Red - No - 1560 - 390 - Red - Red - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter0 - 5561
+strappy heels -  - Blue - No - 1560 - 390 - Blue - Blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter1 - 10142
+strappy heels -  - Gold - No - 1560 - 390 - Orange - Orange - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter2 - 10143
+strappy heels -  - Silver - No - 1560 - 390 - Gray - Gray - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter3 - 10144
+strappy heels -  - Black - No - 1560 - 390 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter4 - 10145
+strappy heels -  - Pink - No - 1560 - 390 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter5 - 10146
+strappy heels -  - Green - No - 1560 - 390 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter6 - 10147
+strappy heels -  - Purple - No - 1560 - 390 - Purple - Purple - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Gorgeous - For sale - ShoesLowcutGlitter7 - 10148
+traditional flower shoes -  - Red - No - 1800 - 450 - Red - Blue - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutGgotshin0 - 5622
+traditional flower shoes -  - Pink - No - 1800 - 450 - Pink - White - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutGgotshin1 - 10988
+traditional flower shoes -  - Blue - No - 1800 - 450 - Blue - Brown - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutGgotshin2 - 10989
+traditional flower shoes -  - Yellow - No - 1800 - 450 - Yellow - Brown - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutGgotshin3 - 10990
+traditional flower shoes -  - Lime - No - 1800 - 450 - Yellow - Red - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutGgotshin4 - 10991
+trekking shoes -  - Orange - No - 1500 - 375 - Brown - Red - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking0 - 5388
+trekking shoes -  - Gray - No - 1500 - 375 - Black - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking1 - 11237
+trekking shoes -  - Black - No - 1500 - 375 - Black - Blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking2 - 11238
+trekking shoes -  - Light blue - No - 1500 - 375 - Light blue - Purple - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking3 - 11239
+trekking shoes -  - Yellow - No - 1500 - 375 - Yellow - White - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking4 - 11240
+trekking shoes -  - Purple - No - 1500 - 375 - Purple - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking5 - 11241
+trekking shoes -  - White - No - 1500 - 375 - White - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking6 - 11242
+trekking shoes -  - Brown - No - 1500 - 375 - Brown - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesHighcutTrekking7 - 11243
+velour boots -  - Ruby red - No - 1920 - 480 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeVelour0 - 4732
+velour boots -  - Gray - No - 1920 - 480 - Gray - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeVelour1 - 11675
+velour boots -  - Brown - No - 1920 - 480 - Brown - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeVelour2 - 11676
+velour boots -  - Blue - No - 1920 - 480 - Blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeVelour3 - 11677
+velour boots -  - Mustard - No - 1920 - 480 - Yellow - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesKneeVelour4 - 11678
+vinyl round-toed pumps -  - Beige - No - 1500 - 375 - Beige - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps0 - 4723
+vinyl round-toed pumps -  - Mint - No - 1500 - 375 - Light blue - Light blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps1 - 10116
+vinyl round-toed pumps -  - Brown - No - 1500 - 375 - Brown - Brown - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps2 - 10117
+vinyl round-toed pumps -  - Pink - No - 1500 - 375 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps3 - 10118
+vinyl round-toed pumps -  - White - No - 1500 - 375 - White - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps4 - 10119
+vinyl round-toed pumps -  - Black - No - 1500 - 375 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Simple - For sale - ShoesLowcutEnamelpumps5 - 10120
+visual-punk boots -  - Black - No - 2200 - 550 - Black - Black - 1x1 - Kicks -  - 1.0.0 - Cool - For sale - ShoesKneeVisualBlack - 5609
+walking shoes -  - Pink - No - 560 - 140 - Pink - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutHealth0 - 5775
+walking shoes -  - Beige - No - 560 - 140 - Beige - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutHealth1 - 10997
+walking shoes -  - Red - No - 560 - 140 - Red - Beige - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Simple - For sale - ShoesLowcutHealth2 - 10998
+water sandals -  - Pink - No - 1040 - 260 - Pink - Pink - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua0 - 5652
+water sandals -  - Navy blue - No - 1040 - 260 - Blue - Blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua1 - 10714
+water sandals -  - Red - No - 1040 - 260 - Red - Red - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua2 - 10715
+water sandals -  - Light blue - No - 1040 - 260 - Light blue - Light blue - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua3 - 10716
+water sandals -  - Orange - No - 1040 - 260 - Orange - Orange - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua4 - 10717
+water sandals -  - Purple - No - 1040 - 260 - Purple - Purple - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua5 - 10718
+water sandals -  - Green - No - 1040 - 260 - Green - Green - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua6 - 10719
+water sandals -  - Yellow - No - 1040 - 260 - Yellow - Yellow - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cute - For sale - ShoesSandalAqua7 - 10720
+water shoes -  - Pink - No - 900 - 225 - Pink - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine0 - 5808
+water shoes -  - Light blue - No - 900 - 225 - Light blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine1 - 10177
+water shoes -  - Orange - No - 900 - 225 - Orange - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine2 - 10271
+water shoes -  - Green - No - 900 - 225 - Green - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine3 - 10272
+water shoes -  - Navy blue - No - 900 - 225 - Blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine4 - 10273
+water shoes -  - Yellow - No - 900 - 225 - Yellow - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine5 - 10274
+water shoes -  - Red - No - 900 - 225 - Red - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine6 - 10275
+water shoes -  - Black - No - 900 - 225 - Gray - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Active - For sale - ShoesLowcutMarine7 - 10276
+water-egg shoes -  - None - Yes - NFS - 800 - Light blue - Red - 1x1 - Crafting - Obtained after collecting Water Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggfish0 - 12459
+wingtip shoes -  - Black & white - No - 900 - 225 - Black - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing0 - 5809
+wingtip shoes -  - Brown - No - 900 - 225 - Brown - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing1 - 11471
+wingtip shoes -  - Greige - No - 900 - 225 - Gray - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing2 - 11472
+wingtip shoes -  - Green - No - 900 - 225 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing3 - 11473
+wingtip shoes -  - Gray - No - 900 - 225 - Gray - Gray - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing4 - 11474
+wingtip shoes -  - Berry red - No - 900 - 225 - Red - Red - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing5 - 11475
+wingtip shoes -  - Black - No - 900 - 225 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesLowcutWing6 - 11476
+winklepickers -  - Red - No - 910 - 227 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesLowcutPointedtoe0 - 5655
+winklepickers -  - White - No - 910 - 227 - White - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesLowcutPointedtoe1 - 11462
+winklepickers -  - Black - No - 910 - 227 - Black - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesLowcutPointedtoe2 - 11463
+winklepickers -  - Blue - No - 910 - 227 - Blue - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Cool - For sale - ShoesLowcutPointedtoe3 - 11464
+wood-egg shoes -  - None - Yes - NFS - 800 - Purple - Beige - 1x1 - Crafting - Obtained after collecting Wood Eggs during Bunny Day Event - 1.1.0a - Active - Not for sale - ShoesLowcutEggforest0 - 12460
+wooden clogs -  - Yellow - No - 1300 - 325 - Yellow - Red - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutClog0 - 5618
+wooden clogs -  - Blue - No - 1300 - 325 - Blue - Pink - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutClog1 - 10984
+wooden clogs -  - Red - No - 1300 - 325 - Red - Yellow - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutClog2 - 10985
+wooden clogs -  - Green - No - 1300 - 325 - Green - Red - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutClog3 - 10986
+wooden clogs -  - Brown - No - 1300 - 325 - Brown - Orange - 1x1 - Kicks -  - 1.0.0 - Elegant - For sale - ShoesLowcutClog4 - 10987
+work boots -  - Red - No - 1920 - 480 - Red - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots0 - 5541
+work boots -  - Purple - No - 1920 - 480 - Purple - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots1 - 11244
+work boots -  - Pink - No - 1920 - 480 - Pink - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots2 - 11245
+work boots -  - Yellow - No - 1920 - 480 - Yellow - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots3 - 11246
+work boots -  - White - No - 1920 - 480 - White - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots4 - 11247
+work boots -  - Blue - No - 1920 - 480 - Blue - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots5 - 11248
+work boots -  - Green - No - 1920 - 480 - Green - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots6 - 11249
+work boots -  - Gray - No - 1920 - 480 - Gray - Black - 1x1 - Able Sisters - Available from either Mable's temporary shop or Able Sisters shop - 1.0.0 - Cool - For sale - ShoesHighcutWorkboots7 - 11250
+wrestling shoes -  - Red - No - 1080 - 270 - Red - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing0 - 5668
+wrestling shoes -  - Blue - No - 1080 - 270 - Blue - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing1 - 10256
+wrestling shoes -  - Green - No - 1080 - 270 - Green - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing2 - 10257
+wrestling shoes -  - Pink - No - 1080 - 270 - Pink - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing3 - 10258
+wrestling shoes -  - Black - No - 1080 - 270 - Black - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing4 - 10259
+wrestling shoes -  - Yellow - No - 1080 - 270 - Yellow - White - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeRing5 - 10260
+zap boots -  - White - No - 2640 - 660 - White - Red - 1x1 - Kicks -  - 1.0.0 - Active - For sale - ShoesKneeHeroWhite - 5624
+zori -  - Black - No - 4300 - 1075 - Red - Black - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori0 - 4734
+zori -  - Gold - No - 4300 - 1075 - Yellow - Yellow - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori1 - 10969
+zori -  - Pink - No - 4300 - 1075 - Pink - Pink - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori2 - 10970
+zori -  - Light pink - No - 4300 - 1075 - Pink - Beige - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori3 - 10971
+zori -  - Green - No - 4300 - 1075 - Green - Green - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori4 - 10972
+zori -  - White - No - 4300 - 1075 - Black - White - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori5 - 10973
+zori -  - Aqua - No - 4300 - 1075 - White - Light blue - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori6 - 10974
+zori -  - Red - No - 4300 - 1075 - Yellow - Red - 1x1 - Able Sisters - Available from Able Sisters shop only - 1.0.0 - Elegant - For sale - ShoesSandalZori7 - 10975

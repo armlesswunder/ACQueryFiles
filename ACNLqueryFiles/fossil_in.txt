@@ -1,0 +1,133 @@
+Amber - ground - sm - none/1,200 - orange/brown - none
+
+Ammonite - ground - sm - none/1,100 - brown/gray - none
+
+Ankylo Skull - ground - lrg - none/3,500 - brown/brown - Quirky - Ankylo Set
+
+Ankylo Torso - ground - lrg - none/3,000 - brown/brown - Quirky - Ankylo Set
+
+Ankylo Tail - ground - lrg - none/2,500 - brown/brown - Quirky - Ankylo Set
+
+Apato Skull - ground - lrg - none/5,000 - brown/brown - Quirky - Apato Set
+
+Apato Torso - ground - lrg - none/4,500 - brown/brown - Quirky - Apato Set
+
+Apato Tail - ground - lrg - none/4,000 - brown/brown - Quirky - Apato Set
+
+Archaeopteryx - ground - sm - none/1,300 - brown/brown - none
+
+Archelon Skull - ground - lrg - none/4,000 - brown/brown - Quirky - Archelon Set
+
+Archelon Torso - ground - lrg - none/3,500 - brown/brown - Quirky - Archelon Set
+
+Coprolite - ground - sm - none/1,100 - brown/gray - none
+
+Dimetrodon Skull - ground - lrg - none/5,500 - brown/brown - Quirky - Dimetrodon Set
+
+Dimetrodon Torso - ground - lrg - none/5,000 - brown/brown - Quirky - Dimetrodon Set
+
+Dimetrodon Tail - ground - lrg - none/4,500 - brown/brown - Quirky - Dimetrodon Set
+
+Dinosaur Egg - ground - sm - none/1,400 - brown/gray - none
+
+Dinosaur Track - ground - sm - none/1,000 - brown/gray - none
+
+Diplo Skull - ground - lrg - none/5,000 - brown/brown - Quirky - Diplo Set
+
+Diplo Neck - ground - lrg - none/5,000 - brown/brown - Quirky - Diplo Set
+
+Diplo Chest - ground - lrg - none/4,500 - brown/brown - Quirky - Diplo Set
+
+Diplo Hip - ground - lrg - none/4,000 - brown/brown - Quirky - Diplo Set
+
+Diplo Tail - ground - lrg - none/4,500 - brown/brown - Quirky - Diplo Set
+
+Fern Fossil - ground - sm - none/1,000 - brown/gray - none
+
+Ichthyo Skull - ground - lrg - none/2,500 - brown/brown - Quirky - Ichthyo Set
+
+Ichthyo Torso - ground - lrg - none/2,000 - brown/brown - Quirky - Ichthyo Set
+
+Iguanodon Skull - ground - lrg - none/4,000 - brown/brown - Quirky - Iguanodon Set
+
+Iguanodon Torso - ground - lrg - none/3,500 - brown/brown - Quirky - Iguanodon Set
+
+Iguanodon Tail - ground - lrg - none/3,000 - brown/brown - Quirky - Iguanodon Set
+
+Mammoth Skull - ground - lrg - none/3,000 - brown/brown - Quirky - Mammoth Set
+
+Mammoth Torso - ground - lrg - none/2,500 - brown/brown - Quirky - Mammoth Set
+
+Megacero Skull - ground - lrg - none/4,500 - brown/brown - Quirky - Megacero Set
+
+Megacero Torso - ground - lrg - none/3,500 - brown/brown - Quirky - Megacero Set
+
+Megacero Tail - ground - lrg - none/3,000 - brown/brown - Quirky - Megacero Set
+
+Pachy Skull - ground - lrg - none/4,000 - brown/brown - Quirky - Pachy Set
+
+Pachy Torso - ground - lrg - none/3,500 - brown/brown - Quirky - Pachy Set
+
+Pachy Tail - ground - lrg - none/3,000 - brown/brown - Quirky - Pachy Set
+
+Parasaur Skull - ground - lrg - none/3,500 - brown/brown - Quirky - Parasaur Set
+
+Parasaur Torso - ground - lrg - none/3,000 - brown/brown - Quirky - Parasaur Set
+
+Parasaur Tail - ground - lrg - none/2,500 - brown/brown - Quirky - Parasaur Set
+
+Peking Man - ground - sm - none/1,100 - brown/gray - none
+
+Plesio Skull - ground - lrg - none/4,000 - brown/brown - Quirky - Plesio Set
+
+Plesio Neck - ground - lrg - none/4,500 - brown/brown - Quirky - Plesio Set
+
+Plesio Torso - ground - lrg - none/4,500 - brown/brown - Quirky - Plesio Set
+
+Ptera Skull - ground - med - none/4,000 - brown/brown - Quirky - Ptera Set
+
+Ptera Left Wing - ground - med - none/4,500 - brown/brown - Quirky - Ptera Set
+
+Ptera Right Wing - ground - med - none/4,500 - brown/brown - Quirky - Ptera Set
+
+Raptor Skull - ground - lrg - none/3,000 - brown/brown - Quirky - Raptor Set
+
+Raptor Torso - ground - lrg - none/2,500 - brown/brown - Quirky - Raptor Set
+
+Styraco Tail - ground - lrg - none/2,500 - brown/brown - Quirky - Styraco Set
+
+Sabertooth Skull - ground - lrg - none/2,500 - brown/brown - Quirky - Sabertooth Set
+
+Sabertooth Torso - ground - lrg - none/2,000 - brown/brown - Quirky - Sabertooth Set
+
+Shark Tooth - ground - sm - none/1,000 - brown/gray - none
+
+Spino Skull - ground - lrg - none/4,000 - brown/brown - Quirky - Spino Set
+
+Spino Torso - ground - lrg - none/3,000 - brown/brown - Quirky - Spino Set
+
+Spino Tail - ground - lrg - none/2,500 - brown/brown - Quirky - Spino Set
+
+Stego Skull - ground - lrg - none/5,000 - brown/brown - Quirky - Stego Set
+
+Stego Torso - ground - lrg - none/4,500 - brown/brown - Quirky - Stego Set
+
+Stego Tail - ground - lrg - none/4,000 - brown/brown - Quirky - Stego Set
+
+Styraco Skull - ground - lrg - none/3,500 - brown/brown - Quirky - Styraco Set
+
+Styraco Torso - ground - lrg - none/3,000 - brown/brown - Quirky - Styraco Set
+
+T. Rex Skull - ground - lrg - none/6,000 - brown/brown - Quirky - T. Rex Set
+
+T. Rex Torso - ground - lrg - none/5,500 - brown/brown - Quirky - T. Rex Set
+
+T. Rex Tail - ground - lrg - none/5,000 - brown/brown - Quirky - T. Rex Set
+
+Tricera Skull - ground - lrg - none/5,500 - brown/brown - Quirky - Tricera Set
+
+Tricera Torso - ground - lrg - none/5,000 - brown/brown - Quirky - Tricera Set
+
+Tricera Tail - ground - lrg - none/4,500 - brown/brown - Quirky - Tricera Set
+
+Trilobite - ground - sm - none/1,300 - brown/gray - none

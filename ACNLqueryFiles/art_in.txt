@@ -1,0 +1,65 @@
+Amazing Painting - Redd/villager - sm - 3,920/980 - brown(black)/black - Antique/Quirky - Historical
+
+Ancient Statue - Redd - sm - 3,920/980 - gray/gray - Antique/Quirky - Historical - can place on table
+
+Basic Painting - Redd/villager - sm - 3,920/980 - blue/brown(yellow) - Antique/Quirky - Historical
+
+Beautiful Statue - Redd - sm - 3,920/980 - white/white - Antique/Quirky - Historical
+
+Calm Painting - Redd/villager - sm - 3,920/980 - colorful/brown(colorful) - Antique(/Harmonious when on wall) - Historical
+
+Common Painting - Redd/villager - sm - 3,920/980 - yellow/brown(black) - Antique - Historical
+
+Dynamic Painting - Redd/villager - sm - 3,920/980 - brown(blue)/white - Harmonious/Antique - Historical
+
+Famous Painting - Redd/villager - sm - 3,920/980 - brown/brown(black) - Antique/Quirky - Historical
+
+Fine Painting - Redd/villager - sm - 3,920/980 - colorful/brown(colorful) - Antique - Historical
+
+Flowery Painting - Redd/villager - sm - 3,920/980 - yellow/brown(orange) - Antique(/Harmonious when on wall) - Historical
+
+Gallant Statue - Redd - sm - 3,920/980 - white/white - Antique/Quirky - Historical
+
+Graceful Painting - Redd/villager - sm - 3,920/980 - red/brown - Harmonious(not if on wall)/Antique - Historical
+
+Great Statue - Redd - sm - 3,920/980 - yellow/black - Antique/Quirky - Historical
+
+Jolly Painting - Redd/villager - sm - 3,920/980 - yellow/brown(beige) - Antique - Historical
+
+Moody Painting - Redd/villager - sm - 3,920/980 - brown/brown(gray) - Antique(/Harmonious when on wall) - Historical
+
+Motherly Statue - Redd - med - 3,920/980 - pink/brown - Antique - Historical
+
+Moving Painting - Redd/villager - sm - 3,920/980 - brown(green)/white - Antique - Historical
+
+Mystic Statue - Redd - sm - 3,920/980 - yellow/black - Antique/Quirky - Historical
+
+Neutral Painting - Redd/villager - sm - 3,920/980 - brown(orange)/white - Antique - Historical
+
+Nice Painting - Redd/villager - sm - 3,920/980 - red/brown(white) - Antique - Historical
+
+Perfect Painting - Redd/villager - sm - 3,920/980 - brown(red)/white - Antique - Historical
+
+Proper Painting - Redd/villager - sm - 3,920/980 - orange/brown(black) - Antique - Historical
+
+Quaint Painting - Redd/villager - sm - 3,920/980 - brown(orange)/white - Antique - Historical
+
+Robust Statue - Redd - sm - 3,920/980 - white/white - Antique/Quirky - Historical
+
+Scary Painting - Redd/villager - sm - 3,920/980 - brown(white)/gray - Harmonious(not if on wall)/Antique - Historical
+
+Scenic Painting - Redd/villager - sm - 3,920/980 - brown(gray)/white - Antique - Historical
+
+Serene Painting - Redd/villager - sm - 3,920/980 - brown(white)/black - Antique - Historical
+
+Solemn Painting - Redd/villager - sm - 3,920/980 - brown/brown - Antique/Quirky - Historical
+
+Valiant Statue - Redd - lrg - 3,920/980 - white/white - Antique/Quirky - Historical
+
+Warm Painting - Redd/villager - sm - 3,920/980 - brown(white)/black - Antique - Historical
+
+Wild Painting - Redd/villager - sm - 3,920/980 - yellow/brown(yellow) - Harmonious(not if on wall)/Antique - Historical
+
+Wistful Painting - Redd/villager - sm - 3,920/980 - brown(gray)/black - Antique - Historical
+
+Worthy Painting - Redd/villager - sm - 3,920/980 - brown(white)/black - Antique/Quirky - Historical

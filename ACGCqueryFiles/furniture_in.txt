@@ -1,0 +1,605 @@
+blue bed - Blue Series - 2100 -  -  - Redd's
+blue bench - Blue Series - 1900 -  - A - Tom Nook's Shop
+blue bookcase - Blue Series - 1900 -  - B - Tom Nook's Shop
+blue bureau - Blue Series - 2160 -  - B - Tom Nook's Shop
+blue cabinet - Blue Series - 2400 -  - A - Tom Nook's Shop
+blue chair - Blue Series - 1200 -  - C - Tom Nook's Shop
+blue clock - Blue Series - 1600 -  - C - Tom Nook's Shop
+blue dresser - Blue Series - 2100 - Red -  - Tom Nook's Lottery
+blue table - Blue Series - 1800 - Yellow -  - Redd's
+blue wardrobe - Blue Series - 1920 -  - A - Tom Nook's Shop
+cabana armchair - Cabana Series - 1800 -  -  - Tom Nook's Lottery
+cabana bed - Cabana Series - 2200 -  -  - Redd's
+cabana bookcase - Cabana Series - 2400 -  - B - Tom Nook's Shop
+cabana chair - Cabana Series - 1600 -  -  - Redd's
+cabana dresser - Cabana Series - 2400 -  - A - Tom Nook's Shop
+cabana lamp - Cabana Series - 1700 -  - B - Tom Nook's Shop
+cabana screen - Cabana Series - 2000 -  - C - Tom Nook's Shop
+cabana table - Cabana Series - 1800 -  - C - Tom Nook's Shop
+cabana vanity - Cabana Series - 1800 -  - A - Tom Nook's Shop
+cabana wardrobe - Cabana Series - 2240 -  - B - Tom Nook's Shop
+cabin armchair - Cabin Series - 2280 -  - B - Tom Nook's Shop
+cabin bed - Cabin Series - 2400 - Red - A - Tom Nook's Shop
+cabin bookcase - Cabin Series - 2300 -  -  - Tom Nook's Lottery
+cabin chair - Cabin Series - 1700 -  -  - Redd's
+cabin clock - Cabin Series - 2000 -  - C - Tom Nook's Shop
+cabin couch - Cabin Series - 2480 -  - C - Tom Nook's Shop
+cabin dresser - Cabin Series - 2160 -  -  - Redd's
+cabin low table - Cabin Series - 2100 -  - A - Tom Nook's Shop
+cabin table - Cabin Series - 2100 - Red - B - Tom Nook's Shop
+cabin wardrobe - Cabin Series - 2480 -  - C - Tom Nook's Shop
+classic bed - Classic Series - 2520 -  - B - Tom Nook's Shop
+classic cabinet - Classic Series - 2560 -  - B - Tom Nook's Shop
+classic chair - Classic Series - 1800 -  - C - Tom Nook's Shop
+classic clock - Classic Series - 2180 -  - C - Tom Nook's Shop
+classic desk - Classic Series - 2200 -  - A - Tom Nook's Shop
+classic hutch - Classic Series - 3360 -  -  - Tom Nook's Lottery
+classic sofa - Classic Series - 2240 - Yellow - C - Tom Nook's Shop
+classic table - Classic Series - 1600 -  - A - Tom Nook's Shop
+classic vanity - Classic Series - 2560 -  -  - Redd's
+classic wardrobe - Classic Series - 2560 -  -  - Redd's
+exotic bed - Exotic Series - 2540 -  -  - Redd's
+exotic bench - Exotic Series - 1900 -  - A - Tom Nook's Shop
+exotic bureau - Exotic Series - 2400 -  - A - Tom Nook's Shop
+exotic chair - Exotic Series - 1400 -  - A - Tom Nook's Shop
+exotic chest - Exotic Series - 1800 -  - B - Tom Nook's Shop
+exotic end table - Exotic Series - 1600 -  - B - Tom Nook's Shop
+exotic lamp - Exotic Series - 1800 - Yellow -  - Tom Nook's Lottery
+exotic screen - Exotic Series - 2250 -  - C - Tom Nook's Shop
+exotic table - Exotic Series - 2300 -  -  - Redd's
+exotic wardrobe - Exotic Series - 2180 -  - C - Tom Nook's Shop
+green bed - Green Series - 2160 - Green - B - Tom Nook's Shop
+green bench - Green Series - 1800 - Green - A - Tom Nook's Shop
+green chair - Green Series - 1200 - Green - C - Tom Nook's Shop
+green counter - Green Series - 2400 - Green - B - Tom Nook's Shop
+green desk - Green Series - 2000 - Green - C - Tom Nook's Shop
+green dresser - Green Series - 2320 - Green -  - Redd's
+green lamp - Green Series - 1800 - Green - C - Tom Nook's Shop
+green pantry - Green Series - 2290 - Green -  - Tom Nook's Lottery
+green table - Green Series - 1700 - Green - C - Tom Nook's Shop
+green wardrobe - Green Series - 2300 - Green -  - Redd's
+kiddie bed - Kiddie Series - 2100 -  -  - Redd's
+kiddie bookcase - Kiddie Series - 1800 -  -  - Tom Nook's Shop
+kiddie bureau - Kiddie Series - 2200 -  - B - Tom Nook's Shop
+kiddie chair - Kiddie Series - 1400 -  - B - Tom Nook's Shop
+kiddie clock - Kiddie Series - 1480 -  -  - Redd's
+kiddie couch - Kiddie Series - 2200 -  - B - Tom Nook's Shop
+kiddie dresser - Kiddie Series - 2150 -  - C - Tom Nook's Shop
+kiddie stereo - Kiddie Series - 1900 -  -  - Tom Nook's Lottery
+kiddie table - Kiddie Series - 2200 -  - A - Tom Nook's Shop
+kiddie wardrobe - Kiddie Series - 2180 -  - C - Tom Nook's Shop
+lovely armchair - Lovely Series - 2000 -  - A - Tom Nook's Shop
+lovely armoire - Lovely Series - 2240 -  -  - Redd's
+lovely bed - Lovely Series - 2000 -  - A - Tom Nook's Shop
+lovely chair - Lovely Series - 1600 -  - B - Tom Nook's Shop
+lovely dresser - Lovely Series - 2160 - Red - C - Tom Nook's Shop
+lovely end table - Lovely Series - 1800 -  -  - Redd's
+lovely kitchen - Lovely Series - 2280 -  -  - Tom Nook's Lottery
+lovely lamp - Lovely Series - 1600 - Red - B - Tom Nook's Shop
+lovely table - Lovely Series - 1800 -  - C - Tom Nook's Shop
+lovely vanity - Lovely Series - 2200 -  - B - Tom Nook's Shop
+modern bed - Modern Series - 2320 -  - C - Tom Nook's Shop
+modern cabinet - Modern Series - 2580 -  -  - Tom Nook's Lottery
+modern chair - Modern Series - 1500 -  - B - Tom Nook's Shop
+modern desk - Modern Series - 2480 -  - B - Tom Nook's Shop
+modern dresser - Modern Series - 2250 -  - A - Tom Nook's Shop
+modern end table - Modern Series - 1900 -  -  - Redd's
+modern lamp - Modern Series - 1400 -  - B - Tom Nook's Shop
+modern sofa - Modern Series - 2620 -  - C - Tom Nook's Shop
+modern table - Modern Series - 1800 -  - A - Tom Nook's Shop
+modern wardrobe - Modern Series - 2560 -  -  - Redd's
+ranch armchair - Ranch Series - 2000 - Green - A - Tom Nook's Shop
+ranch bed - Ranch Series - 2300 - Red - C - Tom Nook's Shop
+ranch bookcase - Ranch Series - 2000 -  - C - Tom Nook's Shop
+ranch chair - Ranch Series - 1400 -  -  - Redd's
+ranch couch - Ranch Series - 2400 - Green - C - Tom Nook's Shop
+ranch dresser - Ranch Series - 2720 -  -  - Redd's
+ranch hutch - Ranch Series - 2560 -  -  - Tom Nook's Lottery
+ranch table - Ranch Series - 1700 -  - B - Tom Nook's Shop
+ranch tea table - Ranch Series - 1800 -  - B - Tom Nook's Shop
+ranch wardrobe - Ranch Series - 3050 -  - A - Tom Nook's Shop
+regal armoire - Regal Series - 3820 -  - B - Tom Nook's Shop
+regal bed - Regal Series - 3120 -  -  - Redd's
+regal bookcase - Regal Series - 3120 -  - C - Tom Nook's Shop
+regal chair - Regal Series - 2100 -  -  - Redd's
+regal cupboard - Regal Series - 3360 -  -  - Tom Nook's Lottery
+regal dresser - Regal Series - 3520 -  - C - Tom Nook's Shop
+regal lamp - Regal Series - 2400 -  - A - Tom Nook's Shop
+regal sofa - Regal Series - 3100 -  - A - Tom Nook's Shop
+regal table - Regal Series - 2540 -  - A - Tom Nook's Shop
+regal vanity - Regal Series - 3200 -  - B - Tom Nook's Shop
+harvest bed - Harvest Series -  -  -  - Franklin
+harvest bureau - Harvest Series -  -  -  - Franklin
+harvest chair - Harvest Series -  -  -  - Franklin
+harvest clock - Harvest Series -  -  -  - Franklin
+harvest dresser - Harvest Series -  -  -  - Franklin
+harvest lamp - Harvest Series -  -  -  - Franklin
+harvest mirror - Harvest Series -  -  -  - Franklin
+harvest sofa - Harvest Series -  -  -  - Franklin
+harvest table - Harvest Series -  -  -  - Franklin
+harvest TV - Harvest Series -  -  -  - Franklin
+Jingle bed - Jingle Series -  - Red -  - Jingle
+Jingle chair - Jingle Series -  - Red -  - Jingle
+Jingle clock - Jingle Series -  - Red -  - Jingle
+Jingle dresser - Jingle Series -  - Red -  - Jingle
+Jingle lamp - Jingle Series -  - Red -  - Jingle
+Jingle piano - Jingle Series -  - Red -  - Jingle
+Jingle shelves - Jingle Series -  - Red -  - Jingle
+Jingle sofa - Jingle Series -  - Red -  - Jingle
+Jingle table - Jingle Series -  - Red -  - Jingle
+Jingle wardrobe - Jingle Series -  - Red -  - Jingle
+Snowman bed - Snowman Series -  -  -  - Snowman
+Snowman chair - Snowman Series -  -  -  - Snowman
+Snowman clock - Snowman Series -  -  -  - Snowman
+Snowman dresser - Snowman Series -  -  -  - Snowman
+Snowman fridge - Snowman Series -  -  -  - Snowman
+Snowman lamp - Snowman Series -  -  -  - Snowman
+Snowman sofa - Snowman Series -  -  -  - Snowman
+Snowman table - Snowman Series -  -  -  - Snowman
+Snowman TV - Snowman Series -  -  -  - Snowman
+Snowman wardrobe - Snowman Series -  -  -  - Snowman
+spooky bed - Spooky Series -  - Orange -  - Jack
+spooky bookcase - Spooky Series -  - Orange -  - Jack
+spooky chair - Spooky Series -  - Orange -  - Jack
+spooky clock - Spooky Series -  - Orange -  - Jack
+spooky dresser - Spooky Series -  - Orange -  - Jack
+spooky lamp - Spooky Series -  - Orange -  - Jack
+spooky sofa - Spooky Series -  - Orange -  - Jack
+spooky table - Spooky Series -  - Orange -  - Jack
+spooky vanity - Spooky Series -  - Orange -  - Jack
+spooky wardrobe - Spooky Series -  - Orange -  - Jack
+jack-in-the-box - Holiday Items -  -  -  - Special Event
+jack-o'-lantern - Holiday Items -  - Orange -  - Special Event
+backyard pool - Backyard Theme - 990 -  -  - Redd's
+barbecue - Backyard Theme - 1760 - Red - B - Tom Nook's Shop
+bird bath - Backyard Theme - 1450 - Green - A - Tom Nook's Shop
+bird feeder - Backyard Theme - 1260 -  - C - Tom Nook's Shop
+birdhouse - Backyard Theme - 1620 -  - B - Tom Nook's Shop
+bug zapper - Backyard Theme - 1200 -  - A - Tom Nook's Shop
+garden gnome - Backyard Theme - 3380 -  -  - Tom Nook's Lottery
+hammock - Backyard Theme - 1320 -  - C - Tom Nook's Shop
+lawn chair - Backyard Theme - 1180 -  - A - Tom Nook's Shop
+lawn mower - Backyard Theme - 2760 - Red -  - Redd's
+Mr. Flamingo - Backyard Theme - 1530 -  - A - Tom Nook's Shop
+Mrs. Flamingo - Backyard Theme - 1530 -  - A - Tom Nook's Shop
+picnic table - Backyard Theme - 1390 -  - C - Tom Nook's Shop
+sprinkler - Backyard Theme - 1640 - Yellow - C - Tom Nook's Shop
+tiki torch - Backyard Theme - 870 -  - B - Tom Nook's Shop
+blue corner - Boxing Theme - 6800 -  -  - Tom Nook's Lottery
+boxing barricade - Boxing Theme - 1050 -  - C - Tom Nook's Shop
+boxing mat - Boxing Theme - 1180 -  - C - Tom Nook's Shop
+judge's bell - Boxing Theme - 1790 -  -  - Redd's
+neutral corner - Boxing Theme - 5500 -  - A - Tom Nook's Shop
+red corner - Boxing Theme - 6800 - Red -  - Redd's
+ringside table - Boxing Theme - 1320 -  - A - Tom Nook's Shop
+sandbag - Boxing Theme - 3190 -  - B - Tom Nook's Shop
+speed bag - Boxing Theme - 2990 -  - A - Tom Nook's Shop
+weight bench - Boxing Theme - 3590 -  - C - Tom Nook's Shop
+black bishop - Chess Theme - 2800 -  -  - Redd's
+black king - Chess Theme - 23200 -  -  - Tom Nook's Lottery
+black knight - Chess Theme - 2800 -  -  - Redd's
+black pawn - Chess Theme - 1000 -  -  - Tom Nook's Shop
+black queen - Chess Theme - 23200 -  -  - Tom Nook's Lottery
+black rook - Chess Theme - 2800 -  -  - Redd's
+white bishop - Chess Theme - 2800 -  -  - Redd's
+white king - Chess Theme - 23200 -  -  - Tom Nook's Lottery
+white knight - Chess Theme - 2800 -  -  - Redd's
+white pawn - Chess Theme - 1000 -  -  - Tom Nook's Shop
+white queen - Chess Theme - 23200 -  -  - Tom Nook's Lottery
+white rook - Chess Theme - 2800 -  -  - Redd's
+cement mixer - Construction Theme - 1600 - Orange -  - Tom Nook's Lottery
+detour arrow - Construction Theme - 600 - Red - A - Tom Nook's Shop
+detour sign - Construction Theme - 830 - Orange - B - Tom Nook's Shop
+flagman sign - Construction Theme - 850 - Orange - B - Tom Nook's Shop
+green drum - Construction Theme - 800 - Green - B - Tom Nook's Shop
+handcart - Construction Theme - 800 -  - A - Tom Nook's Shop
+haz-mat barrel - Construction Theme - 830 - Red - C - Tom Nook's Shop
+iron frame - Construction Theme - 1200 - Red - C - Tom Nook's Shop
+jackhammer - Construction Theme - 1880 -  - C - Tom Nook's Shop
+jersey barrier - Construction Theme - 1050 -  - B - Tom Nook's Shop
+manhole cover - Construction Theme - 1000 -  - C - Tom Nook's Shop
+men at work sign - Construction Theme - 850 - Orange - C - Tom Nook's Shop
+merge sign - Construction Theme - 850 - Orange - A - Tom Nook's Shop
+oil drum - Construction Theme - 840 - Orange - A - Tom Nook's Shop
+orange cone - Construction Theme - 600 - Red - C - Tom Nook's Shop
+saw horse - Construction Theme - 900 -  - C - Tom Nook's Shop
+speed sign - Construction Theme - 870 -  - B - Tom Nook's Shop
+steam roller - Construction Theme - 4500 - Yellow -  - Redd's
+traffic cone - Construction Theme - 800 - Red - A - Tom Nook's Shop
+wet roadway sign - Construction Theme - 850 - Orange - B - Tom Nook's Shop
+deer scare - Mossy Garden Theme - 1800 - Green -  - Redd's
+garden pond - Mossy Garden Theme - 2580 -  -  - Tom Nook's Lottery
+low lantern - Mossy Garden Theme - 2100 -  - A - Tom Nook's Shop
+pond lantern - Mossy Garden Theme - 1980 -  - C - Tom Nook's Shop
+shrine lantern - Mossy Garden Theme - 1980 -  - A - Tom Nook's Shop
+tall lantern - Mossy Garden Theme - 1980 -  - B - Tom Nook's Shop
+? block - Mario Items -  -  -  - Nintendo Power
+brick block - Mario Items -  -  -  - Nintendo Power
+cannon - Mario Items -  -  -  - Nintendo Power
+coin - Mario Items -  -  -  - Nintendo Power
+fire flower - Mario Items -  -  -  - Nintendo Power
+flagpole - Mario Items -  -  -  - Nintendo Power
+green pipe - Mario Items -  -  -  - Nintendo Power
+koopa shell - Mario Items -  -  -  - Nintendo Power
+starman - Mario Items -  -  -  - Nintendo Power
+super mushroom - Mario Items -  -  -  - Nintendo Power
+dark stone - Rock Garden - 2200 -  - C - Tom Nook's Shop
+garden stone - Rock Garden - 1900 -  - C - Tom Nook's Shop
+leaning stone - Rock Garden - 2100 -  - B - Tom Nook's Shop
+mossy stone - Rock Garden - 2160 -  - A - Tom Nook's Shop
+standing stone - Rock Garden - 2500 -  - B - Tom Nook's Shop
+stone couple - Rock Garden - 2380 -  - A - Tom Nook's Shop
+teacher's chair - School Theme - 1440 -  - C - Tom Nook's Shop
+chalk board - School Theme - 1400 - Green - C - Tom Nook's Shop
+cubby hole - School Theme - 2200 -  - B - Tom Nook's Shop
+flip-top desk - School Theme - 1320 -  - A - Tom Nook's Shop
+school desk - School Theme - 1320 -  - C - Tom Nook's Shop
+folding chair - School Theme - 600 -  - A - Tom Nook's Shop
+lefty desk - School Theme - 1240 -  - A - Tom Nook's Shop
+righty desk - School Theme - 1240 -  - B - Tom Nook's Shop
+letter cubby - School Theme - 2300 -  -  - Redd's
+hamster cage - School Theme - 2290 - Red -  - Tom Nook's Lottery
+mop - School Theme - 900 -  - A - Tom Nook's Shop
+science table - School Theme - 1900 -  - C - Tom Nook's Shop
+teacher's desk - School Theme - 1580 -  - B - Tom Nook's Shop
+vaulting horse - School Theme - 1200 -  - B - Tom Nook's Shop
+asteroid - Space Theme - 1800 -  - A - Tom Nook's Shop
+flying saucer - Space Theme - 2400 -  - C - Tom Nook's Shop
+lunar lander - Space Theme - 3200 -  - B - Tom Nook's Shop
+lunar rover - Space Theme - 2560 -  - A - Tom Nook's Shop
+rocket - Space Theme - 2400 -  - B - Tom Nook's Shop
+satellite - Space Theme - 2600 -  - C - Tom Nook's Shop
+space shuttle - Space Theme - 2780 -  - A - Tom Nook's Shop
+space station - Space Theme - 2800 -  - B - Tom Nook's Shop
+Spaceman Sam - Space Theme - 2800 -  - C - Tom Nook's Shop
+covered wagon - Western Theme - 3800 -  -  - Tom Nook's Lottery
+cow skull - Western Theme - 1020 -  - A - Tom Nook's Shop
+desert cactus - Western Theme - 890 - Green - B - Tom Nook's Shop
+saddle fence - Western Theme - 2180 -  -  - Redd's
+storefront - Western Theme - 3680 -  - C - Tom Nook's Shop
+tumbleweed - Western Theme - 520 -  - C - Tom Nook's Shop
+wagon wheel - Western Theme - 1230 -  - B - Tom Nook's Shop
+watering trough - Western Theme - 1100 -  - B - Tom Nook's Shop
+well - Western Theme - 2700 -  -  - Redd's
+western fence - Western Theme - 880 -  - A - Tom Nook's Shop
+apple clock - Apple Set - 1200 -  - C - Tom Nook's Shop
+apple TV - Apple Set - 1600 -  - A - Tom Nook's Shop
+Baby bear - Bear Set - 800 -  - C - Tom Nook's Shop
+Mama bear - Bear Set - 1600 -  - B - Tom Nook's Shop
+Papa bear - Bear Set - 2200 -  - A - Tom Nook's Shop
+mugho bonsai - Bonsai Set - 1800 - Green - B - Tom Nook's Shop
+pine bonsai - Bonsai Set - 1800 - Green - A - Tom Nook's Shop
+ponderosa bonsai - Bonsai Set - 1800 - Green - C - Tom Nook's Shop
+cactus - Cactus Set - 1700 - Green - A - Tom Nook's Shop
+round cactus - Cactus Set - 1700 - Green - C - Tom Nook's Shop
+tall cactus - Cactus Set - 1700 -  - B - Tom Nook's Shop
+grapefruit table - Citrus Set - 1500 - Red - C - Tom Nook's Shop
+lemon table - Citrus Set - 1500 - Yellow - B - Tom Nook's Shop
+lime chair - Citrus Set - 1300 - Green - A - Tom Nook's Shop
+orange chair - Citrus Set - 1300 - Orange -  - Tom Nook's Shop
+daffodil table - Yellow Flower Set - 1400 -  - B - Tom Nook's Shop
+daffodil chair - Yellow Flower Set - 1400 -  - C - Tom Nook's Shop
+iris chair - Iris Flower Set - 1400 -  - A - Tom Nook's Shop
+iris table - Iris Flower Set - 1900 -  - C - Tom Nook's Shop
+tulip chair - Red Flower Set - 1400 -  - B - Tom Nook's Shop
+tulip table - Red Flower Set - 1900 -  - A - Tom Nook's Shop
+conga drum - Drum Set - 1600 -  - A - Tom Nook's Shop
+djimbe drum - Drum Set - 1900 -  - C - Tom Nook's Shop
+timpano drum - Drum Set - 2100 -  -  - Redd's
+Aiko figurine - Figurine Set - 800 -  - B - Tom Nook's Shop
+Emi figurine - Figurine Set - 800 -  - C - Tom Nook's Shop
+Keiko figurine - Figurine Set - 800 -  - A - Tom Nook's Shop
+Maki figurine - Figurine Set - 800 -  - C - Tom Nook's Shop
+Naomi figurine - Figurine Set - 800 -  - A - Tom Nook's Shop
+Yoko figurine - Figurine Set - 800 -  - B - Tom Nook's Shop
+Yuki figurine - Figurine Set - 800 -  - B - Tom Nook's Shop
+froggy chair - Frog Set - 1200 - Green - B - Tom Nook's Shop
+lily-pad table - Frog Set - 1600 - Green - A - Tom Nook's Shop
+folk guitar - Guitar Set - 1600 -  - A - Tom Nook's Shop
+country guitar - Guitar Set - 1700 -  - B - Tom Nook's Shop
+rock guitar - Guitar Set - 1800 -  - C - Tom Nook's Shop
+Luigi trophy - Lucky Nintendo Set - 7000 -  -  - Redd's
+Mario trophy - Lucky Nintendo Set - 7000 -  -  - Tom Nook's Lottery
+melon chair - Melon Set - 1300 - Yellow - B - Tom Nook's Shop
+watermelon chair - Melon Set - 1300 - Red - A - Tom Nook's Shop
+watermelon table - Melon Set - 1800 - Red - C - Tom Nook's Shop
+Arwing - Nintendo Set - 25600 -  -  - Tom Nook's Lottery
+G logo - Nintendo Set - 2500 -  - A - Tom Nook's Shop
+Master Sword - Nintendo Set - 2800 -  - B - Tom Nook's Shop
+N logo - Nintendo Set - 2400 -  - C - Tom Nook's Shop
+office chair - Office Set - 1100 -  - A - Tom Nook's Shop
+office desk - Office Set - 1600 -  - C - Tom Nook's Shop
+office locker - Office Set - 1200 -  - B - Tom Nook's Shop
+pear dresser - Pear Set - 1600 -  - A - Tom Nook's Shop
+pear wardrobe - Pear Set - 1400 -  - B - Tom Nook's Shop
+pine chair - Pine Wood Set - 1800 -  - A - Tom Nook's Shop
+pine table - Pine Wood Set - 2280 -  - C - Tom Nook's Shop
+robo-clock - Robot Set - 1400 -  -  - Redd's
+robo-stereo - Robot Set - 2200 -  -  - Tom Nook's Lottery
+bass (instrument) - String Instrument Set - 2400 -  -  - Redd's
+cello - String Instrument Set - 1800 -  - B - Tom Nook's Shop
+violin - String Instrument Set - 2200 -  - A - Tom Nook's Shop
+bear pole - Totem Pole Set - 1400 -  - C - Tom Nook's Shop
+eagle pole - Totem Pole Set - 1400 -  - A - Tom Nook's Shop
+frog woman pole - Totem Pole Set - 1400 -  -  - Redd's
+raven pole - Totem Pole Set - 1400 -  - B - Tom Nook's Shop
+blue vase - Vase Set - 2500 -  - A - Tom Nook's Shop
+red vase - Vase Set - 2450 -  - C - Tom Nook's Shop
+tea vase - Vase Set - 2400 -  - B - Tom Nook's Shop
+candy machine - Vending Machine Set - 2200 -  - C - Tom Nook's Shop
+coffee machine - Vending Machine Set - 2100 -  - A - Tom Nook's Shop
+pop machine - Vending Machine Set - 3250 -  -  - Tom Nook's Lottery
+soda machine - Vending Machine Set - 1700 -  - B - Tom Nook's Shop
+globe - Study Set - 1200 -  - A - Tom Nook's Shop
+writing chair - Study Set - 1000 -  - B - Tom Nook's Shop
+writing desk - Study Set - 1900 -  - C - Tom Nook's Shop
+barber's pole - Household Items - 1600 -  - C - Tom Nook's Shop
+birdcage - Household Items - 1700 - Red - B - Tom Nook's Shop
+bus stop - Household Items - 820 -  - B - Tom Nook's Shop
+extinguisher - Household Items - 1300 -  - B - Tom Nook's Shop
+fan - Household Items - 1200 -  - C - Tom Nook's Shop
+garbage can - Household Items - 500 -  - C - Tom Nook's Shop
+trash bin - Household Items - 500 -  - C - Tom Nook's Shop
+tea set - Household Items - 300 -  - A - Tom Nook's Shop
+glass-top table - Household Items - 2200 -  - B - Tom Nook's Shop
+orange box - Household Items - 80 -  - A - Tom Nook's Shop
+pineapple bed - Household Items - 1990 -  - A - Tom Nook's Shop
+potbelly stove - Household Items - 2000 -  - B - Tom Nook's Shop
+radiator - Household Items - 2380 -  - A - Tom Nook's Shop
+rocking chair - Chairs and Sofas - 1400 -  - A - Tom Nook's Shop
+scale - Household Items - 1200 -  - B - Tom Nook's Shop
+sewing machine - Household Items - 1350 -  - A - Tom Nook's Shop
+space heater - Household Items - 1700 -  - A - Tom Nook's Shop
+refrigerator - Household Items - 1200 -  - A - Tom Nook's Shop
+stove - Household Items - 1980 -  - B - Tom Nook's Shop
+mochi pestle - Household Items - 1400 -  - C - Tom Nook's Shop
+biwa lute - Musical Instruments - 1800 -  - B - Tom Nook's Shop
+taiko drum - Musical Instruments - 1300 -  - C - Tom Nook's Shop
+chess table - Household Items - 2200 -  - C - Tom Nook's Shop
+table tennis - Household Items - 1800 -  - B - Tom Nook's Shop
+billiard table - Household Items - 1800 -  - C - Tom Nook's Shop
+executive toy - Household Items - 1100 -  - A - Tom Nook's Shop
+slot machine - Household Items - 777 -  - B - Tom Nook's Shop
+water bird - Household Items - 1400 -  - B - Tom Nook's Shop
+wobbelina - Household Items - 700 -  - A - Tom Nook's Shop
+computer - Household Items - 1820 -  -  - Redd's
+toilet - Household Items - 1800 -  - C - Tom Nook's Shop
+super toilet - Household Items - 1980 -  -  - Redd's
+daffodil - Arranged Flowers - 680 -  - C - Tom Nook's Shop
+gerbera - Arranged Flowers - 780 - Orange - A - Tom Nook's Shop
+sunflower - Arranged Flowers - 980 - Yellow - B - Tom Nook's Shop
+hinaningyo - Household Items - 2560 -  -  - Redd's
+samurai suit - Household Items - 4500 -  -  - Tom Nook's Lottery
+tanabata palm - Household Items - 1925 -  -  - Redd's
+elephant slide - Household Items - 1200 -  - C - Tom Nook's Shop
+train set - Household Items - 1600 - Green - C - Tom Nook's Shop
+retro TV - Household Items - 1600 -  - B - Tom Nook's Shop
+wide-screen TV - Household Items - 2200 -  -  - Redd's
+big festive tree - Holiday Items - 2480 -  -  - Tom Nook's Shop
+festive tree - Holiday Items - 1300 -  -  - Tom Nook's Shop
+festive candle - Holiday Items - 1600 -  -  - Tom Nook's Shop
+festive flag - Holiday Items - 680 -  -  - Tom Nook's Shop
+metronome - Musical Instruments - 1000 -  - B - Tom Nook's Shop
+harp - Musical Instruments - 1700 -  - C - Tom Nook's Shop
+vibraphone - Musical Instruments - 1900 -  - A - Tom Nook's Shop
+ebony piano - Musical Instruments - 3800 -  -  - Redd's
+ivory piano - Musical Instruments - 3500 -  -  - Tom Nook's Lottery
+barrel - Household Items - 800 -  - B - Tom Nook's Shop
+keg - Household Items - 800 -  - C - Tom Nook's Shop
+blue golf bag - Golf Bags - 1600 -  - C - Tom Nook's Shop
+green golf bag - Golf Bags - 1600 -  - A - Tom Nook's Shop
+white golf bag - Golf Bags - 1600 -  - B - Tom Nook's Shop
+Nook's portrait - Household Items - 480 -  -  - Tom Nook's Lottery
+cream sofa - Chairs and Sofas - 2000 -  - B - Tom Nook's Shop
+red sofa - Chairs and Sofas - 2050 - Red - C - Tom Nook's Shop
+red armchair - Chairs and Sofas - 1800 - Red - A - Tom Nook's Shop
+gold econo-chair - Chairs and Sofas - 800 - Yellow - B - Tom Nook's Shop
+jade econo-chair - Chairs and Sofas - 800 - Green - C - Tom Nook's Shop
+ruby econo-chair - Chairs and Sofas - 800 - Orange - A - Tom Nook's Shop
+alarm clock - Clocks - 1000 -  - B - Tom Nook's Shop
+antique clock - Clocks - 2350 -  - A - Tom Nook's Shop
+cube clock - Clocks - 1100 -  - B - Tom Nook's Shop
+glow clock - Clocks - 1500 -  - B - Tom Nook's Shop
+kitschy clock - Clocks - 1800 -  - A - Tom Nook's Shop
+odd clock - Clocks - 1800 -  - C - Tom Nook's Shop
+owl clock - Clocks - 1300 -  - A - Tom Nook's Shop
+red clock - Clocks - 1300 -  - C - Tom Nook's Shop
+azalea bonsai - Bonsai Trees - 1500 - Green - B - Tom Nook's Shop
+hawthorn bonsai - Bonsai Trees - 1800 - Green - C - Tom Nook's Shop
+holly bonsai - Bonsai Trees - 1600 - Green - B - Tom Nook's Shop
+jasmine bonsai - Bonsai Trees - 1700 - Green - A - Tom Nook's Shop
+maple bonsai - Bonsai Trees - 1700 - Orange - C - Tom Nook's Shop
+quince bonsai - Bonsai Trees - 1600 - Red - A - Tom Nook's Shop
+plum bonsai - Bonsai Trees - 1900 - Red -  - Tom Nook's Lottery
+aloe - House Plants - 1200 - Green - B - Tom Nook's Shop
+bromeliaceae - House Plants - 1300 - Green - B - Tom Nook's Shop
+caladium - House Plants - 1300 - Green - A - Tom Nook's Shop
+coconut palm - House Plants - 1200 - Green - B - Tom Nook's Shop
+corn plant - House Plants - 1300 - Green - C - Tom Nook's Shop
+croton - House Plants - 1300 - Green - C - Tom Nook's Shop
+dracaena - House Plants - 2000 -  -  - Tom Nook's Lottery
+fan palm - House Plants - 1300 - Green - C - Tom Nook's Shop
+lady palm - House Plants - 1200 - Green - A - Tom Nook's Shop
+pachira - House Plants - 1200 - Green - C - Tom Nook's Shop
+pothos - House Plants - 1300 - Green - A - Tom Nook's Shop
+rubber tree - House Plants - 1300 - Green - B - Tom Nook's Shop
+snake plant - House Plants - 1200 - Green - A - Tom Nook's Shop
+weeping fig - House Plants - 1200 - Green - C - Tom Nook's Shop
+tape deck - Stereo Systems - 700 -  - A - Tom Nook's Shop
+red boom box - Stereo Systems - 1500 - Red - C - Tom Nook's Shop
+white boom box - Stereo Systems - 1500 -  - B - Tom Nook's Shop
+CD player - Stereo Systems - 1600 -  - B - Tom Nook's Shop
+phonograph - Stereo Systems - 1840 -  - A - Tom Nook's Shop
+jukebox - Stereo Systems - 3850 -  -  - Tom Nook's Lottery
+turntable - Stereo Systems - 2580 -  -  - Redd's
+retro stereo - Stereo Systems - 2160 -  - C - Tom Nook's Shop
+high-end stereo - Stereo Systems - 2750 -  -  - Redd's
+reel-to-reel - Stereo Systems - 2000 -  - C - Tom Nook's Shop
+gold stereo - Stereo Systems - 2640 -  - B - Tom Nook's Shop
+lovely stereo - Stereo Systems - 1980 -  -  - Redd's
+dice stereo - Stereo Systems - 2150 -  -  - Redd's
+hi-fi stereo - Stereo Systems - 24000 -  -  - Tom Nook's Lottery
+classic painting - Paintings - 1960 -  - C - Tom Nook's Shop
+fine painting - Paintings - 1960 -  - B - Tom Nook's Shop
+perfect painting - Paintings - 1960 -  - A - Tom Nook's Shop
+rare painting - Paintings - 1960 -  - B - Tom Nook's Shop
+strange painting - Paintings - 1960 -  - A - Tom Nook's Shop
+worthy painting - Paintings - 1960 -  - C - Tom Nook's Shop
+amazing painting - Paintings - 1960 -  -  - Redd's
+basic painting - Paintings - 1960 -  -  - Redd's
+common painting - Paintings - 1960 -  -  - Redd's
+dainty painting - Paintings - 1960 -  -  - Redd's
+famous painting - Paintings - 1960 -  -  - Redd's
+flowery painting - Paintings - 1960 -  -  - Redd's
+moving painting - Paintings - 1960 -  -  - Redd's
+quaint painting - Paintings - 1960 -  -  - Redd's
+scary painting - Paintings - 1960 -  -  - Redd's
+chowder - Mementos and Models -  -  -  - Igloo Resident
+crab stew - Mementos and Models -  -  -  - Igloo Resident
+fireplace - Mementos and Models -  - Red -  - Igloo Resident
+sleigh - Mementos and Models -  -  -  - Igloo Resident
+snow bunny - Mementos and Models -  -  -  - Igloo Resident
+snowboard - Mementos and Models -  -  -  - Igloo Resident
+backpack - Mementos and Models -  -  -  - Summer Campers
+bonfire - Mementos and Models -  -  -  - Summer Campers
+campfire - Mementos and Models -  -  -  - Summer Campers
+cooler - Mementos and Models -  -  -  - Summer Campers
+kayak - Mementos and Models -  - Yellow -  - Summer Campers
+lantern - Mementos and Models -  - Red -  - Summer Campers
+mountain bike - Mementos and Models -  -  -  - Summer Campers
+propane stove - Mementos and Models -  -  -  - Summer Campers
+sleeping bag - Mementos and Models -  -  -  - Summer Campers
+beach chair - Island Items -  -  -  - Animal Island
+beach table - Island Items -  -  -  - Animal Island
+Diver Dan - Island Items -  -  -  - Animal Island
+life ring - Island Items -  -  -  - Animal Island
+snowcone machine - Island Items -  -  -  - Animal Island
+surfboard - Island Items -  -  -  - Animal Island
+treasure chest - Island Items -  -  -  - Animal Island
+ukulele - Island Items -  -  -  - Animal Island
+wave breaker - Island Items -  -  -  - Animal Island
+Arc De Triomphe - World Icons -  -  -  - Gulliver
+Chinese lion - World Icons -  -  -  - Gulliver
+Chinese lioness - World Icons -  -  -  - Gulliver
+compass - World Icons -  -  -  - Gulliver
+fishing bear - World Icons -  -  -  - Gulliver
+Lady Liberty - World Icons -  -  -  - Gulliver
+Manekin Pis - World Icons -  -  -  - Gulliver
+matryoshka - World Icons -  -  -  - Gulliver
+Merlion - World Icons -  -  -  - Gulliver
+mermaid statue - World Icons -  -  -  - Gulliver
+Moai statue - World Icons -  -  -  - Gulliver
+Mouth of Truth - World Icons -  -  -  - Gulliver
+pagoda - World Icons -  -  -  - Gulliver
+plate armor - World Icons -  -  -  - Gulliver
+shogi piece - World Icons -  -  -  - Gulliver
+stone coin - World Icons -  - Red -  - Gulliver
+tiger bobblehead - World Icons -  -  -  - Gulliver
+Tokyo Tower - World Icons -  -  -  - Gulliver
+Tower of Pisa - World Icons -  -  -  - Gulliver
+tribal mask - World Icons -  -  -  - Gulliver
+Nintendo bench - Mementos and Models -  -  -  - Tips & Tricks Magazine
+birthday cake - Holiday Items -  -  -  - Special Event
+chocolates - Mementos and Models -  -  -  - Tortimer
+tissue - Mementos and Models -  -  -  - Savings
+piggy bank - Mementos and Models -  -  -  - Savings
+mailbox - Mementos and Models -  -  -  - Savings
+telescope - Mementos and Models -  -  -  - Special Event
+aerobics radio - Mementos and Models -  -  -  - Special Event
+angler trophy - Mementos and Models -  -  -  - Special Event
+autumn medal - Mementos and Models -  - Special -  - Special Event
+spring medal - Mementos and Models -  -  -  - Special Event
+bottle rocket - Holiday Items -  -  -  - Special Event
+bottled ship - Mementos and Models -  -  -  - Special Event
+cornucopia - Holiday Items - 1880 -  -  - Special Event
+dolly - Mementos and Models -  -  -  - Special Event
+fishing trophy - Mementos and Models -  -  -  - Special Event
+lovely phone - Mementos and Models -  -  -  - Special Event
+moon - Mementos and Models -  -  -  - Tortimer
+noisemaker - Mementos and Models -  - Red -  - Special Event
+Balloon Fight - Classic NES Games - 3000 - Yellow -  - Special Item
+Baseball - Classic NES Games -  - Red -  - Special Item
+Clu Clu Land - Classic NES Games - 3000 -  -  - Special Item
+Clu Clu Land D - Classic NES Games -  - Red -  - Special Item
+DK Jr MATH - Classic NES Games - 3000 - Red -  - Special Item
+Donkey Kong - Classic NES Games - 3000 - Red -  - Special Item
+Donkey Kong 3 - Classic NES Games -  - Red -  - Special Item
+Donkey Kong Jr - Classic NES Games -  - Red -  - Nintendo Power
+Excitebike - Classic NES Games - 3000 - Red -  - Special Item
+Golf - Classic NES Games - 3000 - Red -  - Special Item
+Ice Climber - Classic NES Games -  -  -  - Special Item
+Legend of Zelda - Classic NES Games -  -  -  - Special Item
+Mario Bros. - Classic NES Games -  -  -  - Special Item
+NES - Classic NES Games - 3000 -  -  - Redd's
+Pinball - Classic NES Games - 3000 -  -  - Special Item
+Punchout - Classic NES Games -  - Red -  - Special Item
+Soccer - Classic NES Games -  - Red -  - Nintendo Power
+Super Tortimer - Mementos and Models -  -  -  - Special Event
+Super Mario Bros. - Classic NES Games -  -  -  - Special Item
+cosmos model 1 - Mementos and Models - 910 -  -  - Special Event
+Tennis - Classic NES Games - 3000 - Yellow -  - Special Item
+cosmos model 2 - Mementos and Models - 910 -  -  - Special Event
+Wario's Woods - Classic NES Games -  - Red -  - Special Item
+cosmos model 3 - Mementos and Models - 910 -  -  - Special Event
+pansy model 1 - Mementos and Models - 930 - Yellow -  - Special Event
+pansy model 2 - Mementos and Models - 930 -  -  - Special Event
+pansy model 3 - Mementos and Models - 930 -  -  - Special Event
+tulip model 1 - Mementos and Models - 940 - Yellow -  - Special Event
+tulip model 2 - Mementos and Models - 940 - Red -  - Special Event
+tulip model 3 - Mementos and Models - 940 -  -  - Special Event
+dirt model - Mementos and Models - 1200 -  - C - Tom Nook's Shop
+grass model - Mementos and Models - 1200 - Green - A - Tom Nook's Shop
+weed model - Mementos and Models - 820 - Green -  - Special Event
+pink tree model - Mementos and Models - 1400 -  -  - Special Event
+tree model - Mementos and Models - 1400 - Green -  - Special Event
+snowy tree model - Mementos and Models -  -  -  - Igloo Resident
+igloo model - Mementos and Models -  -  -  - Igloo Resident
+Snowman - Mementos and Models -  -  -  - Special Event
+tent model - Mementos and Models -  - Yellow -  - Summer Campers
+track model - Mementos and Models - 1400 -  - B - Tom Nook's Shop
+locomotive model - Mementos and Models -  -  -  - Special Event
+train car model - Mementos and Models - 2500 -  - B - Tom Nook's Shop
+miniature car - Mementos and Models -  - Red -  - Special Event
+dump model - Mementos and Models -  -  -  - Special Event
+well model - Mementos and Models -  -  -  - Special Event
+Katrina's tent - Mementos and Models -  -  -  - Special Event
+market model - Mementos and Models -  - Green -  - Special Event
+police model - Mementos and Models -  -  -  - Special Event
+shop model - Mementos and Models -  -  -  - Special Event
+post model - Mementos and Models -  -  -  - Savings
+tailor model - Mementos and Models -  - Red -  - Special Event
+lighthouse model - Mementos and Models -  -  -  - Tortimer
+house model - Mementos and Models -  -  -  - HRA
+manor model - Mementos and Models -  -  -  - HRA
+museum model - Mementos and Models -  -  -  - Blathers
+station model 1 - Mementos and Models -  -  -  - Special Event
+station model 2 - Mementos and Models -  -  -  - Special Event
+station model 3 - Mementos and Models -  -  -  - Special Event
+station model 4 - Mementos and Models -  -  -  - Special Event
+station model 5 - Mementos and Models -  -  -  - Special Event
+station model 6 - Mementos and Models -  -  -  - Special Event
+station model 7 - Mementos and Models -  -  -  - Special Event
+station model 8 - Mementos and Models -  -  -  - Special Event
+station model 9 - Mementos and Models -  -  -  - Special Event
+station model 10 - Mementos and Models -  -  -  - Special Event
+station model 11 - Mementos and Models -  -  -  - Special Event
+station model 12 - Mementos and Models -  -  -  - Special Event
+station model 13 - Mementos and Models -  -  -  - Special Event
+station model 14 - Mementos and Models -  -  -  - Special Event
+station model 15 - Mementos and Models -  -  -  - Special Event
+blue diary - Journals and Diaries - 880 -  -  - Tom Nook's Shop
+blue polka pad - Journals and Diaries - 320 -  -  - Tom Nook's Shop
+calligraphy pad - Journals and Diaries - 860 -  -  - Tom Nook's Shop
+captain's log - Journals and Diaries - 980 -  -  - Tom Nook's Shop
+college rule - Journals and Diaries -  -  -  - Special Item
+diary - Journals and Diaries - 1450 -  -  - Tom Nook's Shop
+french notebook - Journals and Diaries - 1250 -  -  - Tom Nook's Shop
+green plaid pad - Journals and Diaries - 320 -  -  - Tom Nook's Shop
+journal - Journals and Diaries - 280 -  -  - Tom Nook's Shop
+organizer - Journals and Diaries - 1280 -  -  - Tom Nook's Shop
+pink diary - Journals and Diaries - 870 -  -  - Tom Nook's Shop
+pink plaid pad - Journals and Diaries - 320 -  -  - Tom Nook's Shop
+red polka pad - Journals and Diaries - 320 -  -  - Tom Nook's Shop
+school pad - Journals and Diaries - 200 -  -  - Tom Nook's Shop
+scroll - Journals and Diaries - 1200 -  -  - Tom Nook's Shop
+yellow plaid pad - Journals and Diaries - 320 -  -  - Tom Nook's Shop 
