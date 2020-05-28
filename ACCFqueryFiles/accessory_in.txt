@@ -148,8 +148,7 @@ Tiny Shades - Ables - 120/30 - black/black - Fresh
 Heart Shades* - GracieGrace - 4,800/1,200 - pink/black - Funky
 Star Shades* - GracieGrace - 4,800/1,200 - yellow/black - Funky
 3-D Glasses - Ables - 120/30 - red/blue - Cute
-Masquerade Mask* - GracieGrace - 4,800/1,200 - white/white - Cool
-                 - Masquerade Look
+Masquerade Mask* - GracieGrace - 4,800/1,200 - white/white - Cool - Masquerade Look
 Superhero Mask - Ables - 1,200/300 - black/black - Fancy
 Goggles - Ables - 280/70 - aqua/black - Funky
 Snorkel Mask - Ables - 320/80 - aqua/black - Subtle

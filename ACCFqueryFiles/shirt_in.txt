@@ -188,8 +188,7 @@ Cow Shirt* - GracieGrace - Winter - 6,400/1,600 - black/white - Gaudy
 Leopard Shirt - Ables - All - 320/80 - yellow/brown - Gaudy
 Giraffe Shirt* - GracieGrace - Winter - 6,200/1,550 - yellow/brown - Gaudy
 Ladybug Shirt* - GracieGrace - Spring - 5,400/1,350 - red/black - Striking
-Butterfly Shirt* - GracieGrace - Spring - 7,200/1,800 - colorful/black
-                 - Striking
+Butterfly Shirt* - GracieGrace - Spring - 7,200/1,800 - colorful/black - Striking
 Spiderweb Shirt - Ables - Summer - 320/80 - black/white - Striking
 Caterpillar Tee* - GracieGrace - Spring - 6,800/1,700 - yellow/green - Striking
 Fiendish Shirt - Ables - All - 680/170 - red/black - Striking
@@ -227,15 +226,13 @@ Blue Aloha Shirt - Ables - Summer - 420/105 - blue/blue - Fancy
 Western Shirt - Ables - Winter - 350/87 - brown/brown - Cool - Western Look
 Red Riding Hoody - Ables - Fall - 350/87 - red/white - Cute
 Royal Shirt - Ables - All - 380/95 - yellow/red - Cool - Regal Look
-Witch Shirt* - GracieGrace - Fall - 7,200/1,800 - purple/black - Fancy
-             - Witch Look
+Witch Shirt* - GracieGrace - Fall - 7,200/1,800 - purple/black - Fancy - Witch Look
 Firefighter Tee - Ables - All - 320/80 - yellow/black - Cool - Firefighter Look
 Graduation Gown - Ables - All - 320/80 - white/brown - Subtle - Graduate Look
 Sky Shirt - Ables - All - 360/90 - aqua/white - Subtle
 Captain's Shirt - Ables - All - 340/85 - yellow/blue - Cool - Captain Look
 Burglar's Shirt - Ables - All - 420/105 - blue/black - Cool - Ninja Look
-Jester Shirt - Ables - Spring - 420/105 - yellow/purple - Striking
-             - Jester Look
+Jester Shirt - Ables - Spring - 420/105 - yellow/purple - Striking - Jester Look
 Doctor's Coat - Ables - All - 300/75 - white/white - Subtle - Doctor Look
 Bone Shirt - Ables - All - 280/70 - black/white - Striking
 Zipper Shirt - Ables - All - 320/80 - black/white - Cool
@@ -247,13 +244,11 @@ Camel Shirt - Ables - All - 280/70 - brown/brown - Refined
 Molecule Tee - Ables - All - 360/90 - green/white - Subtle - Alpine Look
 Concierge Shirt - Ables - Fall - 350/87 - black/white - Cool
 Kimono - Ables - All - 520/130 - red/aqua - Gaudy - Zen Look
-Tuxedo* - GracieGrace - Winter - 7,600/1,900 - black/black - Cool
-        - Masquerade Look
+Tuxedo* - GracieGrace - Winter - 7,600/1,900 - black/black - Cool - Masquerade Look
 Explorer Shirt - Ables - All - 400/100 - beige/gray - Cool - Explorer Look
 Dutch Shirt - Ables - All - 280/70 - pink/white - Cute - Nordic Look
 Toga - Ables - All - 280/70 - white/white - Striking
-Cake Shirt* - GracieGrace - Spring - 6,000/1,500 - white/white - Cute
-            - Bridal Look
+Cake Shirt* - GracieGrace - Spring - 6,000/1,500 - white/white - Cute - Bridal Look
 Waitress Shirt - Ables - All - 320/80 - pink/pink - Cute
 Princess Shirt - Ables - All - 480/120 - yellow/aqua - Fancy
 Fairy Tale Shirt - Ables - All - 320/80 - red/aqua - Cute

@@ -1,5 +1,4 @@
 ﻿create table acgc_wallpaper ("Index" int primary key, Selected int, Name varchar(255), Status varchar(31), "From" varchar(31))
-
 insert into acgc_wallpaper values(1, 0, 'Chic Wall', 'orderable', 'Grp A') 
 insert into acgc_wallpaper values(2, 0, 'Classic Wall', 'orderable', 'Grp B') 
 insert into acgc_wallpaper values(3, 0, 'Parlor Wall', 'orderable', 'Grp C') 
