@@ -1,28 +1,29 @@
 using System;
 
-namespace ConsoleApp1
+namespace queryGen
 {
     class Program
     {//change this value to work on a different query (ie: "furniture", "fish", "shirt", ...)
-        const string table = "insect";
+        const string table = "carpet";
         static void Main(string[] args)
         {
-            
-            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Saved Games\\queryFiles\\" + table + "_in.txt");
+
+            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACCFqueryFiles\\" + table + "_in.txt");
             using (System.IO.StreamWriter file =
-            new System.IO.StreamWriter("C:\\Users\\000ab\\Saved Games\\queryFiles\\" + table + "_out.txt", true))
+            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACCFqueryFiles\\" + table + "_out.txt", true))
             {
-                string lhs = "insert into " + table + " values(";
+                string lhs = "insert into accf_" + table + " values(";
                 string str;
                 int count = 1;
                 foreach (string line in lines)
                 {
 
-                    if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':')|| line.StartsWith('\t') || line.StartsWith('\n'))
+                    if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
                         continue;
 
                     string[] arr = line.Split(" - ");
                     str = lhs + count + ", 0, '";
+
                     //name
                     if (arr[0].EndsWith("**"))
                     {
@@ -36,15 +37,31 @@ namespace ConsoleApp1
                     {
                         str += arr[0].Replace("'", "''") + "', 'normal', '";
                     }
-                    
+
                     //from
                     str += arr[1].Replace("'", "''") + "', '";
-                    //colors
-                    string[] colors = arr[4].Split('/');
-                    str += colors[0] + "', '" + (colors[1].EndsWith(" -") ? colors[1].Remove(colors[1].Length - 2) : colors[1]) + "')";
 
+                    //price
+                    string[] prices = arr[2].Split('/');
 
+                    if (prices[0].Contains("none"))
+                    {
+                        str += prices[1].Replace("'", "''");
+                    }
+                    else
+                    {
+                        str += prices[0].Replace("'", "''");
+                    }
 
+                    //theme
+
+                    if (arr.Length == 4)
+                    {
+                        str += "', '" + arr[3].Replace("'", "''") + "');";
+                    }
+                    else {
+                        str += "', 'none');";
+                    }
 
                     count++;
                     Console.WriteLine(str);

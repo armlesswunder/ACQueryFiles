@@ -673,7 +673,7 @@ Owl Clock - Nook's - sm - 1,300/325 - brown/brown - Retro/Playful - clock
 Alarm Clock - Nook's - sm - 1,000/250 - beige/beige - Trendy/Playful - clock, can put on table
 Jade Econo-Chair - Nook's - sm - 800/200 - green/green - Trendy/Dignified - chair
 Ruby Econo-Chair - Nook's - sm - 800/200 - orange/orange - Trendy/Dignified - chair
-Gold Econo-Chair - Nook's - sm - 800/200 yellow/yellow - Trendy/Dignified - chair
+Gold Econo-Chair - Nook's - sm - 800/200 - yellow/yellow - Trendy/Dignified - chair
 Rocking Chair - Nook's - sm - 1,400/350 - brown/brown - Retro/Dignified - chair
 Part of Classroom Set:
 Lefty Desk - Nook's - sm - 1,240/310 - blue/brown - Trendy/Playful - chair
@@ -712,9 +712,9 @@ Sewing Machine - Nook's - med - 1,350/337 - brown/gray - Retro/Dignified - can u
 Cardboard Box - Nook's - sm - 100/25 - brown/brown - Retro/Dignified - table
 Wooden Box - Nook's - sm - 200/50 - brown/brown - Retro/Dignified - table
 Fan - Nook's - sm - 1,200/300 - green/green - Trendy/Dignified - can use, can put on table
-Candle - Nook's - 1,280/320 - yellow/white - neither/neither - lamp, can put on table
-Mini-Lamp - Nook's - 1,280/320 - white/white - neither/neither - lamp, can put on table
-Desk Light - Nook's - 1,280/320 - black/black - neither/neither - lamp, can put on table
+Candle - Nook's - sm - 1,280/320 - yellow/white - neither/neither - lamp, can put on table
+Mini-Lamp - Nook's - sm - 1,280/320 - white/white - neither/neither - lamp, can put on table
+Desk Light - Nook's - sm - 1,280/320 - black/black - neither/neither - lamp, can put on table
 Table Lamp - Nook's - sm - 640/160 - aqua/white - Trendy/Dignified - lamp, can put on table
 Throne* - Spotlight - sm - 800,000/200,000 - yellow/red - Retro/Dignified - chair
 Basic Red Bed - Nook's - med - 200/50 - red/brown - Retro/Dignified - bed
