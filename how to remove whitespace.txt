@@ -1,5 +1,7 @@
+Where _ = the "space" character;
+Step 1:
 Find: \r\n_
 Replace: _
-
-Find: __
+Step 2: (repeat until there are no extra spaces)
+Find: __ (two spaces)
 Replace: _

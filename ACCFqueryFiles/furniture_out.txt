@@ -710,3 +710,6 @@ insert into accf_furniture values(709, 0, 'Nook ''n'' Go', 'unorderable', 'Nook 
 insert into accf_furniture values(710, 0, 'Nookway', 'unorderable', 'Nook Points', '450', 'green', 'white', 'Trendy', 'Playful');
 insert into accf_furniture values(711, 0, 'Nookington''s', 'unorderable', 'Nook Points', '450', 'white', 'white', 'Trendy', 'Playful');
 insert into accf_furniture values(712, 0, 'Museum Model', 'unorderable', 'Blathers', '450', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(713, 0, 'Nintendo Bench', 'unorderable', 'Secret Furniture', '?', '?', '?', '?', '?');
+insert into accf_furniture values(714, 0, 'Pikmin', 'unorderable', 'Secret Furniture', '?', '?', '?', '?', '?');
+insert into accf_furniture values(715, 0, 'Blue Falcon', 'unorderable', 'Secret Furniture', '?', '?', '?', '?', '?');

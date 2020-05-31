@@ -1,129 +1,129 @@
-﻿drop table if exists accf_gyroid
-create table accf_gyroid ("Index" int primary key, Selected int, Name varchar(50), Color1 varchar(20), Color2 varchar(20))
-insert into accf_gyroid values(1, 0, 'Mega Clankoid', 'green', 'green')
-insert into accf_gyroid values(2, 0, 'Clankoid', 'green', 'green')
-insert into accf_gyroid values(3, 0, 'Mini Clankoid', 'green', 'green')
-insert into accf_gyroid values(4, 0, 'Tall Clankoid', 'green', 'green')
-insert into accf_gyroid values(5, 0, 'Squat Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(6, 0, 'Mega Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(7, 0, 'Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(8, 0, 'Mini Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(9, 0, 'Wee Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(10, 0, 'Tall Dingloid', 'brown', 'brown')
-insert into accf_gyroid values(11, 0, 'Mega Percoloid', 'brown', 'brown')
-insert into accf_gyroid values(12, 0, 'Tall Percoloid', 'brown', 'brown')
-insert into accf_gyroid values(13, 0, 'Mega Oombloid', 'brown', 'brown')
-insert into accf_gyroid values(14, 0, 'Oombloid', 'brown', 'brown')
-insert into accf_gyroid values(15, 0, 'Mini Oombloid', 'brown', 'brown')
-insert into accf_gyroid values(16, 0, 'Tall Oombloid', 'brown', 'brown')
-insert into accf_gyroid values(17, 0, 'Rhythmoid', 'brown', 'brown')
-insert into accf_gyroid values(18, 0, 'Mini Rhythmoid', 'brown', 'brown')
-insert into accf_gyroid values(19, 0, 'Mega Puffoid', 'green', 'green')
-insert into accf_gyroid values(20, 0, 'Mini Puffoid', 'green', 'green')
-insert into accf_gyroid values(21, 0, 'Tall Puffoid', 'green', 'green')
-insert into accf_gyroid values(22, 0, 'Mega Lullaboid', 'gray', 'gray')
-insert into accf_gyroid values(23, 0, 'Lullaboid', 'gray', 'gray')
-insert into accf_gyroid values(24, 0, 'Mini Lullaboid', 'gray', 'gray')
-insert into accf_gyroid values(25, 0, 'Tall Lullaboid', 'gray', 'gray')
-insert into accf_gyroid values(26, 0, 'Mega Sproid', 'yellow', 'yellow')
-insert into accf_gyroid values(27, 0, 'Sproid', 'yellow', 'yellow')
-insert into accf_gyroid values(28, 0, 'Mini Sproid', 'yellow', 'yellow')
-insert into accf_gyroid values(29, 0, 'Tall Sproid', 'yellow', 'yellow')
-insert into accf_gyroid values(30, 0, 'Mega Bowtoid', 'black', 'black')
-insert into accf_gyroid values(31, 0, 'Bowtoid', 'black', 'black')
-insert into accf_gyroid values(32, 0, 'Mini Bowtoid', 'black', 'black')
-insert into accf_gyroid values(33, 0, 'Tall Bowtoid', 'black', 'black')
-insert into accf_gyroid values(34, 0, 'Mega Tootoid', 'pink', 'pink')
-insert into accf_gyroid values(35, 0, 'Tootoid', 'pink', 'pink')
-insert into accf_gyroid values(36, 0, 'Mini Tootoid', 'pink', 'pink')
-insert into accf_gyroid values(37, 0, 'Mega Plinkoid', 'blue', 'gray')
-insert into accf_gyroid values(38, 0, 'Plinkoid', 'pink', 'gray')
-insert into accf_gyroid values(39, 0, 'Mini Plinkoid', 'green', 'gray')
-insert into accf_gyroid values(40, 0, 'Mega Dekkoid', 'orange', 'orange')
-insert into accf_gyroid values(41, 0, 'Dekkoid', 'green', 'green')
-insert into accf_gyroid values(42, 0, 'Mini Dekkoid', 'pink', 'pink')
-insert into accf_gyroid values(43, 0, 'Mega Buzzoid', 'green', 'brown')
-insert into accf_gyroid values(44, 0, 'Buzzoid', 'green', 'brown')
-insert into accf_gyroid values(45, 0, 'Mini Buzzoid', 'green', 'brown')
-insert into accf_gyroid values(46, 0, 'Tall Buzzoid', 'green', 'brown')
-insert into accf_gyroid values(47, 0, 'Mega Drilloid', 'red', 'red')
-insert into accf_gyroid values(48, 0, 'Drilloid', 'red', 'red')
-insert into accf_gyroid values(49, 0, 'Mini Drilloid', 'red', 'red')
-insert into accf_gyroid values(50, 0, 'Mega Echoid', 'blue', 'gray')
-insert into accf_gyroid values(51, 0, 'Mini Echoid', 'orange', 'orange')
-insert into accf_gyroid values(52, 0, 'Tall Echoid', 'blue', 'gray')
-insert into accf_gyroid values(53, 0, 'Mega Lamentoid', 'brown', 'brown')
-insert into accf_gyroid values(54, 0, 'Lamentoid', 'brown', 'brown')
-insert into accf_gyroid values(55, 0, 'Mini Lamentoid', 'brown', 'brown')
-insert into accf_gyroid values(56, 0, 'Tall Lamentoid', 'brown', 'brown')
-insert into accf_gyroid values(57, 0, 'Mega Strumboid', 'green', 'brown')
-insert into accf_gyroid values(58, 0, 'Strumboid', 'green', 'brown')
-insert into accf_gyroid values(59, 0, 'Mini Strumboid', 'green', 'brown')
-insert into accf_gyroid values(60, 0, 'Tall Strumboid', 'green', 'brown')
-insert into accf_gyroid values(61, 0, 'Mega Croakoid', 'purple', 'purple')
-insert into accf_gyroid values(62, 0, 'Croakoid', 'green', 'green')
-insert into accf_gyroid values(63, 0, 'Mini Croakoid', 'brown', 'brown')
-insert into accf_gyroid values(64, 0, 'Tall Croakoid', 'blue', 'gray')
-insert into accf_gyroid values(65, 0, 'Mega Fizzoid', 'red', 'red')
-insert into accf_gyroid values(66, 0, 'Mini Fizzoid', 'red', 'red')
-insert into accf_gyroid values(67, 0, 'Mega Squelchoid', 'green', 'green')
-insert into accf_gyroid values(68, 0, 'Squelchoid', 'yellow', 'green')
-insert into accf_gyroid values(69, 0, 'Mini Squelchoid', 'red', 'red')
-insert into accf_gyroid values(70, 0, 'Mega Howloid', 'red', 'red')
-insert into accf_gyroid values(71, 0, 'Howloid', 'red', 'red')
-insert into accf_gyroid values(72, 0, 'Mini Howloid', 'blue', 'gray')
-insert into accf_gyroid values(73, 0, 'Mega Nebuloid', 'blue', 'blue')
-insert into accf_gyroid values(74, 0, 'Squat Nebuloid', 'green', 'colorful')
-insert into accf_gyroid values(75, 0, 'Nebuloid', 'blue', 'colorful')
-insert into accf_gyroid values(76, 0, 'Mini Nebuloid', 'purple', 'purple')
-insert into accf_gyroid values(77, 0, 'Tall Nebuloid', 'green', 'colorful')
-insert into accf_gyroid values(78, 0, 'Slim Nebuloid', 'purple', 'purple')
-insert into accf_gyroid values(79, 0, 'Mega Gongoid', 'brown', 'brown')
-insert into accf_gyroid values(80, 0, 'Gongoid', 'brown', 'brown')
-insert into accf_gyroid values(81, 0, 'Mini Gongoid', 'brown', 'brown')
-insert into accf_gyroid values(82, 0, 'Tall Gongoid', 'brown', 'brown')
-insert into accf_gyroid values(83, 0, 'Mega Poltergoid', 'gray', 'brown')
-insert into accf_gyroid values(84, 0, 'Poltergoid', 'gray', 'brown')
-insert into accf_gyroid values(85, 0, 'Mini Poltergoid', 'gray', 'brown')
-insert into accf_gyroid values(86, 0, 'Tall Poltergoid', 'gray', 'brown')
-insert into accf_gyroid values(87, 0, 'Metatoid', 'gray', 'gray')
-insert into accf_gyroid values(88, 0, 'Mini Metatoid', 'gray', 'gray')
-insert into accf_gyroid values(89, 0, 'Mega Bovoid', 'gray', 'gray')
-insert into accf_gyroid values(90, 0, 'Tall Bovoid', 'gray', 'gray')
-insert into accf_gyroid values(91, 0, 'Mega Oboid', 'gray', 'black')
-insert into accf_gyroid values(92, 0, 'Oboid', 'gray', 'black')
-insert into accf_gyroid values(93, 0, 'Tall Oboid', 'gray', 'black')
-insert into accf_gyroid values(94, 0, 'Mega Dinkoid', 'gray', 'gray')
-insert into accf_gyroid values(95, 0, 'Mini Dinkoid', 'gray', 'gray')
-insert into accf_gyroid values(96, 0, 'Mega Harmonoid', 'red', 'gray')
-insert into accf_gyroid values(97, 0, 'Harmonoid', 'red', 'gray')
-insert into accf_gyroid values(98, 0, 'Mini Harmonoid', 'blue', 'gray')
-insert into accf_gyroid values(99, 0, 'Tall Harmonoid', 'blue', 'gray')
-insert into accf_gyroid values(100, 0, 'Tall Droploid', 'purple', 'purple')
-insert into accf_gyroid values(101, 0, 'Mega Sputnoid', 'green', 'gray')
-insert into accf_gyroid values(102, 0, 'Sputnoid', 'gray', 'gray')
-insert into accf_gyroid values(103, 0, 'Mini Sputnoid', 'gray', 'gray')
-insert into accf_gyroid values(104, 0, 'Tall Sputnoid', 'gray', 'gray')
-insert into accf_gyroid values(105, 0, 'Mega Alloid', 'brown', 'brown')
-insert into accf_gyroid values(106, 0, 'Mini Alloid', 'brown', 'brown')
-insert into accf_gyroid values(107, 0, 'Tall Alloid', 'brown', 'brown')
-insert into accf_gyroid values(108, 0, 'Mega Timpanoid', 'red', 'red')
-insert into accf_gyroid values(109, 0, 'Timpanoid', 'red', 'red')
-insert into accf_gyroid values(110, 0, 'Mini Timpanoid', 'red', 'red')
-insert into accf_gyroid values(111, 0, 'Tall Timpanoid', 'red', 'red')
-insert into accf_gyroid values(112, 0, 'Gargloid', 'gray', 'gray')
-insert into accf_gyroid values(113, 0, 'Mini Gargloid', 'pink', 'gray')
-insert into accf_gyroid values(114, 0, 'Tall Gargloid', 'gray', 'gray')
-insert into accf_gyroid values(115, 0, 'Warbloid', 'pink', 'pink')
-insert into accf_gyroid values(116, 0, 'Mini Warbloid', 'pink', 'pink')
-insert into accf_gyroid values(117, 0, 'Tall Warbloid', 'pink', 'pink')
-insert into accf_gyroid values(118, 0, 'Mega Freakoid', 'blue', 'gray')
-insert into accf_gyroid values(119, 0, 'Mini Freakoid', 'blue', 'gray')
-insert into accf_gyroid values(120, 0, 'Mega Quazoid', 'green', 'green')
-insert into accf_gyroid values(121, 0, 'Quazoid', 'pink', 'pink')
-insert into accf_gyroid values(122, 0, 'Mini Quazoid', 'orange', 'orange')
-insert into accf_gyroid values(123, 0, 'Tall Quazoid', 'blue', 'blue')
-insert into accf_gyroid values(124, 0, 'Slim Quazoid', 'gray', 'gray')
-insert into accf_gyroid values(125, 0, 'Mega Rustoid', 'brown', 'brown')
-insert into accf_gyroid values(126, 0, 'Rustoid', 'brown', 'brown')
-insert into accf_gyroid values(127, 0, 'Mini Rustoid', 'brown', 'brown')
+﻿drop table if exists accf_gyroid;
+create table accf_gyroid ("Index" int, Selected int, Name varchar(63), Status varchar(31), Price varchar(31), Color1 varchar(31), Color2 varchar(31));
+insert into accf_gyroid values(1, 0, 'Mega Clankoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(2, 0, 'Clankoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(3, 0, 'Mini Clankoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(4, 0, 'Tall Clankoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(5, 0, 'Squat Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(6, 0, 'Mega Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(7, 0, 'Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(8, 0, 'Mini Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(9, 0, 'Wee Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(10, 0, 'Tall Dingloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(11, 0, 'Mega Percoloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(12, 0, 'Tall Percoloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(13, 0, 'Mega Oombloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(14, 0, 'Oombloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(15, 0, 'Mini Oombloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(16, 0, 'Tall Oombloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(17, 0, 'Rhythmoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(18, 0, 'Mini Rhythmoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(19, 0, 'Mega Puffoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(20, 0, 'Mini Puffoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(21, 0, 'Tall Puffoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(22, 0, 'Mega Lullaboid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(23, 0, 'Lullaboid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(24, 0, 'Mini Lullaboid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(25, 0, 'Tall Lullaboid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(26, 0, 'Mega Sproid', 'unorderable', '828', 'yellow', 'yellow');
+insert into accf_gyroid values(27, 0, 'Sproid', 'unorderable', '828', 'yellow', 'yellow');
+insert into accf_gyroid values(28, 0, 'Mini Sproid', 'unorderable', '828', 'yellow', 'yellow');
+insert into accf_gyroid values(29, 0, 'Tall Sproid', 'unorderable', '828', 'yellow', 'yellow');
+insert into accf_gyroid values(30, 0, 'Mega Bowtoid', 'unorderable', '828', 'black', 'black');
+insert into accf_gyroid values(31, 0, 'Bowtoid', 'unorderable', '828', 'black', 'black');
+insert into accf_gyroid values(32, 0, 'Mini Bowtoid', 'unorderable', '828', 'black', 'black');
+insert into accf_gyroid values(33, 0, 'Tall Bowtoid', 'unorderable', '828', 'black', 'black');
+insert into accf_gyroid values(34, 0, 'Mega Tootoid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(35, 0, 'Tootoid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(36, 0, 'Mini Tootoid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(37, 0, 'Mega Plinkoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(38, 0, 'Plinkoid', 'unorderable', '828', 'pink', 'gray');
+insert into accf_gyroid values(39, 0, 'Mini Plinkoid', 'unorderable', '828', 'green', 'gray');
+insert into accf_gyroid values(40, 0, 'Mega Dekkoid', 'unorderable', '828', 'orange', 'orange');
+insert into accf_gyroid values(41, 0, 'Dekkoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(42, 0, 'Mini Dekkoid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(43, 0, 'Mega Buzzoid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(44, 0, 'Buzzoid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(45, 0, 'Mini Buzzoid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(46, 0, 'Tall Buzzoid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(47, 0, 'Mega Drilloid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(48, 0, 'Drilloid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(49, 0, 'Mini Drilloid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(50, 0, 'Mega Echoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(51, 0, 'Mini Echoid', 'unorderable', '828', 'orange', 'orange');
+insert into accf_gyroid values(52, 0, 'Tall Echoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(53, 0, 'Mega Lamentoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(54, 0, 'Lamentoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(55, 0, 'Mini Lamentoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(56, 0, 'Tall Lamentoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(57, 0, 'Mega Strumboid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(58, 0, 'Strumboid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(59, 0, 'Mini Strumboid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(60, 0, 'Tall Strumboid', 'unorderable', '828', 'green', 'brown');
+insert into accf_gyroid values(61, 0, 'Mega Croakoid', 'unorderable', '828', 'purple', 'purple');
+insert into accf_gyroid values(62, 0, 'Croakoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(63, 0, 'Mini Croakoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(64, 0, 'Tall Croakoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(65, 0, 'Mega Fizzoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(66, 0, 'Mini Fizzoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(67, 0, 'Mega Squelchoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(68, 0, 'Squelchoid', 'unorderable', '828', 'yellow', 'green');
+insert into accf_gyroid values(69, 0, 'Mini Squelchoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(70, 0, 'Mega Howloid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(71, 0, 'Howloid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(72, 0, 'Mini Howloid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(73, 0, 'Mega Nebuloid', 'unorderable', '828', 'blue', 'blue');
+insert into accf_gyroid values(74, 0, 'Squat Nebuloid', 'unorderable', '828', 'green', 'colorful');
+insert into accf_gyroid values(75, 0, 'Nebuloid', 'unorderable', '828', 'blue', 'colorful');
+insert into accf_gyroid values(76, 0, 'Mini Nebuloid', 'unorderable', '828', 'purple', 'purple');
+insert into accf_gyroid values(77, 0, 'Tall Nebuloid', 'unorderable', '828', 'green', 'colorful');
+insert into accf_gyroid values(78, 0, 'Slim Nebuloid', 'unorderable', '828', 'purple', 'purple');
+insert into accf_gyroid values(79, 0, 'Mega Gongoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(80, 0, 'Gongoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(81, 0, 'Mini Gongoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(82, 0, 'Tall Gongoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(83, 0, 'Mega Poltergoid', 'unorderable', '828', 'gray', 'brown');
+insert into accf_gyroid values(84, 0, 'Poltergoid', 'unorderable', '828', 'gray', 'brown');
+insert into accf_gyroid values(85, 0, 'Mini Poltergoid', 'unorderable', '828', 'gray', 'brown');
+insert into accf_gyroid values(86, 0, 'Tall Poltergoid', 'unorderable', '828', 'gray', 'brown');
+insert into accf_gyroid values(87, 0, 'Metatoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(88, 0, 'Mini Metatoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(89, 0, 'Mega Bovoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(90, 0, 'Tall Bovoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(91, 0, 'Mega Oboid', 'unorderable', '828', 'gray', 'black');
+insert into accf_gyroid values(92, 0, 'Oboid', 'unorderable', '828', 'gray', 'black');
+insert into accf_gyroid values(93, 0, 'Tall Oboid', 'unorderable', '828', 'gray', 'black');
+insert into accf_gyroid values(94, 0, 'Mega Dinkoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(95, 0, 'Mini Dinkoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(96, 0, 'Mega Harmonoid', 'unorderable', '828', 'red', 'gray');
+insert into accf_gyroid values(97, 0, 'Harmonoid', 'unorderable', '828', 'red', 'gray');
+insert into accf_gyroid values(98, 0, 'Mini Harmonoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(99, 0, 'Tall Harmonoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(100, 0, 'Tall Droploid', 'unorderable', '828', 'purple', 'purple');
+insert into accf_gyroid values(101, 0, 'Mega Sputnoid', 'unorderable', '828', 'green', 'gray');
+insert into accf_gyroid values(102, 0, 'Sputnoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(103, 0, 'Mini Sputnoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(104, 0, 'Tall Sputnoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(105, 0, 'Mega Alloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(106, 0, 'Mini Alloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(107, 0, 'Tall Alloid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(108, 0, 'Mega Timpanoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(109, 0, 'Timpanoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(110, 0, 'Mini Timpanoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(111, 0, 'Tall Timpanoid', 'unorderable', '828', 'red', 'red');
+insert into accf_gyroid values(112, 0, 'Gargloid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(113, 0, 'Mini Gargloid', 'unorderable', '828', 'pink', 'gray');
+insert into accf_gyroid values(114, 0, 'Tall Gargloid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(115, 0, 'Warbloid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(116, 0, 'Mini Warbloid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(117, 0, 'Tall Warbloid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(118, 0, 'Mega Freakoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(119, 0, 'Mini Freakoid', 'unorderable', '828', 'blue', 'gray');
+insert into accf_gyroid values(120, 0, 'Mega Quazoid', 'unorderable', '828', 'green', 'green');
+insert into accf_gyroid values(121, 0, 'Quazoid', 'unorderable', '828', 'pink', 'pink');
+insert into accf_gyroid values(122, 0, 'Mini Quazoid', 'unorderable', '828', 'orange', 'orange');
+insert into accf_gyroid values(123, 0, 'Tall Quazoid', 'unorderable', '828', 'blue', 'blue');
+insert into accf_gyroid values(124, 0, 'Slim Quazoid', 'unorderable', '828', 'gray', 'gray');
+insert into accf_gyroid values(125, 0, 'Mega Rustoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(126, 0, 'Rustoid', 'unorderable', '828', 'brown', 'brown');
+insert into accf_gyroid values(127, 0, 'Mini Rustoid', 'unorderable', '828', 'brown', 'brown');

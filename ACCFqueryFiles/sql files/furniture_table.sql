@@ -1,714 +1,714 @@
-drop table if exists accf_furniture
-create table accf_furniture ("Index" int primary key, Selected int, Name varchar(50), Status varchar(50), "From" varchar(50), Color1 varchar(20), Color2 varchar(20))
-insert into accf_furniture values(1, 0, 'Exotic Bed', 'normal', 'Crazy Redd', 'brown', 'gray')
-insert into accf_furniture values(2, 0, 'Exotic Bureau', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(3, 0, 'Exotic Wardrobe', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(4, 0, 'Exotic Bench', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(5, 0, 'Exotic Chair', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(6, 0, 'Exotic Table', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(7, 0, 'Exotic End Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(8, 0, 'Exotic Lamp', 'normal', 'Nook''s', 'yellow', 'beige')
-insert into accf_furniture values(9, 0, 'Exotic Screen', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(10, 0, 'Exotic Chest', 'normal', 'Spotlight', 'brown', 'brown')
-insert into accf_furniture values(11, 0, 'Ranch Bed', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(12, 0, 'Ranch Dresser', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(13, 0, 'Ranch Wardrobe', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(14, 0, 'Ranch Couch', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(15, 0, 'Ranch Armchair', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(16, 0, 'Ranch Chair', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(17, 0, 'Ranch Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(18, 0, 'Ranch Tea Table', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(19, 0, 'Ranch Bookcase', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(20, 0, 'Ranch Hutch', 'normal', 'Spotlight', 'brown', 'brown')
-insert into accf_furniture values(21, 0, 'Classic Bed', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(22, 0, 'Classic Vanity', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(23, 0, 'Classic Wardrobe', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(24, 0, 'Classic Chair', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(25, 0, 'Classic Sofa', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(26, 0, 'Classic Table', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(27, 0, 'Classic Bookcase', 'normal', 'Spotlight', 'brown', 'brown')
-insert into accf_furniture values(28, 0, 'Classic Buffet', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(29, 0, 'Classic Desk', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(30, 0, 'Classic Clock', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(31, 0, 'Regal Bed', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(32, 0, 'Regal Dresser', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(33, 0, 'Regal Armoire', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(34, 0, 'Regal Chair', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(35, 0, 'Regal Sofa', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(36, 0, 'Regal Table', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(37, 0, 'Regal Lamp', 'normal', 'Nook''s', 'yellow', 'white')
-insert into accf_furniture values(38, 0, 'Regal Clock', 'normal', 'Spotlight', 'white', 'white')
-insert into accf_furniture values(39, 0, 'Regal Bookcase', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(40, 0, 'Regal Vanity', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(41, 0, 'Blue Bed', 'normal', 'Crazy Redd', 'yellow', 'blue')
-insert into accf_furniture values(42, 0, 'Blue Bureau', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(43, 0, 'Blue Wardrobe', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(44, 0, 'Blue Chair', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(45, 0, 'Blue Bench', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(46, 0, 'Blue Table', 'normal', 'Crazy Redd', 'yellow', 'blue')
-insert into accf_furniture values(47, 0, 'Blue Bookcase', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(48, 0, 'Blue Cabinet', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(49, 0, 'Blue Clock', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(50, 0, 'Blue Dresser', 'normal', 'Spotlight', 'blue', 'blue')
-insert into accf_furniture values(51, 0, 'Cabana Bed', 'normal', 'Crazy Redd', 'brown', 'white')
-insert into accf_furniture values(52, 0, 'Cabana Dresser', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(53, 0, 'Cabana Wardrobe', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(54, 0, 'Cabana Chair', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(55, 0, 'Cabana Armchair', 'normal', 'Spotlight', 'brown', 'white')
-insert into accf_furniture values(56, 0, 'Cabana Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(57, 0, 'Cabana Lamp', 'normal', 'Nook''s', 'brown', 'blue')
-insert into accf_furniture values(58, 0, 'Cabana Bookcase', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(59, 0, 'Cabana Vanity', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(60, 0, 'Cabana Screen', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(61, 0, 'Green Bed', 'normal', 'Nook''s', 'green', 'beige')
-insert into accf_furniture values(62, 0, 'Green Dresser', 'normal', 'Crazy Redd', 'green', 'orange')
-insert into accf_furniture values(63, 0, 'Green Wardrobe', 'normal', 'Crazy Redd', 'green', 'green')
-insert into accf_furniture values(64, 0, 'Green Chair', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(65, 0, 'Green Bench', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(66, 0, 'Green Table', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(67, 0, 'Green Desk', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(68, 0, 'Green Lamp', 'normal', 'Nook''s', 'green', 'orange')
-insert into accf_furniture values(69, 0, 'Green Counter', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(70, 0, 'Green Pantry', 'normal', 'Spotlight', 'green', 'green')
-insert into accf_furniture values(71, 0, 'Cabin Bed', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(72, 0, 'Cabin Dresser', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(73, 0, 'Cabin Wardrobe', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(74, 0, 'Cabin Chair', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(75, 0, 'Cabin Armchair', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(76, 0, 'Cabin Couch', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(77, 0, 'Cabin Table', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(78, 0, 'Cabin Low Table', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(79, 0, 'Cabin Bookcase', 'normal', 'Spotlight', 'brown', 'colorful')
-insert into accf_furniture values(80, 0, 'Cabin Clock', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(81, 0, 'Modern Bed', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(82, 0, 'Modern Dresser', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(83, 0, 'Modern Wardrobe', 'normal', 'Crazy Redd', 'black', 'white')
-insert into accf_furniture values(84, 0, 'Modern Chair', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(85, 0, 'Modern Sofa', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(86, 0, 'Modern End Table', 'normal', 'Crazy Redd', 'black', 'white')
-insert into accf_furniture values(87, 0, 'Modern Desk', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(88, 0, 'Modern Table', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(89, 0, 'Modern Cabinet', 'normal', 'Spotlight', 'black', 'white')
-insert into accf_furniture values(90, 0, 'Modern Lamp', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(91, 0, 'Kiddie Bed', 'normal', 'Crazy Redd', 'colorful', 'colorful')
-insert into accf_furniture values(92, 0, 'Kiddie Dresser', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(93, 0, 'Kiddie Wardrobe', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(94, 0, 'Kiddie Couch', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(95, 0, 'Kiddie Chair', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(96, 0, 'Kiddie Table', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(97, 0, 'Kiddie Bureau', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(98, 0, 'Kiddie Bookcase', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(99, 0, 'Kiddie Clock', 'normal', 'Crazy Redd', 'colorful', 'colorful')
-insert into accf_furniture values(100, 0, 'Kiddie Stereo', 'normal', 'Spotlight', 'colorful', 'colorful')
-insert into accf_furniture values(101, 0, 'Lovely Bed', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(102, 0, 'Lovely Dresser', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(103, 0, 'Lovely Armoire', 'normal', 'Crazy Redd', 'pink', 'pink')
-insert into accf_furniture values(104, 0, 'Lovely Chair', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(105, 0, 'Lovely Loveseat', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(106, 0, 'Lovely End Table', 'normal', 'Crazy Redd', 'pink', 'white')
-insert into accf_furniture values(107, 0, 'Lovely Table', 'normal', 'Nook''s', 'pink', 'white')
-insert into accf_furniture values(108, 0, 'Lovely Vanity', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(109, 0, 'Lovely Kitchen', 'normal', 'Spotlight', 'pink', 'pink')
-insert into accf_furniture values(110, 0, 'Lovely Lamp', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(111, 0, 'Robo-Bed', 'normal', 'Nook''s', 'blue', 'gray')
-insert into accf_furniture values(112, 0, 'Robo-Dresser', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(113, 0, 'Robo-Closet', 'normal', 'Crazy Redd', 'gray', 'gray')
-insert into accf_furniture values(114, 0, 'Robo-Sofa', 'normal', 'Nook''s', 'blue', 'gray')
-insert into accf_furniture values(115, 0, 'Robo-Chair', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(116, 0, 'Robo-Table', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(117, 0, 'Robo-Stereo', 'normal', 'Spotlight', 'blue', 'gray')
-insert into accf_furniture values(118, 0, 'Robo-TV', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(119, 0, 'Robo-Clock', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(120, 0, 'Robo-Lamp', 'normal', 'Crazy Redd', 'green', 'gray')
-insert into accf_furniture values(121, 0, 'Snowman Bed', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(122, 0, 'Snowman Dresser', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(123, 0, 'Snowman Wardrobe', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(124, 0, 'Snowman Chair', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(125, 0, 'Snowman Sofa', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(126, 0, 'Snowman Table', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(127, 0, 'Snowman Fridge', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(128, 0, 'Snowman TV', 'unorderable', 'Snowman', 'yellow', 'white')
-insert into accf_furniture values(129, 0, 'Snowman Clock', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(130, 0, 'Snowman Lamp', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(131, 0, 'Mushroom Bed', 'unorderable', 'mushrooms', 'red', 'red')
-insert into accf_furniture values(132, 0, 'Mushroom Dresser', 'unorderable', 'mushrooms', 'brown', 'brown')
-insert into accf_furniture values(133, 0, 'Mushroom Closet', 'unorderable', 'mushrooms', 'brown', 'brown')
-insert into accf_furniture values(134, 0, 'Mushroom Chair', 'unorderable', 'mushrooms', 'white', 'aqua')
-insert into accf_furniture values(135, 0, 'Mushroom Stool', 'unorderable', 'mushrooms', 'brown', 'brown')
-insert into accf_furniture values(136, 0, 'Mushroom Table', 'unorderable', 'mushrooms', 'red', 'white')
-insert into accf_furniture values(137, 0, 'Mushroom End Table', 'unorderable', 'mushrooms', 'brown', 'white')
-insert into accf_furniture values(138, 0, 'Mushroom Lamp', 'unorderable', 'mushrooms', 'aqua', 'aqua')
-insert into accf_furniture values(139, 0, 'Mushroom Stand', 'unorderable', 'mushrooms', 'red', 'brown')
-insert into accf_furniture values(140, 0, 'Mushroom TV', 'unorderable', 'mushrooms', 'red', 'white')
-insert into accf_furniture values(141, 0, 'Pave Bed', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(142, 0, 'Pave Chest', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(143, 0, 'Pave Closet', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(144, 0, 'Pave Sofa', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(145, 0, 'Pave Chair', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(146, 0, 'Pave Table', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(147, 0, 'Pave End Table', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(148, 0, 'Pave Bookshelf', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(149, 0, 'Pave Bureau', 'unorderable', 'Pave', 'blue', 'white')
-insert into accf_furniture values(150, 0, 'Pave Lamp', 'unorderable', 'Pave', 'blue', 'brown')
-insert into accf_furniture values(151, 0, 'Egg Bed', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(152, 0, 'Egg Dresser', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(153, 0, 'Egg Wardrobe', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(154, 0, 'Egg Chair', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(155, 0, 'Egg Bench', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(156, 0, 'Egg Table', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(157, 0, 'Egg Stereo', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(158, 0, 'Egg Toy Set', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(159, 0, 'Egg Clock', 'unorderable', 'Zipper T. Bunny', 'white', 'colorful')
-insert into accf_furniture values(160, 0, 'Egg Lamp', 'unorderable', 'Zipper T. Bunny', 'colorful', 'colorful')
-insert into accf_furniture values(161, 0, 'Spooky Bed', 'unorderable', 'Jack', 'orange', 'purple')
-insert into accf_furniture values(162, 0, 'Spooky Dresser', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(163, 0, 'Spooky Wardrobe', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(164, 0, 'Spooky Sofa', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(165, 0, 'Spooky Chair', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(166, 0, 'Spooky Table', 'unorderable', 'Jack', 'orange', 'purple')
-insert into accf_furniture values(167, 0, 'Spooky Vanity', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(168, 0, 'Spooky Bookcase', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(169, 0, 'Spooky Clock', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(170, 0, 'Spooky Lamp', 'unorderable', 'Jack', 'orange', 'orange')
-insert into accf_furniture values(171, 0, 'Harvest Bed', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(172, 0, 'Harvest Dresser', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(173, 0, 'Harvest Bureau', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(174, 0, 'Harvest Sofa', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(175, 0, 'Harvest Chair', 'unorderable', 'Franklin', 'purple', 'beige')
-insert into accf_furniture values(176, 0, 'Harvest Table', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(177, 0, 'Harvest Mirror', 'unorderable', 'Franklin', 'purple', 'purple')
-insert into accf_furniture values(178, 0, 'Harvest TV', 'unorderable', 'Franklin', 'purple', 'purple')
-insert into accf_furniture values(179, 0, 'Harvest Clock', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(180, 0, 'Harvest Lamp', 'unorderable', 'Franklin', 'purple', 'pink')
-insert into accf_furniture values(181, 0, 'Jingle Bed', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(182, 0, 'Jingle Dresser', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(183, 0, 'Jingle Wardrobe', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(184, 0, 'Jingle Sofa', 'unorderable', 'Jingle', 'red', 'red')
-insert into accf_furniture values(185, 0, 'Jingle Chair', 'unorderable', 'Jingle', 'red', 'red')
-insert into accf_furniture values(186, 0, 'Jingle Table', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(187, 0, 'Jingle Shelves', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(188, 0, 'Jingle Piano', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(189, 0, 'Jingle Clock', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(190, 0, 'Jingle Lamp', 'unorderable', 'Jingle', 'red', 'green')
-insert into accf_furniture values(191, 0, 'Princess Bed', 'unorderable', 'GracieGrace', 'aqua', 'aqua')
-insert into accf_furniture values(192, 0, 'Princess Chest', 'unorderable', 'GracieGrace', 'white', 'white')
-insert into accf_furniture values(193, 0, 'Princess Closet', 'unorderable', 'GracieGrace', 'white', 'white')
-insert into accf_furniture values(194, 0, 'Princess Sofa', 'unorderable', 'GracieGrace', 'aqua', 'white')
-insert into accf_furniture values(195, 0, 'Princess Chair', 'unorderable', 'GracieGrace', 'aqua', 'white')
-insert into accf_furniture values(196, 0, 'Princess Table', 'unorderable', 'GracieGrace', 'aqua', 'white')
-insert into accf_furniture values(197, 0, 'Princess Curio', 'unorderable', 'GracieGrace', 'white', 'white')
-insert into accf_furniture values(198, 0, 'Princess Dresser', 'unorderable', 'GracieGrace', 'white', 'white')
-insert into accf_furniture values(199, 0, 'Princess Cage', 'unorderable', 'GracieGrace', 'white', 'white')
-insert into accf_furniture values(200, 0, 'Princess Lamp', 'unorderable', 'GracieGrace', 'aqua', 'brown')
-insert into accf_furniture values(201, 0, 'Gracie Bed', 'unorderable', 'GracieGrace', 'blue', 'brown')
-insert into accf_furniture values(202, 0, 'Gracie Chest', 'unorderable', 'GracieGrace', 'brown', 'brown')
-insert into accf_furniture values(203, 0, 'Gracie Wardrobe', 'unorderable', 'GracieGrace', 'brown', 'brown')
-insert into accf_furniture values(204, 0, 'Gracie Bench', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(205, 0, 'Gracie Chair', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(206, 0, 'Gracie Low Table', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(207, 0, 'Gracie Desk', 'unorderable', 'GracieGrace', 'brown', 'brown')
-insert into accf_furniture values(208, 0, 'Gracie Wagon', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(209, 0, 'Gracie Shelf', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(210, 0, 'Gracie Lamp', 'unorderable', 'GracieGrace', 'brown', 'colorful')
-insert into accf_furniture values(211, 0, 'Sweets Bed', 'unorderable', 'GracieGrace', 'white', 'beige')
-insert into accf_furniture values(212, 0, 'Sweets Dresser', 'unorderable', 'GracieGrace', 'brown', 'beige')
-insert into accf_furniture values(213, 0, 'Sweets Closet', 'unorderable', 'GracieGrace', 'brown', 'beige')
-insert into accf_furniture values(214, 0, 'Sweets Sofa', 'unorderable', 'GracieGrace', 'pink', 'beige')
-insert into accf_furniture values(215, 0, 'Sweets Chair', 'unorderable', 'GracieGrace', 'brown', 'beige')
-insert into accf_furniture values(216, 0, 'Sweets Table', 'unorderable', 'GracieGrace', 'brown', 'beige')
-insert into accf_furniture values(217, 0, 'Sweets Minitable', 'unorderable', 'GracieGrace', 'white', 'brown')
-insert into accf_furniture values(218, 0, 'Sweets Bookcase', 'unorderable', 'GracieGrace', 'beige', 'beige')
-insert into accf_furniture values(219, 0, 'Sweets Lamp', 'unorderable', 'GracieGrace', 'white', 'colorful')
-insert into accf_furniture values(220, 0, 'Sweets Minilamp', 'unorderable', 'GracieGrace', 'white', 'colorful')
-insert into accf_furniture values(221, 0, 'Gorgeous Bed', 'unorderable', 'GracieGrace', 'red', 'black')
-insert into accf_furniture values(222, 0, 'Gorgeous Chest', 'unorderable', 'GracieGrace', 'black', 'black')
-insert into accf_furniture values(223, 0, 'Gorgeous Closet', 'unorderable', 'GracieGrace', 'black', 'black')
-insert into accf_furniture values(224, 0, 'Gorgeous Sofa', 'unorderable', 'GracieGrace', 'red', 'red')
-insert into accf_furniture values(225, 0, 'Gorgeous Seat', 'unorderable', 'GracieGrace', 'red', 'red')
-insert into accf_furniture values(226, 0, 'Gorgeous Stool', 'unorderable', 'GracieGrace', 'yellow', 'red')
-insert into accf_furniture values(227, 0, 'Gorgeous Table', 'unorderable', 'GracieGrace', 'black', 'black')
-insert into accf_furniture values(228, 0, 'Gorgeous Desk', 'unorderable', 'GracieGrace', 'black', 'black')
-insert into accf_furniture values(229, 0, 'Gorgeous Counter', 'unorderable', 'GracieGrace', 'red', 'black')
-insert into accf_furniture values(230, 0, 'Gorgeous Lamp', 'unorderable', 'GracieGrace', 'red', 'black')
-insert into accf_furniture values(231, 0, 'Cow Skull', 'normal', 'Nook''s', 'white', 'gray')
-insert into accf_furniture values(232, 0, 'Desert Cactus', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(233, 0, 'Western Fence', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(234, 0, 'Saddle Fence', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(235, 0, 'Storefront', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(236, 0, 'Covered Wagon', 'normal', 'Spotlight', 'brown', 'beige')
-insert into accf_furniture values(237, 0, 'Watering Trough', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(238, 0, 'Tumbleweed', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(239, 0, 'Well', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(240, 0, 'Wagon Wheel', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(241, 0, 'Asteroid', 'normal', 'Nook''s', 'gray', 'brown')
-insert into accf_furniture values(242, 0, 'Moon', 'normal', 'Spotlight', 'gray', 'gray')
-insert into accf_furniture values(243, 0, 'Lunar Lander', 'normal', 'Nook''s', 'yellow', 'gray')
-insert into accf_furniture values(244, 0, 'Rocket', 'normal', 'Crazy Redd', 'red', 'white')
-insert into accf_furniture values(245, 0, 'Lunar Rover', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(246, 0, 'Satellite', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(247, 0, 'Space Shuttle', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(248, 0, 'Spaceman Sam', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(249, 0, 'Space Station', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(250, 0, 'Flying Saucer', 'normal', 'Nook''s', 'yellow', 'gray')
-insert into accf_furniture values(251, 0, 'Detour Arrow', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(252, 0, 'Handcart', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(253, 0, 'Iron Frame', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(254, 0, 'Manhole Cover', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(255, 0, 'Orange Cone', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(256, 0, 'Traffic Cone', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(257, 0, 'Saw Horse', 'normal', 'Crazy Redd', 'red', 'white')
-insert into accf_furniture values(258, 0, 'Wet Roadway Sign', 'normal', 'Nook''s', 'orange', 'orange')
-insert into accf_furniture values(259, 0, 'Steam Roller', 'normal', 'Crazy Redd', 'yellow', 'black')
-insert into accf_furniture values(260, 0, 'Jackhammer', 'normal', 'Nook''s', 'red', 'gray')
-insert into accf_furniture values(261, 0, 'Striped Cone', 'normal', 'Nook''s', 'yellow', 'black')
-insert into accf_furniture values(262, 0, 'Cement Mixer', 'normal', 'Spotlight', 'yellow', 'yellow')
-insert into accf_furniture values(263, 0, 'Brown Drum', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(264, 0, 'Green Drum', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(265, 0, 'Red Drum', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(266, 0, 'Haz-Mat Barrel', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(267, 0, 'Oil Drum', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(268, 0, 'Boxing Barricade', 'normal', 'Nook''s', 'blue', 'gray')
-insert into accf_furniture values(269, 0, 'Red Corner', 'normal', 'Crazy Redd', 'red', 'white')
-insert into accf_furniture values(270, 0, 'Blue Corner', 'normal', 'Spotlight', 'blue', 'white')
-insert into accf_furniture values(271, 0, 'Neutral Corner', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(272, 0, 'Judge''s Bell', 'normal', 'Crazy Redd', 'yellow', 'brown')
-insert into accf_furniture values(273, 0, 'Boxing Mat', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(274, 0, 'Ringside Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(275, 0, 'Weight Bench', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(276, 0, 'Sandbag', 'normal', 'Nook''s', 'red', 'gray')
-insert into accf_furniture values(277, 0, 'Speed Bag', 'normal', 'Nook''s', 'blue', 'gray')
-insert into accf_furniture values(278, 0, 'Birdhouse', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(279, 0, 'Mr. Flamingo', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(280, 0, 'Mrs. Flamingo', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(281, 0, 'Garden Gnome', 'normal', 'Spotlight', 'red', 'green')
-insert into accf_furniture values(282, 0, 'Bug Zapper', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(283, 0, 'Hammock', 'normal', 'Nook''s', 'white', 'brown')
-insert into accf_furniture values(284, 0, 'Bird Bath', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(285, 0, 'Picnic Table', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(286, 0, 'Bird Feeder', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(287, 0, 'Lawn Chair', 'normal', 'Nook''s', 'aqua', 'white')
-insert into accf_furniture values(288, 0, 'Lawn Mower', 'normal', 'Crazy Redd', 'red', 'red')
-insert into accf_furniture values(289, 0, 'Barbecue', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(290, 0, 'Backyard Pool', 'normal', 'Crazy Redd', 'aqua', 'aqua')
-insert into accf_furniture values(291, 0, 'Sprinkler', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(292, 0, 'Tiki Torch', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(293, 0, 'Elephant Slide', 'normal', 'Nook''s', 'yellow', 'blue')
-insert into accf_furniture values(294, 0, 'Stroller', 'normal', 'Nook''s', 'aqua', 'white')
-insert into accf_furniture values(295, 0, 'Cradle', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(296, 0, 'Baby Bed', 'normal', 'Crazy Redd', 'white', 'colorful')
-insert into accf_furniture values(297, 0, 'Clackercart', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(298, 0, 'Merry-Go-Round', 'normal', 'Crazy Redd', 'colorful', 'colorful')
-insert into accf_furniture values(299, 0, 'Rocking Horse', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(300, 0, 'Train Set', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(301, 0, 'Wobbelina', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(302, 0, 'Dolly', 'normal', 'Spotlight', 'red', 'red')
-insert into accf_furniture values(303, 0, 'Lab Bench', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(304, 0, 'Lab Chair', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(305, 0, 'Medicine Chest', 'normal', 'Crazy Redd', 'gray', 'gray')
-insert into accf_furniture values(306, 0, 'Florence Flask', 'normal', 'Nook''s', 'green', 'gray')
-insert into accf_furniture values(307, 0, 'Amazing Machine', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(308, 0, 'Unknown Machine', 'normal', 'Spotlight', 'gray', 'gray')
-insert into accf_furniture values(309, 0, 'Complex Machine', 'normal', 'Nook''s', 'black', 'gray')
-insert into accf_furniture values(310, 0, 'Helm', 'normal', 'Pascal', 'brown', 'brown')
-insert into accf_furniture values(311, 0, 'Barrel', 'normal', 'Pascal', 'brown', 'brown')
-insert into accf_furniture values(312, 0, 'Keg', 'normal', 'Pascal', 'brown', 'brown')
-insert into accf_furniture values(313, 0, 'Ship Cannon', 'normal', 'Pascal', 'black', 'black')
-insert into accf_furniture values(314, 0, 'Anchor', 'normal', 'Pascal', 'black', 'brown')
-insert into accf_furniture values(315, 0, 'Ship Compass', 'normal', 'Pascal', 'brown', 'gray')
-insert into accf_furniture values(316, 0, 'Black Pawn', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(317, 0, 'Black Bishop', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(318, 0, 'Black King', 'normal', 'Spotlight', 'black', 'black')
-insert into accf_furniture values(319, 0, 'Black Knight', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(320, 0, 'Black Queen', 'normal', 'Spotlight', 'black', 'black')
-insert into accf_furniture values(321, 0, 'Black Rook', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(322, 0, 'White Pawn', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(323, 0, 'White Bishop', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(324, 0, 'White King', 'normal', 'Spotlight', 'white', 'white')
-insert into accf_furniture values(325, 0, 'White Knight', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(326, 0, 'White Queen', 'normal', 'Spotlight', 'white', 'white')
-insert into accf_furniture values(327, 0, 'White Rook', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(328, 0, 'Right Platform', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(329, 0, 'Left Platform', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(330, 0, 'Podium', 'normal', 'Spotlight', 'brown', 'brown')
-insert into accf_furniture values(331, 0, 'Teacher''s Desk', 'normal', 'Nook''s', 'brown', 'gray')
-insert into accf_furniture values(332, 0, 'Teacher''s Chair', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(333, 0, 'School Desk', 'normal', 'Nook''s', 'brown', 'gray')
-insert into accf_furniture values(334, 0, 'School Chair', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(335, 0, 'Cubby Hole', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(336, 0, 'Chalk Board', 'normal', 'Nook''s', 'gray', 'black')
-insert into accf_furniture values(337, 0, 'Mop', 'normal', 'Nook''s', 'gray', 'brown')
-insert into accf_furniture values(338, 0, 'Skeleton', 'normal', 'Spotlight', 'white', 'white')
-insert into accf_furniture values(339, 0, 'Anatomical Model', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(340, 0, 'Clear Model', 'normal', 'Crazy Redd', 'red', 'blue')
-insert into accf_furniture values(341, 0, 'Hamster Cage', 'normal', 'Spotlight', 'brown', 'white')
-insert into accf_furniture values(342, 0, 'Science Table', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(343, 0, 'Vaulting Horse', 'normal', 'Nook''s', 'brown', 'beige')
-insert into accf_furniture values(344, 0, 'Ball Catcher', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(345, 0, 'High-Jump Mat', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(346, 0, 'Hurdle', 'normal', 'Nook''s', 'white', 'blue')
-insert into accf_furniture values(347, 0, 'Scoreboard', 'normal', 'Crazy Redd', 'orange', 'white')
-insert into accf_furniture values(348, 0, 'Folding Chair', 'normal', 'Nook''s', 'blue', 'gray')
-insert into accf_furniture values(349, 0, 'Vision Tester', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(350, 0, 'Trunk Measure', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(351, 0, 'Stadiometer', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(352, 0, 'Scale', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(353, 0, 'Hospital Bed', 'normal', 'Crazy Redd', 'green', 'white')
-insert into accf_furniture values(354, 0, 'Hospital Screen', 'normal', 'Nook''s', 'aqua', 'gray')
-insert into accf_furniture values(355, 0, 'IV Drip', 'normal', 'Spotlight', 'blue', 'brown')
-insert into accf_furniture values(356, 0, 'Sink', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(357, 0, 'Writing Desk', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(358, 0, 'Writing Chair', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(359, 0, 'Globe', 'normal', 'Nook''s', 'aqua', 'brown')
-insert into accf_furniture values(360, 0, 'Office Desk', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(361, 0, 'Office Chair', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(362, 0, 'Office Locker', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(363, 0, 'Coffee Maker', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(364, 0, 'Checkout Counter', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(365, 0, 'Cash Register', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(366, 0, 'Jukebox', 'normal', 'Spotlight', 'brown', 'colorful')
-insert into accf_furniture values(367, 0, 'Siphon', 'normal', 'Nook''s', 'white', 'brown')
-insert into accf_furniture values(368, 0, 'Giant Dharma', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(369, 0, 'Dharma', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(370, 0, 'Mini-Dharma', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(371, 0, 'Papa Bear', 'normal', 'Katie/Kaitlin', 'brown', 'brown')
-insert into accf_furniture values(372, 0, 'Mama Bear', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(373, 0, 'Baby Bear', 'normal', 'Nook''s', 'orange', 'orange')
-insert into accf_furniture values(374, 0, 'Papa Panda', 'normal', 'Nook''s', 'pink', 'white')
-insert into accf_furniture values(375, 0, 'Mama Panda', 'normal', 'Crazy Redd', 'black', 'white')
-insert into accf_furniture values(376, 0, 'Baby Panda', 'normal', 'Spotlight', 'green', 'white')
-insert into accf_furniture values(377, 0, 'Tall Cactus', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(378, 0, 'Cactus', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(379, 0, 'Round Cactus', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(380, 0, 'Blue Golf Bag', 'normal', 'Nook''s', 'blue', 'aqua')
-insert into accf_furniture values(381, 0, 'White Golf Bag', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(382, 0, 'Green Golf Bag', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(383, 0, 'Red Armchair', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(384, 0, 'Red Sofa', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(385, 0, 'Bear Pole', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(386, 0, 'Eagle Pole', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(387, 0, 'Frog-Woman Pole', 'normal', 'Crazy Redd', 'brown', 'colorful')
-insert into accf_furniture values(388, 0, 'Raven Pole', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(389, 0, 'Blue Lava Lamp', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(390, 0, 'Purple Lava Lamp', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(391, 0, 'Green Lava Lamp', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(392, 0, 'Tea Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(393, 0, 'Hearth', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(394, 0, 'Screen', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(395, 0, 'Hibachi', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(396, 0, 'Tea Tansu', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(397, 0, 'Paper Lantern', 'normal', 'Nook''s', 'brown', 'beige')
-insert into accf_furniture values(398, 0, 'Paulownia Closet', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(399, 0, 'Stair Dresser', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(400, 0, 'Low Screen', 'normal', 'Nook''s', 'brown', 'beige')
-insert into accf_furniture values(401, 0, 'Paper Tiger', 'normal', 'Crazy Redd', 'yellow', 'black')
-insert into accf_furniture values(402, 0, 'Lucky Frog', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(403, 0, 'Sword', 'normal', 'Nook''s', 'yellow', 'black')
-insert into accf_furniture values(404, 0, 'Bow', 'normal', 'Nook''s', 'yellow', 'black')
-insert into accf_furniture values(405, 0, 'Samurai Suit', 'normal', 'Spotlight', 'yellow', 'black')
-insert into accf_furniture values(406, 0, 'Black Katana', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(407, 0, 'White Katana', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(408, 0, 'Ninja Sword', 'normal', 'Spotlight', 'brown', 'brown')
-insert into accf_furniture values(409, 0, 'Deer Scare', 'normal', 'Crazy Redd', 'green', 'green')
-insert into accf_furniture values(410, 0, 'Tall Lantern', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(411, 0, 'Spa Chair', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(412, 0, 'Bath Mat', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(413, 0, 'Bucket', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(414, 0, 'Bathtub', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(415, 0, 'Milk Case', 'normal', 'Nook''s (Japan)', 'beige', 'colorful')
-insert into accf_furniture values(416, 0, 'Ice-Cream Case', 'normal', 'Nook''s (Japan)', 'beige', 'colorful')
-insert into accf_furniture values(417, 0, 'Washbasin', 'normal', 'Spotlight', 'aqua', 'aqua')
-insert into accf_furniture values(418, 0, 'Tea Vase', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(419, 0, 'Red Vase', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(420, 0, 'Blue Vase', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(421, 0, 'Lucky Cat', 'normal', 'Nook''s', 'yellow', 'white')
-insert into accf_furniture values(422, 0, 'Lefty Lucky Cat', 'normal', 'Crazy Redd', 'yellow', 'white')
-insert into accf_furniture values(423, 0, 'Lucky Black Cat', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(424, 0, 'Lucky Gold Cat', 'normal', 'Spotlight', 'yellow', 'yellow')
-insert into accf_furniture values(425, 0, 'Grapefruit Table', 'normal', 'Nook''s', 'orange', 'blue')
-insert into accf_furniture values(426, 0, 'Lemon Table', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(427, 0, 'Orange Chair', 'normal', 'Nook''s', 'orange', 'orange')
-insert into accf_furniture values(428, 0, 'Lime Chair', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(429, 0, 'Pear Wardrobe', 'normal', 'Nook''s', 'green', 'beige')
-insert into accf_furniture values(430, 0, 'Pear Dresser', 'normal', 'Nook''s', 'green', 'beige')
-insert into accf_furniture values(431, 0, 'Watermelon Chair', 'normal', 'Nook''s', 'red', 'green')
-insert into accf_furniture values(432, 0, 'Melon Chair', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(433, 0, 'Watermelon Table', 'normal', 'Nook''s', 'red', 'green')
-insert into accf_furniture values(434, 0, 'Apple TV', 'normal', 'Katie/Kaitlin', 'red', 'red')
-insert into accf_furniture values(435, 0, 'Apple Clock', 'normal', 'Nook''s', 'red', 'beige')
-insert into accf_furniture values(436, 0, 'Lily-Pad Table', 'normal', 'Katie/Kaitlin', 'green', 'green')
-insert into accf_furniture values(437, 0, 'Froggy Chair', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(438, 0, 'Pine Chair', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(439, 0, 'Pine Table', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(440, 0, 'Tulip Chair', 'normal', 'Nook''s', 'red', 'green')
-insert into accf_furniture values(441, 0, 'Tulip Table', 'normal', 'Nook''s', 'red', 'green')
-insert into accf_furniture values(442, 0, 'Iris Chair', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(443, 0, 'Iris Table', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(444, 0, 'Daffodil Chair', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(445, 0, 'Daffodil Table', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(446, 0, 'Ponderosa Bonsai', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(447, 0, 'Pine Bonsai', 'normal', 'Nook''s', 'green', 'blue')
-insert into accf_furniture values(448, 0, 'Mugho Bonsai', 'normal', 'Nook''s', 'green', 'black')
-insert into accf_furniture values(449, 0, 'Plum Bonsai', 'normal', 'Spotlight', 'pink', 'brown')
-insert into accf_furniture values(450, 0, 'Holly Bonsai', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(451, 0, 'Azalea Bonsai', 'normal', 'Nook''s', 'green', 'blue')
-insert into accf_furniture values(452, 0, 'Maple Bonsai', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(453, 0, 'Hawthorn Bonsai', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(454, 0, 'Quince Bonsai', 'normal', 'Nook''s', 'red', 'blue')
-insert into accf_furniture values(455, 0, 'Jasmine Bonsai', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(456, 0, 'Pothos', 'normal', 'Crazy Redd', 'green', 'brown')
-insert into accf_furniture values(457, 0, 'Coconut Palm', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(458, 0, 'Pachira', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(459, 0, 'Caladium', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(460, 0, 'Croton', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(461, 0, 'Dracaena', 'normal', 'Spotlight', 'green', 'brown')
-insert into accf_furniture values(462, 0, 'Lady Palm', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(463, 0, 'Aloe', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(464, 0, 'Rubber Tree', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(465, 0, 'Snake Plant', 'normal', 'Crazy Redd', 'green', 'brown')
-insert into accf_furniture values(466, 0, 'Fan Palm', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(467, 0, 'Corn Plant', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(468, 0, 'Bromeliaceae', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(469, 0, 'Weeping Fig', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(470, 0, 'Conga Drum', 'normal', 'Nook''s', 'brown', 'beige')
-insert into accf_furniture values(471, 0, 'Djimbe Drum', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(472, 0, 'Timpano Drum', 'normal', 'Crazy Redd', 'gray', 'beige')
-insert into accf_furniture values(473, 0, 'Violin', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(474, 0, 'Cello', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(475, 0, 'Bass', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(476, 0, 'Folk Guitar', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(477, 0, 'Country Guitar', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(478, 0, 'Rock Guitar', 'normal', 'Nook''s', 'green', 'white')
-insert into accf_furniture values(479, 0, 'Metal Guitar', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(480, 0, 'Ukulele', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(481, 0, 'Ebony Piano', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(482, 0, 'Ivory Piano', 'normal', 'Spotlight', 'white', 'white')
-insert into accf_furniture values(483, 0, 'Upright Piano', 'normal', 'Nook''s', 'red', 'black')
-insert into accf_furniture values(484, 0, 'Japanese Drum', 'normal', 'Nook''s', 'brown', 'beige')
-insert into accf_furniture values(485, 0, 'Vibraphone', 'normal', 'Nook''s', 'brown', 'black')
-insert into accf_furniture values(486, 0, 'Biwa Lute', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(487, 0, 'Harp', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(488, 0, 'Metronome', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(489, 0, 'Trash Can', 'normal', 'Nook''s', 'aqua', 'gray')
-insert into accf_furniture values(490, 0, 'Garbage Pail', 'normal', 'Nook''s', 'blue', 'blue')
-insert into accf_furniture values(491, 0, 'Garbage Can', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(492, 0, 'Trash Bin', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(493, 0, 'Pantheon Post', 'normal', 'Crazy Redd', 'gray', 'gray')
-insert into accf_furniture values(494, 0, 'Ionian Post', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(495, 0, 'Corinthian Post', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(496, 0, 'Broken Post', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(497, 0, 'Pyramid', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(498, 0, 'Sphinx', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(499, 0, 'Mummy''s Casket', 'normal', 'Spotlight', 'yellow', 'colorful')
-insert into accf_furniture values(500, 0, 'Spaceman', 'normal', 'Crazy Redd', 'gray', 'gray')
-insert into accf_furniture values(501, 0, 'Jomon Pottery', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(502, 0, 'Tennis Table', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(503, 0, 'Bowling Pins', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(504, 0, 'Ball Return', 'normal', 'Nook''s', 'white', 'colorful')
-insert into accf_furniture values(505, 0, 'Basketball Hoop', 'normal', 'Crazy Redd', 'white', 'gray')
-insert into accf_furniture values(506, 0, 'Billiard Table', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(507, 0, 'Mahjong Table', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(508, 0, 'Dart Board', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(509, 0, 'Pinball Machine', 'normal', 'Nook''s', 'brown', 'colorful')
-insert into accf_furniture values(510, 0, 'Arcade Machine', 'normal', 'Nook''s', 'white', 'colorful')
-insert into accf_furniture values(511, 0, 'Tabletop Game', 'normal', 'Crazy Redd', 'black', 'brown')
-insert into accf_furniture values(512, 0, 'Stool', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(513, 0, 'Shogi Board', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(514, 0, 'Go Board', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(515, 0, 'Moai Statue', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(516, 0, 'Tribal Mask', 'unorderable', 'Gulliver', 'brown', 'brown')
-insert into accf_furniture values(517, 0, 'Arc de Triomphe', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(518, 0, 'Merlion', 'unorderable', 'Gulliver', 'white', 'white')
-insert into accf_furniture values(519, 0, 'Pagoda', 'unorderable', 'Gulliver', 'red', 'gray')
-insert into accf_furniture values(520, 0, 'Plate Armor', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(521, 0, 'Mermaid Statue', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(522, 0, 'Mouth of Truth', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(523, 0, 'Manneken Pis', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(524, 0, 'Tower of Pisa', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(525, 0, 'Compass', 'unorderable', 'Gulliver', 'gray', 'gray')
-insert into accf_furniture values(526, 0, 'Matryoshka', 'unorderable', 'Gulliver', 'colorful', 'colorful')
-insert into accf_furniture values(527, 0, 'Chocolates', 'unorderable', 'Gulliver', 'brown', 'brown')
-insert into accf_furniture values(528, 0, 'Backpack', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(529, 0, 'Mountain Bike', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(530, 0, 'Propane Stove', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(531, 0, 'Cooler', 'normal', 'Nook''s', 'blue', 'white')
-insert into accf_furniture values(532, 0, 'Kayak', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(533, 0, 'Lantern', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(534, 0, 'Sleeping Bag', 'normal', 'Spotlight', 'green', 'green')
-insert into accf_furniture values(535, 0, 'Campfire', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(536, 0, 'Bonfire', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(537, 0, 'TV with a VCR', 'normal', 'Nook''s', 'gray', 'black')
-insert into accf_furniture values(538, 0, 'Wide-Screen TV', 'normal', 'Crazy Redd', 'black', 'brown')
-insert into accf_furniture values(539, 0, 'Retro TV', 'normal', 'Nook''s', 'brown', 'gray')
-insert into accf_furniture values(540, 0, 'Kitchen Sink', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(541, 0, 'Kitchen Corner', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(542, 0, 'Deluxe Range', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(543, 0, 'Range', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(544, 0, 'Stove', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(545, 0, 'Sink', 'normal', 'Nook''s', 'brown', 'white')
-insert into accf_furniture values(546, 0, 'Tea Set', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(547, 0, 'Shave-Ice Maker', 'normal', 'Nook''s', 'aqua', 'gray')
-insert into accf_furniture values(548, 0, 'Refrigerator', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(549, 0, 'Retro Fridge', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(550, 0, 'Microwave', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(551, 0, 'Toaster', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(552, 0, 'Mixer', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(553, 0, 'Clothesline Pole', 'normal', 'Nook''s', 'green', 'blue')
-insert into accf_furniture values(554, 0, 'Doghouse', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(555, 0, 'Beach Chair', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(556, 0, 'Wave Breaker', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(557, 0, 'Surfboard', 'normal', 'Nook''s', 'aqua', 'blue')
-insert into accf_furniture values(558, 0, 'Diver Dan', 'normal', 'Nook''s', 'yellow', 'colorful')
-insert into accf_furniture values(559, 0, 'Beach Table', 'normal', 'Nook''s', 'blue', 'white')
-insert into accf_furniture values(560, 0, 'Treasure Chest', 'normal', 'Spotlight', 'yellow', 'green')
-insert into accf_furniture values(561, 0, 'Life Ring', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(562, 0, 'Snowboard', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(563, 0, 'Sleigh', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(564, 0, 'Snowman', 'unorderable', 'Snowman', 'white', 'white')
-insert into accf_furniture values(565, 0, 'Sunflower', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(566, 0, 'Daffodil', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(567, 0, 'Gerbera', 'normal', 'Nook''s', 'orange', 'blue')
-insert into accf_furniture values(568, 0, 'Toilet', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(569, 0, 'Super Toilet', 'normal', 'Crazy Redd', 'pink', 'pink')
-insert into accf_furniture values(570, 0, 'Men''s Toilet', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(571, 0, 'Pink Box', 'normal', 'Nook''s', 'pink', 'pink')
-insert into accf_furniture values(572, 0, 'Blue Box', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(573, 0, 'Beige Box', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(574, 0, 'Safe', 'normal', 'Crazy Redd', 'black', 'black')
-insert into accf_furniture values(575, 0, 'Deluxe Washer', 'normal', 'Spotlight', 'orange', 'orange')
-insert into accf_furniture values(576, 0, 'Automatic Washer', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(577, 0, 'Washer/Dryer', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(578, 0, 'Potbelly Stove', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(579, 0, 'Space Heater', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(580, 0, 'Fireplace', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(581, 0, 'Radiator', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(582, 0, 'Phonograph', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(583, 0, 'Turntable', 'normal', 'Crazy Redd', 'brown', 'brown')
-insert into accf_furniture values(584, 0, 'Reel-to-Reel', 'normal', 'Nook''s', 'black', 'colorful')
-insert into accf_furniture values(585, 0, 'Retro Stereo', 'normal', 'Nook''s', 'black', 'black')
-insert into accf_furniture values(586, 0, 'Gold Stereo', 'normal', 'Nook''s', 'yellow', 'black')
-insert into accf_furniture values(587, 0, 'Hi-Fi Stereo', 'normal', 'Spotlight', 'black', 'brown')
-insert into accf_furniture values(588, 0, 'High-End Stereo', 'normal', 'Crazy Redd', 'brown', 'black')
-insert into accf_furniture values(589, 0, 'Dice Stereo', 'normal', 'Crazy Redd', 'white', 'white')
-insert into accf_furniture values(590, 0, 'Tape Deck', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(591, 0, 'CD Player', 'normal', 'Nook''s', 'aqua', 'aqua')
-insert into accf_furniture values(592, 0, 'White Boom Box', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(593, 0, 'Red Boom Box', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(594, 0, 'Red Clock', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(595, 0, 'Kitschy Clock', 'normal', 'Nook''s', 'gray', 'colorful')
-insert into accf_furniture values(596, 0, 'Antique Clock', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(597, 0, 'Cube Clock', 'normal', 'Nook''s', 'yellow', 'white')
-insert into accf_furniture values(598, 0, 'Odd Clock', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(599, 0, 'Glow Clock', 'normal', 'Nook''s', 'yellow', 'green')
-insert into accf_furniture values(600, 0, 'Owl Clock', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(601, 0, 'Alarm Clock', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(602, 0, 'Jade Econo-Chair', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(603, 0, 'Ruby Econo-Chair', 'normal', 'Nook''s', 'orange', 'orange')
-insert into accf_furniture values(604, 0, 'Gold Econo-Chair', 'normal', 'Nook''s', 'Trendy', 'Dignified')
-insert into accf_furniture values(605, 0, 'Rocking Chair', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(606, 0, 'Lefty Desk', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(607, 0, 'Righty Desk', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(608, 0, 'Gas Pump', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(609, 0, 'Extinguisher', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(610, 0, 'Fire Hydrant', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(611, 0, 'Raccoon Figurine', 'normal', 'Crazy Redd', 'brown', 'white')
-insert into accf_furniture values(612, 0, 'Barber''s Pole', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(613, 0, 'Candy Machine', 'normal', 'Nook''s', 'red', 'colorful')
-insert into accf_furniture values(614, 0, 'Scarecrow', 'normal', 'Nook''s', 'white', 'brown')
-insert into accf_furniture values(615, 0, 'Birdcage', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(616, 0, 'Phone Box', 'normal', 'Nook''s', 'red', 'red')
-insert into accf_furniture values(617, 0, 'Outdoor Bath', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(618, 0, 'Wheat Field', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(619, 0, 'Computer', 'normal', 'Nook''s', 'white', 'brown')
-insert into accf_furniture values(620, 0, 'Pineapple Bed', 'normal', 'Nook''s', 'yellow', 'yellow')
-insert into accf_furniture values(621, 0, 'Glass-Top Table', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(622, 0, 'Blue Kotatsu', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(623, 0, 'Pink Kotatsu', 'normal', 'Nook''s', 'pink', 'brown')
-insert into accf_furniture values(624, 0, 'Cream Sofa', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(625, 0, 'Storage Case', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(626, 0, 'Clothes Closet', 'normal', 'Nook''s', 'beige', 'beige')
-insert into accf_furniture values(627, 0, 'Claw-foot Tub', 'normal', 'Nook''s', 'white', 'white')
-insert into accf_furniture values(628, 0, 'Shower', 'normal', 'Nook''s', 'gray', 'gray')
-insert into accf_furniture values(629, 0, 'Massage Chair', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(630, 0, 'Vacuum Cleaner', 'normal', 'Nook''s', 'red', 'white')
-insert into accf_furniture values(631, 0, 'Bottled Ship', 'normal', 'Nook''s', 'gray', 'brown')
-insert into accf_furniture values(632, 0, 'Water Bird', 'normal', 'Nook''s', 'colorful', 'colorful')
-insert into accf_furniture values(633, 0, 'Executive Toy', 'normal', 'Nook''s', 'red', 'gray')
-insert into accf_furniture values(634, 0, 'Telescope', 'normal', 'Nook''s', 'black', 'white')
-insert into accf_furniture values(635, 0, 'Miniature Car', 'transfer', 'DS Transfer', 'red', 'red')
-insert into accf_furniture values(636, 0, 'Mochi Pestle', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(637, 0, 'Sewing Machine', 'normal', 'Nook''s', 'brown', 'gray')
-insert into accf_furniture values(638, 0, 'Cardboard Box', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(639, 0, 'Wooden Box', 'normal', 'Nook''s', 'brown', 'brown')
-insert into accf_furniture values(640, 0, 'Fan', 'normal', 'Nook''s', 'green', 'green')
-insert into accf_furniture values(641, 0, 'Candle', 'normal', 'Nook''s', 'neither', 'neither')
-insert into accf_furniture values(642, 0, 'Mini-Lamp', 'normal', 'Nook''s', 'neither', 'neither')
-insert into accf_furniture values(643, 0, 'Desk Light', 'normal', 'Nook''s', 'neither', 'neither')
-insert into accf_furniture values(644, 0, 'Table Lamp', 'normal', 'Nook''s', 'aqua', 'white')
-insert into accf_furniture values(645, 0, 'Throne', 'unorderable', 'Spotlight', 'yellow', 'red')
-insert into accf_furniture values(646, 0, 'Basic Red Bed', 'normal', 'Nook''s', 'red', 'brown')
-insert into accf_furniture values(647, 0, 'Basic Blue Bed', 'normal', 'Nook''s', 'blue', 'brown')
-insert into accf_furniture values(648, 0, 'Basic Yellow Bed', 'normal', 'Nook''s', 'yellow', 'brown')
-insert into accf_furniture values(649, 0, 'Basic Green Bed', 'normal', 'Nook''s', 'green', 'brown')
-insert into accf_furniture values(650, 0, 'Brick Block', 'unorderable', 'Balloon', 'brown', 'brown')
-insert into accf_furniture values(651, 0, 'Coin', 'unorderable', 'Balloon', 'yellow', 'yellow')
-insert into accf_furniture values(652, 0, 'Flagpole', 'unorderable', 'Balloon', 'white', 'brown')
-insert into accf_furniture values(653, 0, 'Fire Flower', 'unorderable', 'Balloon', 'white', 'colorful')
-insert into accf_furniture values(654, 0, 'Super Mushroom', 'unorderable', 'Balloon', 'red', 'orange')
-insert into accf_furniture values(655, 0, 'Koopa Shell', 'unorderable', 'Balloon', 'green', 'green')
-insert into accf_furniture values(656, 0, 'Starman', 'unorderable', 'Balloon', 'yellow', 'yellow')
-insert into accf_furniture values(657, 0, '1-Up Mushroom', 'unorderable', 'Balloon', 'green', 'orange')
-insert into accf_furniture values(658, 0, '? Block', 'unorderable', 'Balloon', 'orange', 'brown')
-insert into accf_furniture values(659, 0, 'Green Pipe', 'unorderable', 'Balloon', 'green', 'green')
-insert into accf_furniture values(660, 0, 'Fire Bar', 'unorderable', 'Balloon', 'red', 'brown')
-insert into accf_furniture values(661, 0, 'Cannon', 'unorderable', 'Balloon', 'black', 'black')
-insert into accf_furniture values(662, 0, 'Yoshi''s Egg', 'unorderable', 'Nook Points', 'green', 'white')
-insert into accf_furniture values(663, 0, 'Banana', 'unorderable', 'Nook Points', 'yellow', 'yellow')
-insert into accf_furniture values(664, 0, 'Triple Shells', 'unorderable', 'Nook Points', 'red', 'red')
-insert into accf_furniture values(665, 0, 'Kart', 'unorderable', 'Nook Points', 'red', 'black')
-insert into accf_furniture values(666, 0, 'Master Sword', 'normal', 'Spotlight', 'blue', 'gray')
-insert into accf_furniture values(667, 0, 'Arwing', 'normal', 'Spotlight', 'blue', 'gray')
-insert into accf_furniture values(668, 0, 'Triforce', 'normal', 'Crazy Redd', 'yellow', 'yellow')
-insert into accf_furniture values(669, 0, 'Metroid', 'unorderable', 'Gulliver', 'blue', 'gray')
-insert into accf_furniture values(670, 0, 'Birthday Cake', 'unorderable', 'Birthday', 'white', 'colorful')
-insert into accf_furniture values(671, 0, 'Jack-in-the-Box', 'unorderable', 'Jack', 'green', 'colorful')
-insert into accf_furniture values(672, 0, 'Kadomatsu', 'normal', 'Limited (Japan)', 'green', 'green')
-insert into accf_furniture values(673, 0, 'Kagamimochi', 'normal', 'Limited (Japan)', 'white', 'brown')
-insert into accf_furniture values(674, 0, 'Hinaningyo', 'normal', 'Limited (Japan)', 'red', 'colorful')
-insert into accf_furniture values(675, 0, 'Big Festive Tree', 'normal', 'Limited', 'green', 'colorful')
-insert into accf_furniture values(676, 0, 'Festive Tree', 'normal', 'Limited', 'green', 'colorful')
-insert into accf_furniture values(677, 0, 'Festive Flag', 'normal', 'Limited (North America)', 'colorful', 'colorful')
-insert into accf_furniture values(678, 0, 'Festive Candle', 'normal', 'Limited (North America)', 'colorful', 'colorful')
-insert into accf_furniture values(679, 0, 'Lovely Phone', 'unorderable', 'Katie/Kaitlin', 'pink', 'pink')
-insert into accf_furniture values(680, 0, 'Music Box', 'unorderable', 'Katie/Kaitlin', 'red', 'white')
-insert into accf_furniture values(681, 0, 'Portrait', 'unorderable', 'Katie/Kaitlin', 'yellow', 'brown')
-insert into accf_furniture values(682, 0, 'Box of Tissues', 'unorderable', 'Savings', 'white', 'white')
-insert into accf_furniture values(683, 0, 'Piggy Bank', 'unorderable', 'Savings', 'pink', 'pink')
-insert into accf_furniture values(684, 0, 'ABD', 'unorderable', 'Savings', 'gray', 'gray')
-insert into accf_furniture values(685, 0, 'Leaf', 'unorderable', 'Tortimer', 'green', 'green')
-insert into accf_furniture values(686, 0, 'Gold Trophy', 'unorderable', 'Chip', 'yellow', 'brown')
-insert into accf_furniture values(687, 0, 'Silver Trophy', 'unorderable', 'Chip', 'gray', 'brown')
-insert into accf_furniture values(688, 0, 'Bug Trophy', 'unorderable', 'Nat', 'yellow', 'brown')
-insert into accf_furniture values(689, 0, 'Rice Cake', 'unorderable', 'Tortimer (Japan)', 'black', 'colorful')
-insert into accf_furniture values(690, 0, 'Dango', 'unorderable', 'Tortimer (Japan)', 'white', 'brown')
-insert into accf_furniture values(691, 0, 'Bamboo Grass', 'unorderable', 'Tortimer (Japan)', 'green', 'colorful')
-insert into accf_furniture values(692, 0, 'Resetti Model', 'unorderable', 'Tortimer (North America)', 'colorful', 'brown')
-insert into accf_furniture values(693, 0, 'Cool Globe', 'unorderable', 'Tortimer (North America)', 'brown', 'brown')
-insert into accf_furniture values(694, 0, 'Picnic Basket', 'unorderable', 'Tortimer (North America)', '?', '?')
-insert into accf_furniture values(695, 0, 'Sailboat Model', 'unorderable', 'Tortimer (North America)', '?', '?')
-insert into accf_furniture values(696, 0, 'Wheat Bundle', 'unorderable', 'Tortimer (North America)', '?', '?')
-insert into accf_furniture values(697, 0, 'Espresso Maker', 'unorderable', 'Tortimer (Europe)', '?', '?')
-insert into accf_furniture values(698, 0, 'Stuffed Stocking', 'unorderable', 'Tortimer (Europe)', 'aqua', '?')
-insert into accf_furniture values(699, 0, 'Snow Globe', 'unorderable', 'Tortimer (Europe)', '?', '?')
-insert into accf_furniture values(700, 0, 'Veggie Basket', 'unorderable', 'Tortimer (Europe)', '?', '?')
-insert into accf_furniture values(701, 0, 'Yut', 'unorderable', 'Tortimer (Korea)', '?', '?')
-insert into accf_furniture values(702, 0, 'Hibiscus', 'unorderable', 'Tortimer (Korea)', '?', '?')
-insert into accf_furniture values(703, 0, 'Bureom', 'unorderable', 'Tortimer (Korea)', '?', '?')
-insert into accf_furniture values(704, 0, 'House Model', 'unorderable', 'HRA', 'green', 'red')
-insert into accf_furniture values(705, 0, 'Wide House Model', 'unorderable', 'HRA', 'green', 'red')
-insert into accf_furniture values(706, 0, 'Two-Story Model', 'unorderable', 'HRA', 'green', 'red')
-insert into accf_furniture values(707, 0, 'Town Hall Model', 'unorderable', 'Town Hall', 'brown', 'brown')
-insert into accf_furniture values(708, 0, 'Nook''s Cranny', 'unorderable', 'Nook Points', 'green', 'brown')
-insert into accf_furniture values(709, 0, 'Nook ''n'' Go', 'unorderable', 'Nook Points', 'blue', 'white')
-insert into accf_furniture values(710, 0, 'Nookway', 'unorderable', 'Nook Points', 'green', 'white')
-insert into accf_furniture values(711, 0, 'Nookington''s', 'unorderable', 'Nook Points', 'white', 'white')
-insert into accf_furniture values(712, 0, 'Museum Model', 'unorderable', 'Blathers', 'green', 'white')
+drop table if exists accf_furniture;
+create table accf_furniture ("Index" int, Selected int, Name varchar(63), Status varchar(31), "From" varchar(31), Price varchar(31), Color1 varchar(31), Color2 varchar(31), Concept1 varchar(31), Concept2 varchar(31));
+insert into accf_furniture values(1, 0, 'Exotic Bed', 'normal', 'Crazy Redd', '5,080 or 2,540', 'brown', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(2, 0, 'Exotic Bureau', 'normal', 'Nook''s', '2,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(3, 0, 'Exotic Wardrobe', 'normal', 'Nook''s', '2,180', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(4, 0, 'Exotic Bench', 'normal', 'Nook''s', '1,900', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(5, 0, 'Exotic Chair', 'normal', 'Nook''s', '1,400', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(6, 0, 'Exotic Table', 'normal', 'Crazy Redd', '4,600 or 2,300', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(7, 0, 'Exotic End Table', 'normal', 'Nook''s', '1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(8, 0, 'Exotic Lamp', 'normal', 'Nook''s', '1,800', 'yellow', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(9, 0, 'Exotic Screen', 'normal', 'Nook''s', '2,250', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(10, 0, 'Exotic Chest', 'normal', 'Spotlight', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(11, 0, 'Ranch Bed', 'normal', 'Nook''s', '2,300', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(12, 0, 'Ranch Dresser', 'normal', 'Crazy Redd', '5,440 or 2,720', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(13, 0, 'Ranch Wardrobe', 'normal', 'Nook''s', '3,050', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(14, 0, 'Ranch Couch', 'normal', 'Nook''s', '2,400', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(15, 0, 'Ranch Armchair', 'normal', 'Nook''s', '2,000', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(16, 0, 'Ranch Chair', 'normal', 'Crazy Redd', '2,800 or 1,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(17, 0, 'Ranch Table', 'normal', 'Nook''s', '1,700', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(18, 0, 'Ranch Tea Table', 'normal', 'Nook''s', '1,800', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(19, 0, 'Ranch Bookcase', 'normal', 'Nook''s', '2,000', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(20, 0, 'Ranch Hutch', 'normal', 'Spotlight', '2,560', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(21, 0, 'Classic Bed', 'normal', 'Nook''s', '2,520', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(22, 0, 'Classic Vanity', 'normal', 'Crazy Redd', '5,120 or 2,560', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(23, 0, 'Classic Wardrobe', 'normal', 'Crazy Redd', '5,120 or 2,560', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(24, 0, 'Classic Chair', 'normal', 'Nook''s', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(25, 0, 'Classic Sofa', 'normal', 'Nook''s', '2,240', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(26, 0, 'Classic Table', 'normal', 'Nook''s', '1,600', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(27, 0, 'Classic Bookcase', 'normal', 'Spotlight', '2,560', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(28, 0, 'Classic Buffet', 'normal', 'Nook''s', '3,360', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(29, 0, 'Classic Desk', 'normal', 'Nook''s', '2,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(30, 0, 'Classic Clock', 'normal', 'Nook''s', '2,180', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(31, 0, 'Regal Bed', 'normal', 'Crazy Redd', '6,240 or 3,120', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(32, 0, 'Regal Dresser', 'normal', 'Nook''s', '3,520', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(33, 0, 'Regal Armoire', 'normal', 'Nook''s', '3,820', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(34, 0, 'Regal Chair', 'normal', 'Crazy Redd', '4,200 or 2,100', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(35, 0, 'Regal Sofa', 'normal', 'Nook''s', '3,100', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(36, 0, 'Regal Table', 'normal', 'Nook''s', '2,540', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(37, 0, 'Regal Lamp', 'normal', 'Nook''s', '2,400', 'yellow', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(38, 0, 'Regal Clock', 'normal', 'Spotlight', '3,360', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(39, 0, 'Regal Bookcase', 'normal', 'Nook''s', '3,120', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(40, 0, 'Regal Vanity', 'normal', 'Nook''s', '3,200', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(41, 0, 'Blue Bed', 'normal', 'Crazy Redd', '4,200 or 2,100', 'yellow', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(42, 0, 'Blue Bureau', 'normal', 'Nook''s', '2,160', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(43, 0, 'Blue Wardrobe', 'normal', 'Nook''s', '1,920', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(44, 0, 'Blue Chair', 'normal', 'Nook''s', '1,200', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(45, 0, 'Blue Bench', 'normal', 'Nook''s', '1,900', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(46, 0, 'Blue Table', 'normal', 'Crazy Redd', '3,600 or 1,800', 'yellow', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(47, 0, 'Blue Bookcase', 'normal', 'Nook''s', '1,900', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(48, 0, 'Blue Cabinet', 'normal', 'Nook''s', '2,400', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(49, 0, 'Blue Clock', 'normal', 'Nook''s', '1,600', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(50, 0, 'Blue Dresser', 'normal', 'Spotlight', '2,100', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(51, 0, 'Cabana Bed', 'normal', 'Crazy Redd', '4,400 or 2,200', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(52, 0, 'Cabana Dresser', 'normal', 'Nook''s', '2,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(53, 0, 'Cabana Wardrobe', 'normal', 'Nook''s', '2,240', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(54, 0, 'Cabana Chair', 'normal', 'Crazy Redd', '3,200 or 1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(55, 0, 'Cabana Armchair', 'normal', 'Spotlight', '1,800', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(56, 0, 'Cabana Table', 'normal', 'Nook''s', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(57, 0, 'Cabana Lamp', 'normal', 'Nook''s', '1,700', 'brown', 'blue', 'Retro', 'Dignified');
+insert into accf_furniture values(58, 0, 'Cabana Bookcase', 'normal', 'Nook''s', '2,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(59, 0, 'Cabana Vanity', 'normal', 'Nook''s', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(60, 0, 'Cabana Screen', 'normal', 'Nook''s', '2,000', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(61, 0, 'Green Bed', 'normal', 'Nook''s', '2,160', 'green', 'beige', 'Trendy', 'Dignified');
+insert into accf_furniture values(62, 0, 'Green Dresser', 'normal', 'Crazy Redd', '4,640 or 2,320', 'green', 'orange', 'Trendy', 'Dignified');
+insert into accf_furniture values(63, 0, 'Green Wardrobe', 'normal', 'Crazy Redd', '4,600 or 2,300', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(64, 0, 'Green Chair', 'normal', 'Nook''s', '1,200', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(65, 0, 'Green Bench', 'normal', 'Nook''s', '1,800', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(66, 0, 'Green Table', 'normal', 'Nook''s', '1,700', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(67, 0, 'Green Desk', 'normal', 'Nook''s', '2,000', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(68, 0, 'Green Lamp', 'normal', 'Nook''s', '1,800', 'green', 'orange', 'Trendy', 'Dignified');
+insert into accf_furniture values(69, 0, 'Green Counter', 'normal', 'Nook''s', '2,400', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(70, 0, 'Green Pantry', 'normal', 'Spotlight', '2,290', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(71, 0, 'Cabin Bed', 'normal', 'Nook''s', '2,400', 'brown', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(72, 0, 'Cabin Dresser', 'normal', 'Crazy Redd', '4,320 or 2,160', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(73, 0, 'Cabin Wardrobe', 'normal', 'Nook''s', '2,480', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(74, 0, 'Cabin Chair', 'normal', 'Crazy Redd', '3,400 or 1,700', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(75, 0, 'Cabin Armchair', 'normal', 'Nook''s', '2,280', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(76, 0, 'Cabin Couch', 'normal', 'Nook''s', '2,480', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(77, 0, 'Cabin Table', 'normal', 'Nook''s', '2,100', 'brown', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(78, 0, 'Cabin Low Table', 'normal', 'Nook''s', '2,100', 'brown', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(79, 0, 'Cabin Bookcase', 'normal', 'Spotlight', '2,300', 'brown', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(80, 0, 'Cabin Clock', 'normal', 'Nook''s', '2,000', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(81, 0, 'Modern Bed', 'normal', 'Nook''s', '2,320', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(82, 0, 'Modern Dresser', 'normal', 'Nook''s', '2,250', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(83, 0, 'Modern Wardrobe', 'normal', 'Crazy Redd', '5,120 or 2,560', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(84, 0, 'Modern Chair', 'normal', 'Nook''s', '1,500', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(85, 0, 'Modern Sofa', 'normal', 'Nook''s', '2,620', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(86, 0, 'Modern End Table', 'normal', 'Crazy Redd', '3,800 or 1,900', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(87, 0, 'Modern Desk', 'normal', 'Nook''s', '2,480', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(88, 0, 'Modern Table', 'normal', 'Nook''s', '1,800', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(89, 0, 'Modern Cabinet', 'normal', 'Spotlight', '2,580', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(90, 0, 'Modern Lamp', 'normal', 'Nook''s', '1,400', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(91, 0, 'Kiddie Bed', 'normal', 'Crazy Redd', '4,200 or 2,100', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(92, 0, 'Kiddie Dresser', 'normal', 'Nook''s', '2,150', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(93, 0, 'Kiddie Wardrobe', 'normal', 'Nook''s', '2,180', 'colorful', 'colorful', 'Trendy', 'Playful- storage');
+insert into accf_furniture values(94, 0, 'Kiddie Couch', 'normal', 'Nook''s', '2,200', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(95, 0, 'Kiddie Chair', 'normal', 'Nook''s', '1,400', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(96, 0, 'Kiddie Table', 'normal', 'Nook''s', '2,200', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(97, 0, 'Kiddie Bureau', 'normal', 'Nook''s', '2,200', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(98, 0, 'Kiddie Bookcase', 'normal', 'Nook''s', '1,800', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(99, 0, 'Kiddie Clock', 'normal', 'Crazy Redd', '2,960 or 1,480', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(100, 0, 'Kiddie Stereo', 'normal', 'Spotlight', '1,900', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(101, 0, 'Lovely Bed', 'normal', 'Nook''s', '2,000', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(102, 0, 'Lovely Dresser', 'normal', 'Nook''s', '2,160', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(103, 0, 'Lovely Armoire', 'normal', 'Crazy Redd', '4,480 or 2,240', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(104, 0, 'Lovely Chair', 'normal', 'Nook''s', '1,600', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(105, 0, 'Lovely Loveseat', 'normal', 'Nook''s', '2,000', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(106, 0, 'Lovely End Table', 'normal', 'Crazy Redd', '3,600 or 1,800', 'pink', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(107, 0, 'Lovely Table', 'normal', 'Nook''s', '1,800', 'pink', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(108, 0, 'Lovely Vanity', 'normal', 'Nook''s', '2,200', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(109, 0, 'Lovely Kitchen', 'normal', 'Spotlight', '2,280', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(110, 0, 'Lovely Lamp', 'normal', 'Nook''s', '1,600', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(111, 0, 'Robo-Bed', 'normal', 'Nook''s', '2,000', 'blue', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(112, 0, 'Robo-Dresser', 'normal', 'Nook''s', '2,560', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(113, 0, 'Robo-Closet', 'normal', 'Crazy Redd', '4,800 or 2,400', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(114, 0, 'Robo-Sofa', 'normal', 'Nook''s', '2,000', 'blue', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(115, 0, 'Robo-Chair', 'normal', 'Nook''s', '1,600', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(116, 0, 'Robo-Table', 'normal', 'Nook''s', '2,200', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(117, 0, 'Robo-Stereo', 'normal', 'Spotlight', '2,200', 'blue', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(118, 0, 'Robo-TV', 'normal', 'Nook''s', '2,360', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(119, 0, 'Robo-Clock', 'normal', 'Nook''s', '1,400', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(120, 0, 'Robo-Lamp', 'normal', 'Crazy Redd', '3,600 or 1,800', 'green', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(121, 0, 'Snowman Bed', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(122, 0, 'Snowman Dresser', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(123, 0, 'Snowman Wardrobe', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(124, 0, 'Snowman Chair', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(125, 0, 'Snowman Sofa', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(126, 0, 'Snowman Table', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(127, 0, 'Snowman Fridge', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(128, 0, 'Snowman TV', 'unorderable', 'Snowman', '8,888', 'yellow', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(129, 0, 'Snowman Clock', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(130, 0, 'Snowman Lamp', 'unorderable', 'Snowman', '8,888', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(131, 0, 'Mushroom Bed', 'unorderable', 'mushrooms', '3,000', 'red', 'red', 'neither', 'Playful');
+insert into accf_furniture values(132, 0, 'Mushroom Dresser', 'unorderable', 'mushrooms', '2,450', 'brown', 'brown', 'neither', 'Playful');
+insert into accf_furniture values(133, 0, 'Mushroom Closet', 'unorderable', 'mushrooms', '2,450', 'brown', 'brown', 'neither', 'Playful');
+insert into accf_furniture values(134, 0, 'Mushroom Chair', 'unorderable', 'mushrooms', '1,900', 'white', 'aqua', 'neither', 'Playful');
+insert into accf_furniture values(135, 0, 'Mushroom Stool', 'unorderable', 'mushrooms', '1,800', 'brown', 'brown', 'neither', 'Playful');
+insert into accf_furniture values(136, 0, 'Mushroom Table', 'unorderable', 'mushrooms', '2,500', 'red', 'white', 'neither', 'Playful');
+insert into accf_furniture values(137, 0, 'Mushroom End Table', 'unorderable', 'mushrooms', '2,200', 'brown', 'white', 'neither', 'Playful');
+insert into accf_furniture values(138, 0, 'Mushroom Lamp', 'unorderable', 'mushrooms', '2,400', 'aqua', 'aqua', 'neither', 'Playful');
+insert into accf_furniture values(139, 0, 'Mushroom Stand', 'unorderable', 'mushrooms', '2,400', 'red', 'brown', 'neither', 'Playful');
+insert into accf_furniture values(140, 0, 'Mushroom TV', 'unorderable', 'mushrooms', '2,500', 'red', 'white', 'neither', 'Playful');
+insert into accf_furniture values(141, 0, 'Pave Bed', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(142, 0, 'Pave Chest', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(143, 0, 'Pave Closet', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(144, 0, 'Pave Sofa', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(145, 0, 'Pave Chair', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(146, 0, 'Pave Table', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(147, 0, 'Pave End Table', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(148, 0, 'Pave Bookshelf', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(149, 0, 'Pave Bureau', 'unorderable', 'Pave', '12,000', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(150, 0, 'Pave Lamp', 'unorderable', 'Pave', '12,000', 'blue', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(151, 0, 'Egg Bed', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(152, 0, 'Egg Dresser', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(153, 0, 'Egg Wardrobe', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(154, 0, 'Egg Chair', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(155, 0, 'Egg Bench', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(156, 0, 'Egg Table', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(157, 0, 'Egg Stereo', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(158, 0, 'Egg Toy Set', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(159, 0, 'Egg Clock', 'unorderable', 'Zipper T. Bunny', '9,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(160, 0, 'Egg Lamp', 'unorderable', 'Zipper T. Bunny', '9,000', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(161, 0, 'Spooky Bed', 'unorderable', 'Jack', '10,310', 'orange', 'purple', 'Retro', 'Playful');
+insert into accf_furniture values(162, 0, 'Spooky Dresser', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(163, 0, 'Spooky Wardrobe', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(164, 0, 'Spooky Sofa', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(165, 0, 'Spooky Chair', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(166, 0, 'Spooky Table', 'unorderable', 'Jack', '10,310', 'orange', 'purple', 'Retro', 'Playful');
+insert into accf_furniture values(167, 0, 'Spooky Vanity', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(168, 0, 'Spooky Bookcase', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(169, 0, 'Spooky Clock', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(170, 0, 'Spooky Lamp', 'unorderable', 'Jack', '10,310', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(171, 0, 'Harvest Bed', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(172, 0, 'Harvest Dresser', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(173, 0, 'Harvest Bureau', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(174, 0, 'Harvest Sofa', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(175, 0, 'Harvest Chair', 'unorderable', 'Franklin', '3,333', 'purple', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(176, 0, 'Harvest Table', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(177, 0, 'Harvest Mirror', 'unorderable', 'Franklin', '3,333', 'purple', 'purple', 'Trendy', 'Playful');
+insert into accf_furniture values(178, 0, 'Harvest TV', 'unorderable', 'Franklin', '3,333', 'purple', 'purple', 'Trendy', 'Playful');
+insert into accf_furniture values(179, 0, 'Harvest Clock', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(180, 0, 'Harvest Lamp', 'unorderable', 'Franklin', '3,333', 'purple', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(181, 0, 'Jingle Bed', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(182, 0, 'Jingle Dresser', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(183, 0, 'Jingle Wardrobe', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(184, 0, 'Jingle Sofa', 'unorderable', 'Jingle', '12,240', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(185, 0, 'Jingle Chair', 'unorderable', 'Jingle', '12,240', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(186, 0, 'Jingle Table', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(187, 0, 'Jingle Shelves', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(188, 0, 'Jingle Piano', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(189, 0, 'Jingle Clock', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(190, 0, 'Jingle Lamp', 'unorderable', 'Jingle', '12,240', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(191, 0, 'Princess Bed', 'unorderable', 'GracieGrace', '80,000', 'aqua', 'aqua', 'Retro', 'Playful');
+insert into accf_furniture values(192, 0, 'Princess Chest', 'unorderable', 'GracieGrace', '220,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(193, 0, 'Princess Closet', 'unorderable', 'GracieGrace', '180,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(194, 0, 'Princess Sofa', 'unorderable', 'GracieGrace', '100,000', 'aqua', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(195, 0, 'Princess Chair', 'unorderable', 'GracieGrace', '120,000', 'aqua', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(196, 0, 'Princess Table', 'unorderable', 'GracieGrace', '240,000', 'aqua', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(197, 0, 'Princess Curio', 'unorderable', 'GracieGrace', '98,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(198, 0, 'Princess Dresser', 'unorderable', 'GracieGrace', '80,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(199, 0, 'Princess Cage', 'unorderable', 'GracieGrace', '90,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(200, 0, 'Princess Lamp', 'unorderable', 'GracieGrace', '68,000', 'aqua', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(201, 0, 'Gracie Bed', 'unorderable', 'GracieGrace', '120,000', 'blue', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(202, 0, 'Gracie Chest', 'unorderable', 'GracieGrace', '220,000', 'brown', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(203, 0, 'Gracie Wardrobe', 'unorderable', 'GracieGrace', '138,000', 'brown', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(204, 0, 'Gracie Bench', 'unorderable', 'GracieGrace', '110,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(205, 0, 'Gracie Chair', 'unorderable', 'GracieGrace', '90,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(206, 0, 'Gracie Low Table', 'unorderable', 'GracieGrace', '68,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(207, 0, 'Gracie Desk', 'unorderable', 'GracieGrace', '90,000', 'brown', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(208, 0, 'Gracie Wagon', 'unorderable', 'GracieGrace', '240,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(209, 0, 'Gracie Shelf', 'unorderable', 'GracieGrace', '98,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(210, 0, 'Gracie Lamp', 'unorderable', 'GracieGrace', '120,000', 'brown', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(211, 0, 'Sweets Bed', 'unorderable', 'GracieGrace', '80,000', 'white', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(212, 0, 'Sweets Dresser', 'unorderable', 'GracieGrace', '220,000', 'brown', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(213, 0, 'Sweets Closet', 'unorderable', 'GracieGrace', '68,000', 'brown', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(214, 0, 'Sweets Sofa', 'unorderable', 'GracieGrace', '80,000', 'pink', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(215, 0, 'Sweets Chair', 'unorderable', 'GracieGrace', '120,000', 'brown', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(216, 0, 'Sweets Table', 'unorderable', 'GracieGrace', '240,000', 'brown', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(217, 0, 'Sweets Minitable', 'unorderable', 'GracieGrace', '80,000', 'white', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(218, 0, 'Sweets Bookcase', 'unorderable', 'GracieGrace', '90,000', 'beige', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(219, 0, 'Sweets Lamp', 'unorderable', 'GracieGrace', '98,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(220, 0, 'Sweets Minilamp', 'unorderable', 'GracieGrace', '110,000', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(221, 0, 'Gorgeous Bed', 'unorderable', 'GracieGrace', '300,000', 'red', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(222, 0, 'Gorgeous Chest', 'unorderable', 'GracieGrace', '90,000', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(223, 0, 'Gorgeous Closet', 'unorderable', 'GracieGrace', '140,000', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(224, 0, 'Gorgeous Sofa', 'unorderable', 'GracieGrace', '120,000', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(225, 0, 'Gorgeous Seat', 'unorderable', 'GracieGrace', '90,000', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(226, 0, 'Gorgeous Stool', 'unorderable', 'GracieGrace', '80,000', 'yellow', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(227, 0, 'Gorgeous Table', 'unorderable', 'GracieGrace', '250,000', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(228, 0, 'Gorgeous Desk', 'unorderable', 'GracieGrace', '220,000', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(229, 0, 'Gorgeous Counter', 'unorderable', 'GracieGrace', '180,000', 'red', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(230, 0, 'Gorgeous Lamp', 'unorderable', 'GracieGrace', '60,000', 'red', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(231, 0, 'Cow Skull', 'normal', 'Nook''s', '1,020', 'white', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(232, 0, 'Desert Cactus', 'normal', 'Nook''s', '890', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(233, 0, 'Western Fence', 'normal', 'Nook''s', '880', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(234, 0, 'Saddle Fence', 'normal', 'Crazy Redd', '4,360 or 2,180', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(235, 0, 'Storefront', 'normal', 'Nook''s', '3,680', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(236, 0, 'Covered Wagon', 'normal', 'Spotlight', '3,800', 'brown', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(237, 0, 'Watering Trough', 'normal', 'Nook''s', '1,100', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(238, 0, 'Tumbleweed', 'normal', 'Nook''s', '520', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(239, 0, 'Well', 'normal', 'Crazy Redd', '5,400 or 2,700', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(240, 0, 'Wagon Wheel', 'normal', 'Nook''s', '1,230', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(241, 0, 'Asteroid', 'normal', 'Nook''s', '1,800', 'gray', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(242, 0, 'Moon', 'normal', 'Spotlight', '32,000', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(243, 0, 'Lunar Lander', 'normal', 'Nook''s', '3,200', 'yellow', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(244, 0, 'Rocket', 'normal', 'Crazy Redd', '4,800 or 2,400', 'red', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(245, 0, 'Lunar Rover', 'normal', 'Nook''s', '2,560', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(246, 0, 'Satellite', 'normal', 'Nook''s', '2,600', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(247, 0, 'Space Shuttle', 'normal', 'Crazy Redd', '5,560 or 2,780', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(248, 0, 'Spaceman Sam', 'normal', 'Nook''s', '2,800', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(249, 0, 'Space Station', 'normal', 'Nook''s', '2,800', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(250, 0, 'Flying Saucer', 'normal', 'Nook''s', '2,400', 'yellow', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(251, 0, 'Detour Arrow', 'normal', 'Nook''s', '600', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(252, 0, 'Handcart', 'normal', 'Nook''s', '800', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(253, 0, 'Iron Frame', 'normal', 'Nook''s', '1,200', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(254, 0, 'Manhole Cover', 'normal', 'Nook''s', '1,000', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(255, 0, 'Orange Cone', 'normal', 'Nook''s', '600', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(256, 0, 'Traffic Cone', 'normal', 'Nook''s', '800', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(257, 0, 'Saw Horse', 'normal', 'Crazy Redd', '2,400 or 1,200', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(258, 0, 'Wet Roadway Sign', 'normal', 'Nook''s', '850', 'orange', 'orange', 'Trendy', 'Dignified');
+insert into accf_furniture values(259, 0, 'Steam Roller', 'normal', 'Crazy Redd', '9,000 or 4,500', 'yellow', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(260, 0, 'Jackhammer', 'normal', 'Nook''s', '1,880', 'red', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(261, 0, 'Striped Cone', 'normal', 'Nook''s', '800', 'yellow', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(262, 0, 'Cement Mixer', 'normal', 'Spotlight', '1,600', 'yellow', 'yellow', 'Trendy', 'Dignified');
+insert into accf_furniture values(263, 0, 'Brown Drum', 'normal', 'Nook''s', '800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(264, 0, 'Green Drum', 'normal', 'Nook''s', '800', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(265, 0, 'Red Drum', 'normal', 'Nook''s', '800', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(266, 0, 'Haz-Mat Barrel', 'normal', 'Nook''s', '840', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(267, 0, 'Oil Drum', 'normal', 'Nook''s', '840', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(268, 0, 'Boxing Barricade', 'normal', 'Nook''s', '1,050', 'blue', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(269, 0, 'Red Corner', 'normal', 'Crazy Redd', '13,600 or 6,800', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(270, 0, 'Blue Corner', 'normal', 'Spotlight', '6,800', 'blue', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(271, 0, 'Neutral Corner', 'normal', 'Nook''s', '5,500', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(272, 0, 'Judge''s Bell', 'normal', 'Crazy Redd', '3,580 or 1,790', 'yellow', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(273, 0, 'Boxing Mat', 'normal', 'Nook''s', '1,180', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(274, 0, 'Ringside Table', 'normal', 'Nook''s', '1,320', 'brown', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(275, 0, 'Weight Bench', 'normal', 'Nook''s', '3,590', 'black', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(276, 0, 'Sandbag', 'normal', 'Nook''s', '3,190', 'red', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(277, 0, 'Speed Bag', 'normal', 'Nook''s', '2,990', 'blue', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(278, 0, 'Birdhouse', 'normal', 'Nook''s', '1,620', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(279, 0, 'Mr. Flamingo', 'normal', 'Nook''s', '1,530', 'pink', 'pink', 'Retro', 'Dignified');
+insert into accf_furniture values(280, 0, 'Mrs. Flamingo', 'normal', 'Nook''s', '1,530', 'pink', 'pink', 'Retro', 'Dignified');
+insert into accf_furniture values(281, 0, 'Garden Gnome', 'normal', 'Spotlight', '3,380', 'red', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(282, 0, 'Bug Zapper', 'normal', 'Nook''s', '1,200', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(283, 0, 'Hammock', 'normal', 'Nook''s', '1,320', 'white', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(284, 0, 'Bird Bath', 'normal', 'Nook''s', '1,450', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(285, 0, 'Picnic Table', 'normal', 'Nook''s', '1,390', 'yellow', 'yellow', 'Retro', 'Playful');
+insert into accf_furniture values(286, 0, 'Bird Feeder', 'normal', 'Nook''s', '1,260', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(287, 0, 'Lawn Chair', 'normal', 'Nook''s', '1,180', 'aqua', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(288, 0, 'Lawn Mower', 'normal', 'Crazy Redd', '5,520 or 2,760', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(289, 0, 'Barbecue', 'normal', 'Nook''s', '1,760', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(290, 0, 'Backyard Pool', 'normal', 'Crazy Redd', '1,980 or 990', 'aqua', 'aqua', 'Trendy', 'Playful');
+insert into accf_furniture values(291, 0, 'Sprinkler', 'normal', 'Nook''s', '1,640', 'yellow', 'yellow', 'Trendy', 'Dignified');
+insert into accf_furniture values(292, 0, 'Tiki Torch', 'normal', 'Nook''s', '870', 'red', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(293, 0, 'Elephant Slide', 'normal', 'Nook''s', '1,200', 'yellow', 'blue', 'Trendy', 'Playful');
+insert into accf_furniture values(294, 0, 'Stroller', 'normal', 'Nook''s', '1,960', 'aqua', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(295, 0, 'Cradle', 'normal', 'Nook''s', '3,800', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(296, 0, 'Baby Bed', 'normal', 'Crazy Redd', '5,800 or 2,900', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(297, 0, 'Clackercart', 'normal', 'Nook''s', '1,380', 'brown', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(298, 0, 'Merry-Go-Round', 'normal', 'Crazy Redd', '1,280 or 640', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(299, 0, 'Rocking Horse', 'normal', 'Nook''s', '600', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(300, 0, 'Train Set', 'normal', 'Nook''s', '1,600', 'green', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(301, 0, 'Wobbelina', 'normal', 'Nook''s', '700', 'pink', 'pink', 'Retro', 'Playful');
+insert into accf_furniture values(302, 0, 'Dolly', 'normal', 'Spotlight', '6,800', 'red', 'red', 'Retro', 'Playful');
+insert into accf_furniture values(303, 0, 'Lab Bench', 'normal', 'Nook''s', '4,800', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(304, 0, 'Lab Chair', 'normal', 'Nook''s', '2,200', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(305, 0, 'Medicine Chest', 'normal', 'Crazy Redd', '4,560 or 2,280', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(306, 0, 'Florence Flask', 'normal', 'Nook''s', '1,600', 'green', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(307, 0, 'Amazing Machine', 'normal', 'Crazy Redd', '3,600', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(308, 0, 'Unknown Machine', 'normal', 'Spotlight', '4,800', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(309, 0, 'Complex Machine', 'normal', 'Nook''s', '3,840', 'black', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(310, 0, 'Helm', 'normal', 'Pascal', '280', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(311, 0, 'Barrel', 'normal', 'Pascal', '200', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(312, 0, 'Keg', 'normal', 'Pascal', '200', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(313, 0, 'Ship Cannon', 'normal', 'Pascal', '455', 'black', 'black', 'Retro', 'Playful');
+insert into accf_furniture values(314, 0, 'Anchor', 'normal', 'Pascal', '475', 'black', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(315, 0, 'Ship Compass', 'normal', 'Pascal', '400', 'brown', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(316, 0, 'Black Pawn', 'normal', 'Nook''s', '1,100', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(317, 0, 'Black Bishop', 'normal', 'Nook''s', '2,800', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(318, 0, 'Black King', 'normal', 'Spotlight', '8,000', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(319, 0, 'Black Knight', 'normal', 'Crazy Redd', '5,600 or 2,800', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(320, 0, 'Black Queen', 'normal', 'Spotlight', '8,000', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(321, 0, 'Black Rook', 'normal', 'Crazy Redd', '5,600 or 2,800', 'black', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(322, 0, 'White Pawn', 'normal', 'Nook''s', '1,100', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(323, 0, 'White Bishop', 'normal', 'Nook''s', '2,800', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(324, 0, 'White King', 'normal', 'Spotlight', '8,000', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(325, 0, 'White Knight', 'normal', 'Crazy Redd', '5,600 or 2,800', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(326, 0, 'White Queen', 'normal', 'Spotlight', '8,000', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(327, 0, 'White Rook', 'normal', 'Crazy Redd', '5,600 or 2,800', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(328, 0, 'Right Platform', 'normal', 'Nook''s', '1,600', 'green', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(329, 0, 'Left Platform', 'normal', 'Nook''s', '1,600', 'green', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(330, 0, 'Podium', 'normal', 'Spotlight', '1,280', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(331, 0, 'Teacher''s Desk', 'normal', 'Nook''s', '1,580', 'brown', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(332, 0, 'Teacher''s Chair', 'normal', 'Nook''s', '1,440', 'gray', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(333, 0, 'School Desk', 'normal', 'Nook''s', '1,200', 'brown', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(334, 0, 'School Chair', 'normal', 'Nook''s', '800', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(335, 0, 'Cubby Hole', 'normal', 'Nook''s', '2,200', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(336, 0, 'Chalk Board', 'normal', 'Nook''s', '1,400', 'gray', 'black', 'Retro', 'Playful');
+insert into accf_furniture values(337, 0, 'Mop', 'normal', 'Nook''s', '900', 'gray', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(338, 0, 'Skeleton', 'normal', 'Spotlight', '3,360', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(339, 0, 'Anatomical Model', 'normal', 'Nook''s', '3,360', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(340, 0, 'Clear Model', 'normal', 'Crazy Redd', '6,720 or 3,360', 'red', 'blue', 'Trendy', 'Playful');
+insert into accf_furniture values(341, 0, 'Hamster Cage', 'normal', 'Spotlight', '2,290', 'brown', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(342, 0, 'Science Table', 'normal', 'Nook''s', '1,900', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(343, 0, 'Vaulting Horse', 'normal', 'Nook''s', '1,200', 'brown', 'beige', 'Retro', 'Playful');
+insert into accf_furniture values(344, 0, 'Ball Catcher', 'normal', 'Nook''s', '2,040', 'blue', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(345, 0, 'High-Jump Mat', 'normal', 'Nook''s', '2,980', 'green', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(346, 0, 'Hurdle', 'normal', 'Nook''s', '980', 'white', 'blue', 'Retro', 'Playful');
+insert into accf_furniture values(347, 0, 'Scoreboard', 'normal', 'Crazy Redd', '4,400 or 2,200', 'orange', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(348, 0, 'Folding Chair', 'normal', 'Nook''s', '600', 'blue', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(349, 0, 'Vision Tester', 'normal', 'Nook''s', '2,280', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(350, 0, 'Trunk Measure', 'normal', 'Nook''s', '1,680', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(351, 0, 'Stadiometer', 'normal', 'Nook''s', '1,680', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(352, 0, 'Scale', 'normal', 'Nook''s', '1,200', 'gray', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(353, 0, 'Hospital Bed', 'normal', 'Crazy Redd', '7,200 or 3,600', 'green', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(354, 0, 'Hospital Screen', 'normal', 'Nook''s', '2,400', 'aqua', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(355, 0, 'IV Drip', 'normal', 'Spotlight', '1,480', 'blue', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(356, 0, 'Sink', 'normal', 'Nook''s', '1,200', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(357, 0, 'Writing Desk', 'normal', 'Nook''s', '1,900', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(358, 0, 'Writing Chair', 'normal', 'Nook''s', '1,000', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(359, 0, 'Globe', 'normal', 'Nook''s', '1,200', 'aqua', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(360, 0, 'Office Desk', 'normal', 'Nook''s', '1,600', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(361, 0, 'Office Chair', 'normal', 'Nook''s', '1,100', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(362, 0, 'Office Locker', 'normal', 'Nook''s', '1,200', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(363, 0, 'Coffee Maker', 'normal', 'Nook''s', '800', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(364, 0, 'Checkout Counter', 'normal', 'Nook''s', '3,480', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(365, 0, 'Cash Register', 'normal', 'Nook''s', '6,480', 'yellow', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(366, 0, 'Jukebox', 'normal', 'Spotlight', '3,200', 'brown', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(367, 0, 'Siphon', 'normal', 'Nook''s', '1,780', 'white', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(368, 0, 'Giant Dharma', 'normal', 'Nook''s', '1,600', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(369, 0, 'Dharma', 'normal', 'Nook''s', '1,200', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(370, 0, 'Mini-Dharma', 'normal', 'Nook''s', '800', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(371, 0, 'Papa Bear', 'normal', 'Katie/Kaitlin', '550', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(372, 0, 'Mama Bear', 'normal', 'Nook''s', '1,600', 'beige', 'beige', 'Retro', 'Playful');
+insert into accf_furniture values(373, 0, 'Baby Bear', 'normal', 'Nook''s', '800', 'orange', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(374, 0, 'Papa Panda', 'normal', 'Nook''s', '1,920', 'pink', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(375, 0, 'Mama Panda', 'normal', 'Crazy Redd', '1,920 or 960', 'black', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(376, 0, 'Baby Panda', 'normal', 'Spotlight', '480', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(377, 0, 'Tall Cactus', 'normal', 'Nook''s', '1,700', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(378, 0, 'Cactus', 'normal', 'Nook''s', '1,700', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(379, 0, 'Round Cactus', 'normal', 'Nook''s', '1,700', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(380, 0, 'Blue Golf Bag', 'normal', 'Nook''s', '1,600', 'blue', 'aqua', 'Trendy', 'Dignified');
+insert into accf_furniture values(381, 0, 'White Golf Bag', 'normal', 'Nook''s', '1,600', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(382, 0, 'Green Golf Bag', 'normal', 'Nook''s', '1,600', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(383, 0, 'Red Armchair', 'normal', 'Nook''s', '1,800', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(384, 0, 'Red Sofa', 'normal', 'Nook''s', '2,050', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(385, 0, 'Bear Pole', 'normal', 'Nook''s', '1,400', 'brown', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(386, 0, 'Eagle Pole', 'normal', 'Nook''s', '1,400', 'brown', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(387, 0, 'Frog-Woman Pole', 'normal', 'Crazy Redd', '2,800 or 1,400', 'brown', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(388, 0, 'Raven Pole', 'normal', 'Nook''s', '1,400', 'brown', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(389, 0, 'Blue Lava Lamp', 'normal', 'Nook''s', '1,800', 'blue', 'blue', 'Trendy', 'Playful');
+insert into accf_furniture values(390, 0, 'Purple Lava Lamp', 'normal', 'Nook''s', '1,800', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(391, 0, 'Green Lava Lamp', 'normal', 'Nook''s', '1,800', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(392, 0, 'Tea Table', 'normal', 'Nook''s', '1,000', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(393, 0, 'Hearth', 'normal', 'Nook''s', '1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(394, 0, 'Screen', 'normal', 'Nook''s', '1,650', 'yellow', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(395, 0, 'Hibachi', 'normal', 'Nook''s', '1,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(396, 0, 'Tea Tansu', 'normal', 'Nook''s', '1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(397, 0, 'Paper Lantern', 'normal', 'Nook''s', '800', 'brown', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(398, 0, 'Paulownia Closet', 'normal', 'Nook''s', '1,300', 'beige', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(399, 0, 'Stair Dresser', 'normal', 'Nook''s', '2,250', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(400, 0, 'Low Screen', 'normal', 'Nook''s', '1,480', 'brown', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(401, 0, 'Paper Tiger', 'normal', 'Crazy Redd', '1,360 or 680', 'yellow', 'black', 'Retro', 'Playful');
+insert into accf_furniture values(402, 0, 'Lucky Frog', 'normal', 'Nook''s', '1,350', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(403, 0, 'Sword', 'normal', 'Nook''s', '1,400', 'yellow', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(404, 0, 'Bow', 'normal', 'Nook''s', '1,400', 'yellow', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(405, 0, 'Samurai Suit', 'normal', 'Spotlight', '4,500', 'yellow', 'black', 'Retro', 'Playful');
+insert into accf_furniture values(406, 0, 'Black Katana', 'normal', 'Crazy Redd', '24,000 or 12,000', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(407, 0, 'White Katana', 'normal', 'Crazy Redd', '73,600 or 36,800', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(408, 0, 'Ninja Sword', 'normal', 'Spotlight', '9,600', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(409, 0, 'Deer Scare', 'normal', 'Crazy Redd', '3,600 or 1,800', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(410, 0, 'Tall Lantern', 'normal', 'Nook''s', '1,980', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(411, 0, 'Spa Chair', 'normal', 'Nook''s', '600', 'aqua', 'aqua', 'Retro', 'Dignified');
+insert into accf_furniture values(412, 0, 'Bath Mat', 'normal', 'Nook''s', '600', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(413, 0, 'Bucket', 'normal', 'Nook''s', '600', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(414, 0, 'Bathtub', 'normal', 'Nook''s', '2,400', 'aqua', 'aqua', 'Retro', 'Dignified');
+insert into accf_furniture values(415, 0, 'Milk Case', 'normal', 'Nook''s (Japan)', '1,800', 'beige', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(416, 0, 'Ice-Cream Case', 'normal', 'Nook''s (Japan)', '1,800', 'beige', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(417, 0, 'Washbasin', 'normal', 'Spotlight', '2,880', 'aqua', 'aqua', 'Retro', 'Dignified');
+insert into accf_furniture values(418, 0, 'Tea Vase', 'normal', 'Nook''s', '2,400', 'beige', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(419, 0, 'Red Vase', 'normal', 'Nook''s', '2,450', 'red', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(420, 0, 'Blue Vase', 'normal', 'Nook''s', '2,500', 'aqua', 'aqua', 'Retro', 'Dignified');
+insert into accf_furniture values(421, 0, 'Lucky Cat', 'normal', 'Nook''s', '1,700', 'yellow', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(422, 0, 'Lefty Lucky Cat', 'normal', 'Crazy Redd', '3,400 or 1,700', 'yellow', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(423, 0, 'Lucky Black Cat', 'normal', 'Crazy Redd', '3,400 or 1,700', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(424, 0, 'Lucky Gold Cat', 'normal', 'Spotlight', '6,200', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(425, 0, 'Grapefruit Table', 'normal', 'Nook''s', '1,500', 'orange', 'blue', 'Trendy', 'Playful');
+insert into accf_furniture values(426, 0, 'Lemon Table', 'normal', 'Nook''s', '1,500', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(427, 0, 'Orange Chair', 'normal', 'Nook''s', '1,300', 'orange', 'orange', 'Trendy', 'Playful');
+insert into accf_furniture values(428, 0, 'Lime Chair', 'normal', 'Nook''s', '1,300', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(429, 0, 'Pear Wardrobe', 'normal', 'Nook''s', '1,400', 'green', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(430, 0, 'Pear Dresser', 'normal', 'Nook''s', '1,600', 'green', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(431, 0, 'Watermelon Chair', 'normal', 'Nook''s', '1,300', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(432, 0, 'Melon Chair', 'normal', 'Nook''s', '1,300', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(433, 0, 'Watermelon Table', 'normal', 'Nook''s', '1,800', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(434, 0, 'Apple TV', 'normal', 'Katie/Kaitlin', '400', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(435, 0, 'Apple Clock', 'normal', 'Nook''s', '1,200', 'red', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(436, 0, 'Lily-Pad Table', 'normal', 'Katie/Kaitlin', '400', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(437, 0, 'Froggy Chair', 'normal', 'Nook''s', '1,200', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(438, 0, 'Pine Chair', 'normal', 'Nook''s', '1,800', 'beige', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(439, 0, 'Pine Table', 'normal', 'Nook''s', '2,280', 'beige', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(440, 0, 'Tulip Chair', 'normal', 'Nook''s', '1,400', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(441, 0, 'Tulip Table', 'normal', 'Nook''s', '1,900', 'red', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(442, 0, 'Iris Chair', 'normal', 'Nook''s', '1,400', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(443, 0, 'Iris Table', 'normal', 'Nook''s', '1,900', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(444, 0, 'Daffodil Chair', 'normal', 'Nook''s', '1,400', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(445, 0, 'Daffodil Table', 'normal', 'Nook''s', '1,900', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(446, 0, 'Ponderosa Bonsai', 'normal', 'Nook''s', '1,800', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(447, 0, 'Pine Bonsai', 'normal', 'Nook''s', '1,800', 'green', 'blue', 'Retro', 'Dignified');
+insert into accf_furniture values(448, 0, 'Mugho Bonsai', 'normal', 'Nook''s', '1,800', 'green', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(449, 0, 'Plum Bonsai', 'normal', 'Spotlight', '1,900', 'pink', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(450, 0, 'Holly Bonsai', 'normal', 'Nook''s', '1,600', 'green', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(451, 0, 'Azalea Bonsai', 'normal', 'Nook''s', '1,500', 'green', 'blue', 'Retro', 'Dignified');
+insert into accf_furniture values(452, 0, 'Maple Bonsai', 'normal', 'Nook''s', '1,700', 'red', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(453, 0, 'Hawthorn Bonsai', 'normal', 'Nook''s', '1,800', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(454, 0, 'Quince Bonsai', 'normal', 'Nook''s', '1,600', 'red', 'blue', 'Retro', 'Dignified');
+insert into accf_furniture values(455, 0, 'Jasmine Bonsai', 'normal', 'Nook''s', '1,700', 'yellow', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(456, 0, 'Pothos', 'normal', 'Crazy Redd', '2,600 or 1,300', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(457, 0, 'Coconut Palm', 'normal', 'Nook''s', '1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(458, 0, 'Pachira', 'normal', 'Nook''s', '1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(459, 0, 'Caladium', 'normal', 'Nook''s', '1,300', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(460, 0, 'Croton', 'normal', 'Nook''s', '1,300', 'brown', 'white', 'neither', 'Dignified');
+insert into accf_furniture values(461, 0, 'Dracaena', 'normal', 'Spotlight', '2,000', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(462, 0, 'Lady Palm', 'normal', 'Nook''s', '1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(463, 0, 'Aloe', 'normal', 'Nook''s', '1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(464, 0, 'Rubber Tree', 'normal', 'Nook''s', '1,300', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(465, 0, 'Snake Plant', 'normal', 'Crazy Redd', '2,400 or 1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(466, 0, 'Fan Palm', 'normal', 'Nook''s', '1,300', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(467, 0, 'Corn Plant', 'normal', 'Nook''s', '1,300', 'green', 'white', 'neither', 'Dignified');
+insert into accf_furniture values(468, 0, 'Bromeliaceae', 'normal', 'Nook''s', '1,300', 'green', 'white', 'neither', 'Dignified');
+insert into accf_furniture values(469, 0, 'Weeping Fig', 'normal', 'Nook''s', '1,200', 'green', 'brown', 'neither', 'Dignified');
+insert into accf_furniture values(470, 0, 'Conga Drum', 'normal', 'Nook''s', '1,600', 'brown', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(471, 0, 'Djimbe Drum', 'normal', 'Nook''s', '1,900', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(472, 0, 'Timpano Drum', 'normal', 'Crazy Redd', '4,200 or 2,100', 'gray', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(473, 0, 'Violin', 'normal', 'Nook''s', '2,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(474, 0, 'Cello', 'normal', 'Nook''s', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(475, 0, 'Bass', 'normal', 'Nook''s', '2,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(476, 0, 'Folk Guitar', 'normal', 'Nook''s', '1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(477, 0, 'Country Guitar', 'normal', 'Nook''s', '1,700', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(478, 0, 'Rock Guitar', 'normal', 'Nook''s', '1,800', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(479, 0, 'Metal Guitar', 'normal', 'Nook''s', '1,900', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(480, 0, 'Ukulele', 'normal', 'Nook''s', '1,600', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(481, 0, 'Ebony Piano', 'normal', 'Nook''s', '3,800', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(482, 0, 'Ivory Piano', 'normal', 'Spotlight', '3,500', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(483, 0, 'Upright Piano', 'normal', 'Nook''s', '3,200', 'red', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(484, 0, 'Japanese Drum', 'normal', 'Nook''s', '1,300', 'brown', 'beige', 'Retro', 'Dignified');
+insert into accf_furniture values(485, 0, 'Vibraphone', 'normal', 'Nook''s', '1,900', 'brown', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(486, 0, 'Biwa Lute', 'normal', 'Nook''s', '1,800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(487, 0, 'Harp', 'normal', 'Nook''s', '1,700', 'brown', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(488, 0, 'Metronome', 'normal', 'Nook''s', '1,000', 'red', 'red', 'Retro', 'Playful');
+insert into accf_furniture values(489, 0, 'Trash Can', 'normal', 'Nook''s', '1,400', 'aqua', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(490, 0, 'Garbage Pail', 'normal', 'Nook''s', '1,100', 'blue', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(491, 0, 'Garbage Can', 'normal', 'Nook''s', '500', 'gray', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(492, 0, 'Trash Bin', 'normal', 'Nook''s', '400', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(493, 0, 'Pantheon Post', 'normal', 'Crazy Redd', '7,200 or 3,600', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(494, 0, 'Ionian Post', 'normal', 'Nook''s', '3,600', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(495, 0, 'Corinthian Post', 'normal', 'Nook''s', '3,600', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(496, 0, 'Broken Post', 'normal', 'Nook''s', '1,800', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(497, 0, 'Pyramid', 'normal', 'Nook''s', '3,800', 'yellow', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(498, 0, 'Sphinx', 'normal', 'Nook''s', '3,200', 'yellow', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(499, 0, 'Mummy''s Casket', 'normal', 'Spotlight', '4,400', 'yellow', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(500, 0, 'Spaceman', 'normal', 'Crazy Redd', '2,880 or 1,440', 'gray', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(501, 0, 'Jomon Pottery', 'normal', 'Nook''s', '800', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(502, 0, 'Tennis Table', 'normal', 'Nook''s', '1,800', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(503, 0, 'Bowling Pins', 'normal', 'Nook''s', '1,200', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(504, 0, 'Ball Return', 'normal', 'Nook''s', '6,200', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(505, 0, 'Basketball Hoop', 'normal', 'Crazy Redd', '4,240 or 2,120', 'white', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(506, 0, 'Billiard Table', 'normal', 'Nook''s', '1,800', 'green', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(507, 0, 'Mahjong Table', 'normal', 'Nook''s', '4,200', 'green', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(508, 0, 'Dart Board', 'normal', 'Nook''s', '1,520', 'black', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(509, 0, 'Pinball Machine', 'normal', 'Nook''s', '1,960', 'brown', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(510, 0, 'Arcade Machine', 'normal', 'Nook''s', '4,400', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(511, 0, 'Tabletop Game', 'normal', 'Crazy Redd', '4,960 or 2,480', 'black', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(512, 0, 'Stool', 'normal', 'Nook''s', '1,360', 'red', 'red', 'Retro', 'Playful');
+insert into accf_furniture values(513, 0, 'Shogi Board', 'normal', 'Nook''s', '1,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(514, 0, 'Go Board', 'normal', 'Nook''s', '1,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(515, 0, 'Moai Statue', 'unorderable', 'Gulliver', '1,900', 'gray', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(516, 0, 'Tribal Mask', 'unorderable', 'Gulliver', '1,100', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(517, 0, 'Arc de Triomphe', 'unorderable', 'Gulliver', '2,300', 'gray', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(518, 0, 'Merlion', 'unorderable', 'Gulliver', '2,300', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(519, 0, 'Pagoda', 'unorderable', 'Gulliver', '1,280', 'red', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(520, 0, 'Plate Armor', 'unorderable', 'Gulliver', '1,850', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(521, 0, 'Mermaid Statue', 'unorderable', 'Gulliver', '1,900', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(522, 0, 'Mouth of Truth', 'unorderable', 'Gulliver', '1,900', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(523, 0, 'Manneken Pis', 'unorderable', 'Gulliver', '1,300', 'gray', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(524, 0, 'Tower of Pisa', 'unorderable', 'Gulliver', '2,300', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(525, 0, 'Compass', 'unorderable', 'Gulliver', '320', 'gray', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(526, 0, 'Matryoshka', 'unorderable', 'Gulliver', '980', 'colorful', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(527, 0, 'Chocolates', 'unorderable', 'Gulliver', '680', 'brown', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(528, 0, 'Backpack', 'normal', 'Nook''s', '1,980', 'blue', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(529, 0, 'Mountain Bike', 'normal', 'Nook''s', '3,380', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(530, 0, 'Propane Stove', 'normal', 'Nook''s', '1,470', 'gray', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(531, 0, 'Cooler', 'normal', 'Nook''s', '1,300', 'blue', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(532, 0, 'Kayak', 'normal', 'Nook''s', '3,460', 'yellow', 'yellow', 'Trendy', 'Dignified');
+insert into accf_furniture values(533, 0, 'Lantern', 'normal', 'Nook''s', '1,180', 'red', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(534, 0, 'Sleeping Bag', 'normal', 'Spotlight', '1,960', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(535, 0, 'Campfire', 'normal', 'Nook''s', '1,360', 'red', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(536, 0, 'Bonfire', 'normal', 'Nook''s', '2,240', 'red', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(537, 0, 'TV with a VCR', 'normal', 'Nook''s', '2,000', 'gray', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(538, 0, 'Wide-Screen TV', 'normal', 'Crazy Redd', '4,400 or 2,200', 'black', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(539, 0, 'Retro TV', 'normal', 'Nook''s', '1,600', 'brown', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(540, 0, 'Kitchen Sink', 'normal', 'Nook''s', '2,400', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(541, 0, 'Kitchen Corner', 'normal', 'Nook''s', '1,800', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(542, 0, 'Deluxe Range', 'normal', 'Nook''s', '3,200', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(543, 0, 'Range', 'normal', 'Nook''s', '1,800', 'brown', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(544, 0, 'Stove', 'normal', 'Nook''s', '1,980', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(545, 0, 'Sink', 'normal', 'Nook''s', '1,960', 'brown', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(546, 0, 'Tea Set', 'normal', 'Nook''s', '300', 'yellow', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(547, 0, 'Shave-Ice Maker', 'normal', 'Nook''s', '1,200', 'aqua', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(548, 0, 'Refrigerator', 'normal', 'Nook''s', '1,200', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(549, 0, 'Retro Fridge', 'normal', 'Nook''s', '2,300', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(550, 0, 'Microwave', 'normal', 'Nook''s', '2,300', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(551, 0, 'Toaster', 'normal', 'Nook''s', '720', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(552, 0, 'Mixer', 'normal', 'Nook''s', '1,000', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(553, 0, 'Clothesline Pole', 'normal', 'Nook''s', '960', 'green', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(554, 0, 'Doghouse', 'normal', 'Nook''s', '1,200', 'red', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(555, 0, 'Beach Chair', 'normal', 'Nook''s', '1,850', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(556, 0, 'Wave Breaker', 'normal', 'Nook''s', '1,760', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(557, 0, 'Surfboard', 'normal', 'Nook''s', '1,400', 'aqua', 'blue', 'Trendy', 'Dignified');
+insert into accf_furniture values(558, 0, 'Diver Dan', 'normal', 'Nook''s', '3,200', 'yellow', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(559, 0, 'Beach Table', 'normal', 'Nook''s', '1,600', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(560, 0, 'Treasure Chest', 'normal', 'Spotlight', '8,600', 'yellow', 'green', 'Retro', 'Playful');
+insert into accf_furniture values(561, 0, 'Life Ring', 'normal', 'Nook''s', '1,250', 'red', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(562, 0, 'Snowboard', 'normal', 'Nook''s', '1,400', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(563, 0, 'Sleigh', 'normal', 'Nook''s', '1,200', 'red', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(564, 0, 'Snowman', 'unorderable', 'Snowman', '3,000', 'white', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(565, 0, 'Sunflower', 'normal', 'Nook''s', '980', 'yellow', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(566, 0, 'Daffodil', 'normal', 'Nook''s', '680', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(567, 0, 'Gerbera', 'normal', 'Nook''s', '780', 'orange', 'blue', 'Retro', 'Dignified');
+insert into accf_furniture values(568, 0, 'Toilet', 'normal', 'Nook''s', '1,800', 'aqua', 'aqua', 'Trendy', 'Dignified');
+insert into accf_furniture values(569, 0, 'Super Toilet', 'normal', 'Crazy Redd', '3,960 or 1,980', 'pink', 'pink', 'Trendy', 'Dignified');
+insert into accf_furniture values(570, 0, 'Men''s Toilet', 'normal', 'Nook''s', '1,600', 'aqua', 'aqua', 'Trendy', 'Playful');
+insert into accf_furniture values(571, 0, 'Pink Box', 'normal', 'Nook''s', '980', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(572, 0, 'Blue Box', 'normal', 'Nook''s', '980', 'aqua', 'aqua', 'Trendy', 'Playful');
+insert into accf_furniture values(573, 0, 'Beige Box', 'normal', 'Nook''s', '980', 'beige', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(574, 0, 'Safe', 'normal', 'Crazy Redd', '1,516 or 758', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(575, 0, 'Deluxe Washer', 'normal', 'Spotlight', '5,200', 'orange', 'orange', 'Trendy', 'Dignified');
+insert into accf_furniture values(576, 0, 'Automatic Washer', 'normal', 'Nook''s', '4,800', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(577, 0, 'Washer/Dryer', 'normal', 'Nook''s', '1,800', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(578, 0, 'Potbelly Stove', 'normal', 'Nook''s', '2,000', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(579, 0, 'Space Heater', 'normal', 'Nook''s', '1,700', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(580, 0, 'Fireplace', 'normal', 'Nook''s', '2,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(581, 0, 'Radiator', 'normal', 'Nook''s', '2,380', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(582, 0, 'Phonograph', 'normal', 'Nook''s', '1,840', 'yellow', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(583, 0, 'Turntable', 'normal', 'Crazy Redd', '5,160 or 2,580', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(584, 0, 'Reel-to-Reel', 'normal', 'Nook''s', '2,000', 'black', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(585, 0, 'Retro Stereo', 'normal', 'Nook''s', '5,500', 'black', 'black', 'Retro', 'Dignified');
+insert into accf_furniture values(586, 0, 'Gold Stereo', 'normal', 'Nook''s', '2,640', 'yellow', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(587, 0, 'Hi-Fi Stereo', 'normal', 'Spotlight', '5,400', 'black', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(588, 0, 'High-End Stereo', 'normal', 'Crazy Redd', '5,500 or 2,750', 'brown', 'black', 'Trendy', 'Dignified');
+insert into accf_furniture values(589, 0, 'Dice Stereo', 'normal', 'Crazy Redd', '4,300 or 2,150', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(590, 0, 'Tape Deck', 'normal', 'Nook''s', '700', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(591, 0, 'CD Player', 'normal', 'Nook''s', '1,600', 'aqua', 'aqua', 'Trendy', 'Playful');
+insert into accf_furniture values(592, 0, 'White Boom Box', 'normal', 'Nook''s', '1,500', 'white', 'white', 'neither', 'Playful');
+insert into accf_furniture values(593, 0, 'Red Boom Box', 'normal', 'Nook''s', '1,500', 'red', 'red', 'neither', 'Playful');
+insert into accf_furniture values(594, 0, 'Red Clock', 'normal', 'Nook''s', '1,300', 'red', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(595, 0, 'Kitschy Clock', 'normal', 'Nook''s', '1,800', 'gray', 'colorful', 'Trendy', 'Dignified');
+insert into accf_furniture values(596, 0, 'Antique Clock', 'normal', 'Nook''s', '2,350', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(597, 0, 'Cube Clock', 'normal', 'Nook''s', '1,100', 'yellow', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(598, 0, 'Odd Clock', 'normal', 'Nook''s', '1,800', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(599, 0, 'Glow Clock', 'normal', 'Nook''s', '1,500', 'yellow', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(600, 0, 'Owl Clock', 'normal', 'Nook''s', '1,300', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(601, 0, 'Alarm Clock', 'normal', 'Nook''s', '1,000', 'beige', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(602, 0, 'Jade Econo-Chair', 'normal', 'Nook''s', '800', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(603, 0, 'Ruby Econo-Chair', 'normal', 'Nook''s', '800', 'orange', 'orange', 'Trendy', 'Dignified');
+insert into accf_furniture values(604, 0, 'Gold Econo-Chair', 'normal', 'Nook''s', '800', 'yellow', 'yellow', 'Trendy', 'Dignified');
+insert into accf_furniture values(605, 0, 'Rocking Chair', 'normal', 'Nook''s', '1,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(606, 0, 'Lefty Desk', 'normal', 'Nook''s', '1,240', 'blue', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(607, 0, 'Righty Desk', 'normal', 'Nook''s', '1,240', 'blue', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(608, 0, 'Gas Pump', 'normal', 'Nook''s', '1,280', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(609, 0, 'Extinguisher', 'normal', 'Nook''s', '1,300', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(610, 0, 'Fire Hydrant', 'normal', 'Nook''s', '960', 'red', 'red', 'Trendy', 'Dignified');
+insert into accf_furniture values(611, 0, 'Raccoon Figurine', 'normal', 'Crazy Redd', '4,000 or 2,000', 'brown', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(612, 0, 'Barber''s Pole', 'normal', 'Nook''s', '1,600', 'colorful', 'colorful', 'Retro', 'Dignified');
+insert into accf_furniture values(613, 0, 'Candy Machine', 'normal', 'Nook''s', '980', 'red', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(614, 0, 'Scarecrow', 'normal', 'Nook''s', '420', 'white', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(615, 0, 'Birdcage', 'normal', 'Nook''s', '1,700', 'brown', 'brown', 'Retro', 'Dignified- bird chirps');
+insert into accf_furniture values(616, 0, 'Phone Box', 'normal', 'Nook''s', '2,400', 'red', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(617, 0, 'Outdoor Bath', 'normal', 'Nook''s', '4,900', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(618, 0, 'Wheat Field', 'normal', 'Nook''s', '380', 'yellow', 'yellow', 'Retro', 'Dignified');
+insert into accf_furniture values(619, 0, 'Computer', 'normal', 'Nook''s', '1,720', 'white', 'brown', 'Trendy', 'Dignified');
+insert into accf_furniture values(620, 0, 'Pineapple Bed', 'normal', 'Nook''s', '1,990', 'yellow', 'yellow', 'Trendy', 'Playful');
+insert into accf_furniture values(621, 0, 'Glass-Top Table', 'normal', 'Nook''s', '2,200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(622, 0, 'Blue Kotatsu', 'normal', 'Nook''s', '1,600', 'blue', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(623, 0, 'Pink Kotatsu', 'normal', 'Nook''s', '1,600', 'pink', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(624, 0, 'Cream Sofa', 'normal', 'Nook''s', '2,000', 'white', 'white', 'Trendy', 'Dignified- chair');
+insert into accf_furniture values(625, 0, 'Storage Case', 'normal', 'Nook''s', '980', 'black', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(626, 0, 'Clothes Closet', 'normal', 'Nook''s', '1,340', 'beige', 'beige', 'Trendy', 'Playful');
+insert into accf_furniture values(627, 0, 'Claw-foot Tub', 'normal', 'Nook''s', '1,280', 'white', 'white', 'Retro', 'Dignified');
+insert into accf_furniture values(628, 0, 'Shower', 'normal', 'Nook''s', '880', 'gray', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(629, 0, 'Massage Chair', 'normal', 'Nook''s', '2,400', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(630, 0, 'Vacuum Cleaner', 'normal', 'Nook''s', '1,200', 'red', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(631, 0, 'Bottled Ship', 'normal', 'Nook''s', '3,360', 'gray', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(632, 0, 'Water Bird', 'normal', 'Nook''s', '1,400', 'colorful', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(633, 0, 'Executive Toy', 'normal', 'Nook''s', '1,100', 'red', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(634, 0, 'Telescope', 'normal', 'Nook''s', '5,800', 'black', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(635, 0, 'Miniature Car', 'transfer', 'DS Transfer', '10,000', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(636, 0, 'Mochi Pestle', 'normal', 'Nook''s', '1,400', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(637, 0, 'Sewing Machine', 'normal', 'Nook''s', '1,350', 'brown', 'gray', 'Retro', 'Dignified');
+insert into accf_furniture values(638, 0, 'Cardboard Box', 'normal', 'Nook''s', '100', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(639, 0, 'Wooden Box', 'normal', 'Nook''s', '200', 'brown', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(640, 0, 'Fan', 'normal', 'Nook''s', '1,200', 'green', 'green', 'Trendy', 'Dignified');
+insert into accf_furniture values(641, 0, 'Candle', 'normal', 'Nook''s', '1,280', 'yellow', 'white', 'neither', 'neither');
+insert into accf_furniture values(642, 0, 'Mini-Lamp', 'normal', 'Nook''s', '1,280', 'white', 'white', 'neither', 'neither');
+insert into accf_furniture values(643, 0, 'Desk Light', 'normal', 'Nook''s', '1,280', 'black', 'black', 'neither', 'neither');
+insert into accf_furniture values(644, 0, 'Table Lamp', 'normal', 'Nook''s', '640', 'aqua', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(645, 0, 'Throne', 'unorderable', 'Spotlight', '800,000', 'yellow', 'red', 'Retro', 'Dignified');
+insert into accf_furniture values(646, 0, 'Basic Red Bed', 'normal', 'Nook''s', '200', 'red', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(647, 0, 'Basic Blue Bed', 'normal', 'Nook''s', '200', 'blue', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(648, 0, 'Basic Yellow Bed', 'normal', 'Nook''s', '200', 'yellow', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(649, 0, 'Basic Green Bed', 'normal', 'Nook''s', '200', 'green', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(650, 0, 'Brick Block', 'unorderable', 'Balloon', '256', 'brown', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(651, 0, 'Coin', 'unorderable', 'Balloon', '256', 'yellow', 'yellow', 'Retro', 'Playful');
+insert into accf_furniture values(652, 0, 'Flagpole', 'unorderable', 'Balloon', '256', 'white', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(653, 0, 'Fire Flower', 'unorderable', 'Balloon', '256', 'white', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(654, 0, 'Super Mushroom', 'unorderable', 'Balloon', '256', 'red', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(655, 0, 'Koopa Shell', 'unorderable', 'Balloon', '256', 'green', 'green', 'Retro', 'Playful');
+insert into accf_furniture values(656, 0, 'Starman', 'unorderable', 'Balloon', '256', 'yellow', 'yellow', 'Retro', 'Playful');
+insert into accf_furniture values(657, 0, '1-Up Mushroom', 'unorderable', 'Balloon', '256', 'green', 'orange', 'Retro', 'Playful');
+insert into accf_furniture values(658, 0, '? Block', 'unorderable', 'Balloon', '256', 'orange', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(659, 0, 'Green Pipe', 'unorderable', 'Balloon', '256', 'green', 'green', 'Retro', 'Playful');
+insert into accf_furniture values(660, 0, 'Fire Bar', 'unorderable', 'Balloon', '256', 'red', 'brown', 'Retro', 'Playful');
+insert into accf_furniture values(661, 0, 'Cannon', 'unorderable', 'Balloon', '256', 'black', 'black', 'Retro', 'Playful');
+insert into accf_furniture values(662, 0, 'Yoshi''s Egg', 'unorderable', 'Nook Points', '256', 'green', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(663, 0, 'Banana', 'unorderable', 'Nook Points', '256', 'yellow', 'yellow', 'Trendy', 'Playful');
+insert into accf_furniture values(664, 0, 'Triple Shells', 'unorderable', 'Nook Points', '256', 'red', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(665, 0, 'Kart', 'unorderable', 'Nook Points', '256', 'red', 'black', 'Trendy', 'Playful');
+insert into accf_furniture values(666, 0, 'Master Sword', 'normal', 'Spotlight', '2,800', 'blue', 'gray', 'Retro', 'Playful');
+insert into accf_furniture values(667, 0, 'Arwing', 'normal', 'Spotlight', '7,200', 'blue', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(668, 0, 'Triforce', 'normal', 'Crazy Redd', '20,000 or 10,000', 'yellow', 'yellow', 'Retro', 'Playful');
+insert into accf_furniture values(669, 0, 'Metroid', 'unorderable', 'Gulliver', '3,000', 'blue', 'gray', 'Trendy', 'Playful');
+insert into accf_furniture values(670, 0, 'Birthday Cake', 'unorderable', 'Birthday', '0', 'white', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(671, 0, 'Jack-in-the-Box', 'unorderable', 'Jack', '1,031', 'green', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(672, 0, 'Kadomatsu', 'normal', 'Limited (Japan)', '2,580', 'green', 'green', 'Retro', 'Dignified');
+insert into accf_furniture values(673, 0, 'Kagamimochi', 'normal', 'Limited (Japan)', '1,800', 'white', 'brown', 'Retro', 'Dignified');
+insert into accf_furniture values(674, 0, 'Hinaningyo', 'normal', 'Limited (Japan)', '2,560', 'red', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(675, 0, 'Big Festive Tree', 'normal', 'Limited', '2,480', 'green', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(676, 0, 'Festive Tree', 'normal', 'Limited', '1,300', 'green', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(677, 0, 'Festive Flag', 'normal', 'Limited (North America)', '680', 'colorful', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(678, 0, 'Festive Candle', 'normal', 'Limited (North America)', '1,600', 'colorful', 'colorful', 'Retro', 'Playful');
+insert into accf_furniture values(679, 0, 'Lovely Phone', 'unorderable', 'Katie/Kaitlin', '2,600', 'pink', 'pink', 'Trendy', 'Playful');
+insert into accf_furniture values(680, 0, 'Music Box', 'unorderable', 'Katie/Kaitlin', '1,050', 'red', 'white', 'Retro', 'Playful');
+insert into accf_furniture values(681, 0, 'Portrait', 'unorderable', 'Katie/Kaitlin', '50', 'yellow', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(682, 0, 'Box of Tissues', 'unorderable', 'Savings', '320', 'white', 'white', 'Trendy', 'Dignified');
+insert into accf_furniture values(683, 0, 'Piggy Bank', 'unorderable', 'Savings', '1,120', 'pink', 'pink', 'Retro', 'Playful');
+insert into accf_furniture values(684, 0, 'ABD', 'unorderable', 'Savings', '0', 'gray', 'gray', 'Trendy', 'Dignified');
+insert into accf_furniture values(685, 0, 'Leaf', 'unorderable', 'Tortimer', '0', 'green', 'green', 'Trendy', 'Playful');
+insert into accf_furniture values(686, 0, 'Gold Trophy', 'unorderable', 'Chip', '2,450', 'yellow', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(687, 0, 'Silver Trophy', 'unorderable', 'Chip', '1,800', 'gray', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(688, 0, 'Bug Trophy', 'unorderable', 'Nat', '2,450', 'yellow', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(689, 0, 'Rice Cake', 'unorderable', 'Tortimer (Japan)', '300', 'black', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(690, 0, 'Dango', 'unorderable', 'Tortimer (Japan)', '888', 'white', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(691, 0, 'Bamboo Grass', 'unorderable', 'Tortimer (Japan)', '770', 'green', 'colorful', 'Trendy', 'Playful');
+insert into accf_furniture values(692, 0, 'Resetti Model', 'unorderable', 'Tortimer (North America)', '600', 'colorful', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(693, 0, 'Cool Globe', 'unorderable', 'Tortimer (North America)', '1,200', 'brown', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(694, 0, 'Picnic Basket', 'unorderable', 'Tortimer (North America)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(695, 0, 'Sailboat Model', 'unorderable', 'Tortimer (North America)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(696, 0, 'Wheat Bundle', 'unorderable', 'Tortimer (North America)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(697, 0, 'Espresso Maker', 'unorderable', 'Tortimer (Europe)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(698, 0, 'Stuffed Stocking', 'unorderable', 'Tortimer (Europe)', '?', 'aqua', '?', 'Trendy', 'Playful');
+insert into accf_furniture values(699, 0, 'Snow Globe', 'unorderable', 'Tortimer (Europe)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(700, 0, 'Veggie Basket', 'unorderable', 'Tortimer (Europe)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(701, 0, 'Yut', 'unorderable', 'Tortimer (Korea)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(702, 0, 'Hibiscus', 'unorderable', 'Tortimer (Korea)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(703, 0, 'Bureom', 'unorderable', 'Tortimer (Korea)', '?', '?', '?', '?', '?');
+insert into accf_furniture values(704, 0, 'House Model', 'unorderable', 'HRA', '450', 'green', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(705, 0, 'Wide House Model', 'unorderable', 'HRA', '450', 'green', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(706, 0, 'Two-Story Model', 'unorderable', 'HRA', '450', 'green', 'red', 'Trendy', 'Playful');
+insert into accf_furniture values(707, 0, 'Town Hall Model', 'unorderable', 'Town Hall', '450', 'brown', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(708, 0, 'Nook''s Cranny', 'unorderable', 'Nook Points', '450', 'green', 'brown', 'Trendy', 'Playful');
+insert into accf_furniture values(709, 0, 'Nook ''n'' Go', 'unorderable', 'Nook Points', '450', 'blue', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(710, 0, 'Nookway', 'unorderable', 'Nook Points', '450', 'green', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(711, 0, 'Nookington''s', 'unorderable', 'Nook Points', '450', 'white', 'white', 'Trendy', 'Playful');
+insert into accf_furniture values(712, 0, 'Museum Model', 'unorderable', 'Blathers', '450', 'green', 'white', 'Trendy', 'Playful');

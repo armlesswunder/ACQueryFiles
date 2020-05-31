@@ -30,3 +30,19 @@ Forest Umbrella - shop - 160/40
 Flame Umbrella - shop - 160/40
 Camo Umbrella - shop - 160/40
 Spider Umbrella - shop - 160/40
+Shovel - Nook's - 500/125
+Golden Shovel - Buried - none/125 - can create bell trees
+Slingshot - Nook's - 500/125
+Golden Slingshot - Balloon - none/125 - shoots three stones
+Fishing Rod - Tortimer/Nook's - none or 500/125
+Golden Rod - Tortimer - none/125 - can catch fish easier
+Net - Tortimer/Nook's - none or 500/125
+Golden Net - Tortimer - none/125 - can catch insects easier
+Watering Can - Nook's - 500/125
+Golden Can - Pelly/Phyllis - none/125 - can create Gold Roses
+Axe (brand new) - Nook's - 400/100 - can break
+Golden Axe - Pascal - none/125 - will not break
+Timer - Nook's - 500/125
+Party Popper - Tortimer - none/30 - can use
+Sparkler - Tortimer - none/30 - can use
+Roman Candle - Tortimer - none/30 - can use

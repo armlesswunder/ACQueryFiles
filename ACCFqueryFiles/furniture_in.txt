@@ -787,3 +787,6 @@ Nook 'n' Go* - Nook Points - sm - none/450 - blue/white - Trendy/Playful
 Nookway* - Nook Points - sm - none/450 - green/white - Trendy/Playful
 Nookington's* - Nook Points - sm - none/450 - white/white - Trendy/Playful
 Museum Model* - Blathers - med - none/450 - green/white - Trendy/Playful
+Nintendo Bench* - Secret Furniture - med - ?/? - ?/? - ?/? - chair
+Pikmin* - Secret Furniture - med - ?/? - ?/? - ?/?
+Blue Falcon* - Secret Furniture - lrg - ?/? - ?/? - ?/?

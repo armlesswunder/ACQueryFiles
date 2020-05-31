@@ -1,66 +1,66 @@
-﻿drop table if exists accf_fish
-create table accf_fish ("Index" int primary key, Selected int, Name varchar(50), Shadow varchar(50), "Location" varchar(50), Times varchar(200))
-insert into accf_fish values(1, 0, 'Bitterling', 'tiny', 'in river', 'November through February, all day (best time is 9am to 4pm)')
-insert into accf_fish values(2, 0, 'Pale Chub', 'small', 'in river', 'all year, 9am to 4pm (best time is March through June and August through November)')
-insert into accf_fish values(3, 0, 'Crucian Carp', 'small', 'in river', 'all year, all day (best time is 9am to 4pm)')
-insert into accf_fish values(4, 0, 'Dace', 'medium', 'in river', 'all year, 4pm to 9am (best time is November through March)')
-insert into accf_fish values(5, 0, 'Barbel Steed', 'medium', 'in river', 'all year, all day (best time is March and October through November)')
-insert into accf_fish values(6, 0, 'Carp', 'large', 'in river', 'all year, all day (best time is 4pm to 9am, April through July and October through November)')
-insert into accf_fish values(7, 0, 'Koi', 'large', 'in river', 'all year, 4pm to 9am')
-insert into accf_fish values(8, 0, 'Goldfish', 'tiny', 'in river', 'all year, all day')
-insert into accf_fish values(9, 0, 'Popeyed Goldfish', 'tiny', 'in river', 'all year, 9am to 4pm')
-insert into accf_fish values(10, 0, 'Killifish', 'tiny', 'in holding pond', 'April through August, all day')
-insert into accf_fish values(11, 0, 'Crawfish', 'small', 'in holding pond', 'April through mid-September, all day')
-insert into accf_fish values(12, 0, 'Frog', 'small', 'in holding pond', 'May through August, all day')
-insert into accf_fish values(13, 0, 'Freshwater Goby', 'medium', 'in river', 'all year, 4pm to 9am')
-insert into accf_fish values(14, 0, 'Loach', 'small', 'in river', 'March through May, all day (best time is 9am to 4pm, March and April)')
-insert into accf_fish values(15, 0, 'Catfish', 'large', 'in large pond', 'May through October, 4pm to 9am (best time is 9pm to 4am)')
-insert into accf_fish values(16, 0, 'Eel', 'thin', 'in river', 'June through mid-September, 4pm to 9am (best time is 9pm to 4am, June through August)')
-insert into accf_fish values(17, 0, 'Giant Snakehead', 'very large', 'in large pond', 'June through August, 9am to 4pm')
-insert into accf_fish values(18, 0, 'Bluegill', 'small', 'in river', 'all year, 9am to 4pm (best time is March through November)')
-insert into accf_fish values(19, 0, 'Yellow Perch', 'medium', 'in river', 'October through March, all day (best time is November through February)')
-insert into accf_fish values(20, 0, 'Black Bass', 'large', 'in river', 'all year, all day (best time is 9am to 4pm)')
-insert into accf_fish values(21, 0, 'Pike', 'very large', 'in river', 'September through December, 4am to 9pm')
-insert into accf_fish values(22, 0, 'Pond Smelt', 'small', 'in river', 'December through February, all day (best time is 4am to 9pm)')
-insert into accf_fish values(23, 0, 'Sweetfish', 'medium', 'in river', 'July through mid-September, all day (best time is 9am to 4pm)')
-insert into accf_fish values(24, 0, 'Cherry Salmon', 'medium', 'in river', 'March through June, 4am to 9am and 4pm to 9pm (best time is March and April) September through November, 4am to 9pm')
-insert into accf_fish values(25, 0, 'Char', 'medium', 'under waterfall', 'March through June, 4am to 9am and 4pm to 9pm')
-insert into accf_fish values(26, 0, 'Rainbow Trout', 'large', 'in river', 'March through June, 4am to 9am and 4pm to 9pm (best time is March through May) September through November, 4am to 9pm')
-insert into accf_fish values(27, 0, 'Stringfish', 'huge', 'in river', 'December through February, 4pm to 9am')
-insert into accf_fish values(28, 0, 'Salmon', 'large', 'in river', 'September, all day')
-insert into accf_fish values(29, 0, 'King Salmon', 'huge', 'in river', 'September, all day (best time is the first half of September)')
-insert into accf_fish values(30, 0, 'Guppy', 'tiny', 'in river', 'April through November, 9am to 4pm')
-insert into accf_fish values(31, 0, 'Angelfish', 'tiny', 'in river', 'May through October, 4pm to 9am')
-insert into accf_fish values(32, 0, 'Neon Tetra', 'tiny', 'in river', 'April through November, 9am to 4pm')
-insert into accf_fish values(33, 0, 'Piranha', 'small', 'in river', 'June through mid-September, 9am to 4pm and 9pm to 4am')
-insert into accf_fish values(34, 0, 'Arowana', 'large', 'in river', 'June through mid-September, 4pm to 9am')
-insert into accf_fish values(35, 0, 'Dorado', 'very large', 'in river', 'June through September, 4am to 9pm')
-insert into accf_fish values(36, 0, 'Gar', 'huge', 'in large pond', 'June through September, 4pm to 9am')
-insert into accf_fish values(37, 0, 'Arapaima', 'huge', 'in river', 'July through September, 4pm to 9am')
-insert into accf_fish values(38, 0, 'Sea Butterfly', 'tiny', 'in ocean', 'December through February, all day')
-insert into accf_fish values(39, 0, 'Jellyfish', 'small', 'in ocean', 'the second half of August, all day')
-insert into accf_fish values(40, 0, 'Sea Horse', 'tiny', 'in ocean', 'April through November, all day (best time is 4am to 9pm, May through October)')
-insert into accf_fish values(41, 0, 'Clownfish', 'tiny', 'in ocean', 'April through September, all day (best time is May through mid-August)')
-insert into accf_fish values(42, 0, 'Surgeonfish', 'small', 'in ocean', 'April through September, all day')
-insert into accf_fish values(43, 0, 'Butterflyfish', 'small', 'in ocean', 'April through September, all day (best time is May and June)')
-insert into accf_fish values(44, 0, 'Napoleonfish', 'huge', 'in ocean', 'July through August, 4am to 9pm')
-insert into accf_fish values(45, 0, 'Zebra Turkeyfish', 'medium', 'in ocean', 'April through November, all day (best time is May through October)')
-insert into accf_fish values(46, 0, 'Puffer Fish', 'medium', 'in ocean', 'July through September, all day (best time is August and September)')
-insert into accf_fish values(47, 0, 'Horse Mackerel', 'small', 'in ocean', 'all year, all day')
-insert into accf_fish values(48, 0, 'Barred Knifejaw', 'medium', 'in ocean', 'March through November, all day')
-insert into accf_fish values(49, 0, 'Sea Bass', 'very large', 'in ocean', 'all year, all day')
-insert into accf_fish values(50, 0, 'Red Snapper', 'medium', 'in ocean', 'all year, all day (best time is March through October)')
-insert into accf_fish values(51, 0, 'Dab', 'medium', 'in ocean', 'October through April, all day')
-insert into accf_fish values(52, 0, 'Olive Flounder', 'large', 'in ocean', 'all year, all day (best time is November through March)')
-insert into accf_fish values(53, 0, 'Squid', 'medium', 'in ocean', 'December through mid-August, all day')
-insert into accf_fish values(54, 0, 'Octopus', 'medium', 'in ocean', 'March through July and mid-September through January, all day')
-insert into accf_fish values(55, 0, 'Lobster', 'very large', 'in ocean', 'November through February, all day')
-insert into accf_fish values(56, 0, 'Moray Eel', 'very large', 'in ocean', 'August through October, all day')
-insert into accf_fish values(57, 0, 'Football Fish', 'large', 'in ocean', 'November through March, 4pm to 9am (best time is December through February)')
-insert into accf_fish values(58, 0, 'Tuna', 'huge', 'in ocean', 'November through March, all day')
-insert into accf_fish values(59, 0, 'Blue Marlin', 'huge', 'in ocean', 'July through September, all day')
-insert into accf_fish values(60, 0, 'Ray', 'huge', 'in ocean', 'August through November, 4am to 9pm')
-insert into accf_fish values(61, 0, 'Ocean Sunfish', 'huge with fin', 'in ocean', 'June through September, 4am to 9pm')
-insert into accf_fish values(62, 0, 'Hammerhead Shark', 'huge with fin', 'in ocean', 'June through September, 4pm to 9am')
-insert into accf_fish values(63, 0, 'Shark', 'huge with fin', 'in ocean', 'June through September, 4pm to 9am')
-insert into accf_fish values(64, 0, 'Coelacanth', 'huge', 'in ocean during rain or snow', 'all year, 4pm to 9am')
+﻿drop table if exists accf_fish;
+create table accf_fish ("Index" int, Selected int, Name varchar(63), Price varchar(31), "Size" varchar(31), Shadow varchar(31), "From" varchar(31), Times varchar(256));
+insert into accf_fish values(1, 0, 'Bitterling', '900', '4 in.', 'tiny', 'river', 'November through February, all day (best time is 9am to 4pm)');
+insert into accf_fish values(2, 0, 'Pale Chub', '200', '6 in.', 'small', 'river', 'all year, 9am to 4pm (best time is March through June and August through November)');
+insert into accf_fish values(3, 0, 'Crucian Carp', '120', '11.7 in.', 'small', 'river', 'all year, all day (best time is 9am to 4pm)');
+insert into accf_fish values(4, 0, 'Dace', '200', '14 in.', 'medium', 'river', 'all year, 4pm to 9am (best time is November through March)');
+insert into accf_fish values(5, 0, 'Barbel Steed', '200', '20 in.', 'medium', 'river', 'all year, all day (best time is March and October through November)');
+insert into accf_fish values(6, 0, 'Carp', '300', '32 in.', 'large', 'river', 'all year, all day (best time is 4pm to 9am, April through July and October through November)');
+insert into accf_fish values(7, 0, 'Koi', '4,000', '32 in.', 'large', 'river', 'all year, 4pm to 9am');
+insert into accf_fish values(8, 0, 'Goldfish', '1,300', '6 in.', 'tiny', 'river', 'all year, all day');
+insert into accf_fish values(9, 0, 'Popeyed Goldfish', '1,300', '6 in.', 'tiny', 'river', 'all year, 9am to 4pm');
+insert into accf_fish values(10, 0, 'Killifish', '300', '1.6 in.', 'tiny', 'holding pond', 'April through August, all day');
+insert into accf_fish values(11, 0, 'Crawfish', '200', '4.8 in.', 'small', 'holding pond', 'April through mid-September, all day');
+insert into accf_fish values(12, 0, 'Frog', '120', '4.8 in.', 'small', 'holding pond', 'May through August, all day');
+insert into accf_fish values(13, 0, 'Freshwater Goby', '300', '6 in.', 'medium', 'river', 'all year, 4pm to 9am');
+insert into accf_fish values(14, 0, 'Loach', '300', '8 in.', 'small', 'river', 'March through May, all day (best time is 9am to 4pm, March and April)');
+insert into accf_fish values(15, 0, 'Catfish', '800', '24 in.', 'large', 'large pond', 'May through October, 4pm to 9am (best time is 9pm to 4am)');
+insert into accf_fish values(16, 0, 'Eel', '2,000', '40 in.', 'thin', 'river', 'June through mid-September, 4pm to 9am (best time is 9pm to 4am, June through August)');
+insert into accf_fish values(17, 0, 'Giant Snakehead', '5,500', '34 in.', 'very large', 'large pond', 'June through August, 9am to 4pm');
+insert into accf_fish values(18, 0, 'Bluegill', '120', '10 in.', 'small', 'river', 'all year, 9am to 4pm (best time is March through November)');
+insert into accf_fish values(19, 0, 'Yellow Perch', '240', '14 in.', 'medium', 'river', 'October through March, all day (best time is November through February)');
+insert into accf_fish values(20, 0, 'Black Bass', '300', '20 in.', 'large', 'river', 'all year, all day (best time is 9am to 4pm)');
+insert into accf_fish values(21, 0, 'Pike', '1,800', '52 in.', 'very large', 'river', 'September through December, 4am to 9pm');
+insert into accf_fish values(22, 0, 'Pond Smelt', '300', '6 in.', 'small', 'river', 'December through February, all day (best time is 4am to 9pm)');
+insert into accf_fish values(23, 0, 'Sweetfish', '900', '10 in.', 'medium', 'river', 'July through mid-September, all day (best time is 9am to 4pm)');
+insert into accf_fish values(24, 0, 'Cherry Salmon', '1,000', '14 in.', 'medium', 'river', 'March through June, 4am to 9am and 4pm to 9pm (best time is March and April) September through November, 4am to 9pm');
+insert into accf_fish values(25, 0, 'Char', '3,800', '20 in.', 'medium', 'under waterfall', 'March through June, 4am to 9am and 4pm to 9pm; September through November, 4am to 9pm');
+insert into accf_fish values(26, 0, 'Rainbow Trout', '800', '32 in.', 'large', 'river', 'March through June, 4am to 9am and 4pm to 9pm (best time is March through May) September through November, 4am to 9pm');
+insert into accf_fish values(27, 0, 'Stringfish', '15,000', '60 in.', 'huge', 'river', 'December through February, 4pm to 9am');
+insert into accf_fish values(28, 0, 'Salmon', '700', '90cm', 'large', 'river', 'September, all day');
+insert into accf_fish values(29, 0, 'King Salmon', '1,800', '160cm', 'huge', 'river', 'September, all day (best time is the first half of September)');
+insert into accf_fish values(30, 0, 'Guppy', '1,300', '1.6 in.', 'tiny', 'river', 'April through November, 9am to 4pm');
+insert into accf_fish values(31, 0, 'Angelfish', '3,000', '4.8 in.', 'tiny', 'river', 'May through October, 4pm to 9am');
+insert into accf_fish values(32, 0, 'Neon Tetra', '500', '0.8 in.', 'tiny', 'river', 'April through November, 9am to 4pm');
+insert into accf_fish values(33, 0, 'Piranha', '2,500', '11.7 in.', 'small', 'river', 'June through mid-September, 9am to 4pm and 9pm to 4am');
+insert into accf_fish values(34, 0, 'Arowana', '10,000', '28 in.', 'large', 'river', 'June through mid-September, 4pm to 9am');
+insert into accf_fish values(35, 0, 'Dorado', '15,000', '40 in.', 'very large', 'river', 'June through September, 4am to 9pm');
+insert into accf_fish values(36, 0, 'Gar', '6,000', '76 in.', 'huge', 'large pond', 'June through September, 4pm to 9am');
+insert into accf_fish values(37, 0, 'Arapaima', '10,000', '120 in.', 'huge', 'river', 'July through September, 4pm to 9am');
+insert into accf_fish values(38, 0, 'Sea Butterfly', '1,000', '1.2 in.', 'tiny', 'ocean', 'December through February, all day');
+insert into accf_fish values(39, 0, 'Jellyfish', '100', '25cm', 'small', 'ocean', 'the second half of August, all day');
+insert into accf_fish values(40, 0, 'Sea Horse', '1,100', '3.2 in.', 'tiny', 'ocean', 'April through November, all day (best time is 4am to 9pm, May through October)');
+insert into accf_fish values(41, 0, 'Clownfish', '650', '6 in.', 'tiny', 'ocean', 'April through September, all day (best time is May through mid-August)');
+insert into accf_fish values(42, 0, 'Surgeonfish', '1,000', '12.4 in.', 'small', 'ocean', 'April through September, all day');
+insert into accf_fish values(43, 0, 'Butterflyfish', '1,000', '7.2 in.', 'small', 'ocean', 'April through September, all day (best time is May and June)');
+insert into accf_fish values(44, 0, 'Napoleonfish', '10,000', '80 in.', 'huge', 'ocean', 'July through August, 4am to 9pm');
+insert into accf_fish values(45, 0, 'Zebra Turkeyfish', '400', '11.7 in.', 'medium', 'ocean', 'April through November, all day (best time is May through October)');
+insert into accf_fish values(46, 0, 'Puffer Fish', '240', '14 in.', 'medium', 'ocean', 'July through September, all day (best time is August and September)');
+insert into accf_fish values(47, 0, 'Horse Mackerel', '150', '16 in.', 'small', 'ocean', 'all year, all day');
+insert into accf_fish values(48, 0, 'Barred Knifejaw', '5,000', '24 in.', 'medium', 'ocean', 'March through November, all day');
+insert into accf_fish values(49, 0, 'Sea Bass', '200', '40 in.', 'very large', 'ocean', 'all year, all day');
+insert into accf_fish values(50, 0, 'Red Snapper', '3,000', '36 in.', 'medium', 'ocean', 'all year, all day (best time is March through October)');
+insert into accf_fish values(51, 0, 'Dab', '300', '20 in.', 'medium', 'ocean', 'October through April, all day');
+insert into accf_fish values(52, 0, 'Olive Flounder', '800', '32 in.', 'large', 'ocean', 'all year, all day (best time is November through March)');
+insert into accf_fish values(53, 0, 'Squid', '400', '14 in.', 'medium', 'ocean', 'December through mid-August, all day');
+insert into accf_fish values(54, 0, 'Octopus', '500', '24 in.', 'medium', 'ocean', 'March through July and mid-September through January, all day');
+insert into accf_fish values(55, 0, 'Lobster', '2,500', '20 in.', 'very large', 'ocean', 'November through February, all day');
+insert into accf_fish values(56, 0, 'Moray Eel', '2,000', '80cm', 'very large', 'ocean', 'August through October, all day');
+insert into accf_fish values(57, 0, 'Football Fish', '2,500', '24 in.', 'large', 'ocean', 'November through March, 4pm to 9am (best time is December through February)');
+insert into accf_fish values(58, 0, 'Tuna', '7,000', '90.6 in.', 'huge', 'ocean', 'November through March, all day');
+insert into accf_fish values(59, 0, 'Blue Marlin', '10,000', '88 in.', 'huge', 'ocean', 'July through September, all day');
+insert into accf_fish values(60, 0, 'Ray', '3,000', '48 in.', 'huge', 'ocean', 'August through November, 4am to 9pm');
+insert into accf_fish values(61, 0, 'Ocean Sunfish', '4,000', '120 in.', 'huge with fin', 'ocean', 'June through September, 4am to 9pm');
+insert into accf_fish values(62, 0, 'Hammerhead Shark', '8,000', '100 in.', 'huge with fin', 'ocean', 'June through September, 4pm to 9am');
+insert into accf_fish values(63, 0, 'Shark', '15,000', '216 in.', 'huge with fin', 'ocean', 'June through September, 4pm to 9am');
+insert into accf_fish values(64, 0, 'Coelacanth', '15,000', '60 in.', 'huge', 'ocean during rain or snow', 'all year, 4pm to 9am');

@@ -1,63 +1,64 @@
-insert into carpet values(1, 0, 'Exotic Rug')
-insert into carpet values(2, 0, 'Lovely Carpet')
-insert into carpet values(3, 0, 'Classic Carpet')
-insert into carpet values(4, 0, 'Ranch Flooring')
-insert into carpet values(5, 0, 'Cabana Flooring')
-insert into carpet values(6, 0, 'Blue Flooring')
-insert into carpet values(7, 0, 'Modern Tile')
-insert into carpet values(8, 0, 'Regal Carpet')
-insert into carpet values(9, 0, 'Green Rug')
-insert into carpet values(10, 0, 'Cabin Rug')
-insert into carpet values(11, 0, 'Kiddie Carpet')
-insert into carpet values(12, 0, 'Robo-Floor')
-insert into carpet values(13, 0, 'Snowman Carpet')
-insert into carpet values(14, 0, 'Forest Floor')
-insert into carpet values(15, 0, 'Western Desert')
-insert into carpet values(16, 0, 'Lunar Surface')
-insert into carpet values(17, 0, 'Closed Road')
-insert into carpet values(18, 0, 'Boxing Ring Mat')
-insert into carpet values(19, 0, 'Backyard Lawn')
-insert into carpet values(20, 0, 'Playroom Rug')
-insert into carpet values(21, 0, 'Ship Deck')
-insert into carpet values(22, 0, 'Lab Floor')
-insert into carpet values(23, 0, 'Pastel Dot Rug')
-insert into carpet values(24, 0, 'Checkered Tile')
-insert into carpet values(25, 0, 'Ceramic Tile')
-insert into carpet values(26, 0, 'Diner Tile')
-insert into carpet values(27, 0, 'Red Tile')
-insert into carpet values(28, 0, 'Mosaic Tile')
-insert into carpet values(29, 0, 'Plaza Tile')
-insert into carpet values(30, 0, 'Palace Tile')
-insert into carpet values(31, 0, 'Imperial Tile')
-insert into carpet values(32, 0, 'Kitchen Tile')
-insert into carpet values(33, 0, 'Stone Tile')
-insert into carpet values(34, 0, 'Charcoal Tile')
-insert into carpet values(35, 0, 'Tatami Floor')
-insert into carpet values(36, 0, 'Slate Flooring')
-insert into carpet values(37, 0, 'Concrete Floor')
-insert into carpet values(38, 0, 'Parquet Floor')
-insert into carpet values(39, 0, 'Music Room Floor')
-insert into carpet values(40, 0, 'Opulent Rug')
-insert into carpet values(41, 0, 'Plush Carpet')
-insert into carpet values(42, 0, 'Ornate Rug')
-insert into carpet values(43, 0, 'Fancy Carpet')
-insert into carpet values(44, 0, 'Exquisite Rug')
-insert into carpet values(45, 0, 'Persian Rug')
-insert into carpet values(46, 0, 'Tartan Rug')
-insert into carpet values(47, 0, 'Round Carpet')
-insert into carpet values(48, 0, 'Citrus Carpet')
-insert into carpet values(49, 0, 'Cowhide Rug')
-insert into carpet values(50, 0, 'Birch Flooring')
-insert into carpet values(51, 0, 'Old Flooring')
-insert into carpet values(52, 0, 'Bamboo Flooring')
-insert into carpet values(53, 0, 'Steel Flooring')
-insert into carpet values(54, 0, 'Shanty Mat')
-insert into carpet values(55, 0, 'Ancient Tile')
-insert into carpet values(56, 0, 'Fairy Tale Floor')
-insert into carpet values(57, 0, 'Illusion Floor')
-insert into carpet values(58, 0, 'Daisy Meadow')
-insert into carpet values(59, 0, 'Tropical Floor')
-insert into carpet values(60, 0, 'Saharah's Desert')
-insert into carpet values(61, 0, 'Sandlot')
-insert into carpet values(62, 0, 'Cloud Flooring')
-insert into carpet values(63, 0, 'Common Floor')
+insert into acww_carpet values(1, 0, 'Exotic Rug', 'normal', 'Grp B', '1,820', 'Exotic Series');
+insert into acww_carpet values(2, 0, 'Lovely Carpet', 'normal', 'Grp A', '1,980', 'Lovely Series');
+insert into acww_carpet values(3, 0, 'Classic Carpet', 'normal', 'Grp B', '2,300', 'Classic Series');
+insert into acww_carpet values(4, 0, 'Ranch Flooring', 'normal', 'Grp A', '1,750', 'Ranch Series');
+insert into acww_carpet values(5, 0, 'Cabana Flooring', 'normal', 'Grp C', '1,680', 'Cabana Series');
+insert into acww_carpet values(6, 0, 'Blue Flooring', 'normal', 'Grp B', '1,580', 'Blue Series');
+insert into acww_carpet values(7, 0, 'Modern Tile', 'normal', 'Grp B', '1,540', 'Modern Series');
+insert into acww_carpet values(8, 0, 'Regal Carpet', 'normal', 'Grp C', '2,850', 'Regal Series');
+insert into acww_carpet values(9, 0, 'Green Rug', 'normal', 'Grp A', '1,540', 'Green Series');
+insert into acww_carpet values(10, 0, 'Cabin Rug', 'normal', 'Grp A', '1,540', 'Cabin Series');
+insert into acww_carpet values(11, 0, 'Kiddie Carpet', 'normal', 'Grp B', '1,630', 'Kiddie Series');
+insert into acww_carpet values(12, 0, 'Robo-Floor', 'normal', 'Grp A', '2,400', 'Robo Series');
+insert into acww_carpet values(13, 0, 'Snowman Carpet', 'unorderable', 'Snowman', '8,888', 'Snowman Series');
+insert into acww_carpet values(14, 0, 'Forest Floor', 'unorderable', 'Cornimer', '420', 'Mushroom Series');
+insert into acww_carpet values(15, 0, 'Western Desert', 'unorderable', 'Saharah', '1,700', 'Western Theme');
+insert into acww_carpet values(16, 0, 'Lunar Surface', 'unorderable', 'Saharah', '2,000', 'Space Theme');
+insert into acww_carpet values(17, 0, 'Closed Road', 'unorderable', 'Saharah', '1,625', 'Construction Theme');
+insert into acww_carpet values(18, 0, 'Boxing Ring Mat', 'unorderable', 'Saharah', '2,500', 'Boxing Theme');
+insert into acww_carpet values(19, 0, 'Backyard Lawn', 'normal', 'Grp B', '880', 'Backyard Theme');
+insert into acww_carpet values(20, 0, 'Playroom Rug', 'normal', 'Grp C', '1,360', 'Nursery Theme');
+insert into acww_carpet values(21, 0, 'Ship Deck', 'unorderable', 'Pascal', '1,000', 'Pirate Theme');
+insert into acww_carpet values(22, 0, 'Lab Floor', 'normal', 'Grp B', '1,280', 'Mad Scientist Theme');
+insert into acww_carpet values(23, 0, 'Pastel Dot Rug', 'normal', 'Grp B', '1,300', 'none');
+insert into acww_carpet values(24, 0, 'Checkered Tile', 'normal', 'Grp C', '1,680', 'none');
+insert into acww_carpet values(25, 0, 'Ceramic Tile', 'normal', 'Grp A', '1,390', 'none');
+insert into acww_carpet values(26, 0, 'Diner Tile', 'normal', 'Grp B', '1,300', 'none');
+insert into acww_carpet values(27, 0, 'Red Tile', 'normal', 'Grp B', '1,680', 'none');
+insert into acww_carpet values(28, 0, 'Mosaic Tile', 'normal', 'Grp B', '2,300', 'none');
+insert into acww_carpet values(29, 0, 'Plaza Tile', 'normal', 'Grp A', '2,180', 'none');
+insert into acww_carpet values(30, 0, 'Palace Tile', 'normal', 'Grp A', '3,200', 'none');
+insert into acww_carpet values(31, 0, 'Imperial Tile', 'normal', 'Grp A', '2,980', 'none');
+insert into acww_carpet values(32, 0, 'Kitchen Tile', 'normal', 'Grp B', '1,890', 'none');
+insert into acww_carpet values(33, 0, 'Stone Tile', 'normal', 'Grp C', '2,750', 'none');
+insert into acww_carpet values(34, 0, 'Charcoal Tile', 'normal', 'Grp B', '800', 'none');
+insert into acww_carpet values(35, 0, 'Tatami Floor', 'unorderable', 'Saharah', '2,125', 'none');
+insert into acww_carpet values(36, 0, 'Slate Flooring', 'normal', 'Grp C', '1,380', 'none');
+insert into acww_carpet values(37, 0, 'Concrete Floor', 'unorderable', 'Saharah', '1,800', 'none');
+insert into acww_carpet values(38, 0, 'Parquet Floor', 'normal', 'Grp C', '2,350', 'none');
+insert into acww_carpet values(39, 0, 'Music Room Floor', 'unorderable', 'Saharah', '1,800', 'none');
+insert into acww_carpet values(40, 0, 'Opulent Rug', 'normal', 'Grp B', '1,230', 'none');
+insert into acww_carpet values(41, 0, 'Plush Carpet', 'normal', 'Grp A', '2,160', 'none');
+insert into acww_carpet values(42, 0, 'Ornate Rug', 'normal', 'Grp C', '2,100', 'none');
+insert into acww_carpet values(43, 0, 'Fancy Carpet', 'normal', 'Grp B', '2,980', 'none');
+insert into acww_carpet values(44, 0, 'Exquisite Rug', 'normal', 'Grp C', '1,960', 'none');
+insert into acww_carpet values(45, 0, 'Persian Rug', 'normal', 'Grp A', '1,280', 'none');
+insert into acww_carpet values(46, 0, 'Tartan Rug', 'normal', 'Grp C', '1,820', 'none');
+insert into acww_carpet values(47, 0, 'Round Carpet', 'normal', 'Grp C', '1,080', 'none');
+insert into acww_carpet values(48, 0, 'Citrus Carpet', 'normal', 'Grp C', '1,330', 'none');
+insert into acww_carpet values(49, 0, 'Cowhide Rug', 'normal', 'Grp C', '1,540', 'none');
+insert into acww_carpet values(50, 0, 'Birch Flooring', 'normal', 'Grp C', '800', 'none');
+insert into acww_carpet values(51, 0, 'Old Flooring', 'normal', 'Grp A', '800', 'none');
+insert into acww_carpet values(52, 0, 'Bamboo Flooring', 'normal', 'Grp A', '1,360', 'none');
+insert into acww_carpet values(53, 0, 'Steel Flooring', 'normal', 'Grp A', '1,480', 'none');
+insert into acww_carpet values(54, 0, 'Shanty Mat', 'normal', 'Grp C', '720', 'none');
+insert into acww_carpet values(55, 0, 'Ancient Tile', 'unorderable', 'Saharah', '2,400', 'none');
+insert into acww_carpet values(56, 0, 'Fairy Tale Floor', 'normal', 'Grp B', '2,400', 'none');
+insert into acww_carpet values(57, 0, 'Illusion Floor', 'normal', 'Grp C', '1,600', 'none');
+insert into acww_carpet values(58, 0, 'Daisy Meadow', 'unorderable', 'Saharah', '1,800', 'none');
+insert into acww_carpet values(59, 0, 'Tropical Floor', 'unorderable', 'Saharah', '2,050', 'none');
+insert into acww_carpet values(60, 0, 'Saharah''s Desert', 'unorderable', 'Saharah', '1,800', 'none');
+insert into acww_carpet values(61, 0, 'Sandlot', 'unorderable', 'Saharah', '1,700', 'none');
+insert into acww_carpet values(62, 0, 'Cloud Flooring', 'normal', 'Grp A', '1,480', 'none');
+insert into acww_carpet values(63, 0, 'Common Floor', 'normal', 'Grp A', '1,280', 'none');
+insert into acww_carpet values(64, 0, 'Block Floor', 'unorderable', 'Download', '256', 'Mario Theme');

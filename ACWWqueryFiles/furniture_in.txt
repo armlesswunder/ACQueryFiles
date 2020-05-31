@@ -613,3 +613,19 @@ Strange Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown - Old Scho
 Worthy Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown - Old School/Chic
 Calm Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Colorful/Brown - Old School/Chic
 Opulent Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Colorful/Brown - Old School/Chic
+Mario Theme:
+Brick Block* - Download - sm - none/256 - Brown/Brown - Old School/Lovely - table
+Cannon* - Download - sm - none/256 - Black/Black - Old School/Lovely - can use
+Coin* - Download - sm - none/256 - Yellow/Yellow - Old School/Lovely - flashes, makes sound, can put on table
+Fire Bar* - Download - sm - none/256 - Red/Brown - Old School/Lovely - rotates, makes noise
+Fire Flower* - Download - sm - none/256 - Colorful/White - Old School/Lovely - flashes, can use, can put on table
+Flagpole* - Download - sm - none/256 - White/Brown - Old School/Lovely - can use
+Green Pipe* - Download - lrg - none/256 - Green/Green - Old School/Lovely - can use
+Koopa Shell* - Download - sm - none/256 - Green/Green - Old School/Lovely - can use, can put on table
+1-Up Mushroom* - Download - sm - none/256 - Yellow/Green - Old School/Lovely - can use, can put on table
+? Block* - Download - sm - none/256 - Yellow/Yellow - Old School/Lovely - flashes, can use, table
+Starman* - Download - sm - none/256 - Yellow/Yellow - Old School/Lovely - flashes, makes sound
+Super Mushroom* - Download - sm - none/256 - Yellow/Red - Old School/Lovely - can use, can put on table
+Other Furniture:
+Blue Falcon* - Download - lrg - none/256 - Blue/Blue - Modern/Chic - can use
+Pikmin* - Download - med - none/256 - Colorful/Brown - Modern/Lovely - can use

@@ -1,111 +1,56 @@
 Common Butterfly* - 90 [80] - 50 mm - near flowers - March through June, 4am to 7pm (best time is 8am to 5pm); July through August, 8am to 5pm; September, 8am to 4pm
-
 Yellow Butterfly* - 90 [80] - 50 mm - near flowers - March through June, 4am to 7pm (best time is 8am to 5pm); July through August, 8am to 5pm; September, 8am to 4pm
-
 Tiger Butterfly* - 160 [120] - 90 mm - near Red and Pink flowers - March through June, 4am to 7pm (best time is 8am to 5pm); July through August, 8am to 5pm; September, 8am to 4pm
-
 Peacock Butterfly* - 220 [200] - 105 mm - near Blue, purple and Black flowers - March through June, 4am to 7pm (best time is 8am to 5pm, May through June); July through August, 8am to 5pm; September, 8am to 4pm
-
 Monarch Butterfly* - 140 [120] - 85 mm - near flowers - September through October, 4am to 5pm; November, 8am to 5pm (best time is 8am to 5pm, October through November)
-
 Emperor Butterfly* - 2,500 - 115 mm - near flowers - June through September, 8am to 5pm
-
 Agrias Butterfly* - 3,000 - 42 mm - near flowers - June through September, 8am to 5pm
-
 Birdwing Butterfly* - 3,000 - 260 mm - near flowers - June through September, 8am to 5pm
-
 Moth* - 60 - 60 mm - near outdoor lights - May through September, 7pm to 4am (best time is 11pm to 4am, June through August)
-
 Oak Silk Moth - 1,200 [800] - 280 mm - on trees - June through September, 7pm to 4am
-
-Honeybee* ** - 100 - 13 mm - near flowers - March through August, 8am to 5pm (best time is March through June)
-
+Honeybee*** - 100 - 13 mm - near flowers - March through August, 8am to 5pm (best time is March through June)
 Bee** - 4,500 - 38 mm - in trees - all year, all day
-
 Long Locust* - 200 - 73 mm - on ground - August through November, 8am to 7pm (best time is September through November)
-
 Migratory Locust - 600 [800] - 58 mm - on ground - September through November, 8am to 7pm (best time is 8am to 4pm)
-
 Mantis* - 430 - 82 mm - on flowers - August through November, 8am to 5pm (best time is 8am to 4pm, September through November)
-
 Orchid Mantis* - 2,400 - 35 mm - on flowers (more common on white flowers) - August through November, 8am to 5pm (best time is 8am to 4pm, September through November)
-
 Brown Cicada - 200 - 58 mm - on trees - July through August, 8am to 5pm (best time is 8am to 4pm)
-
 Robust Cicada - 300 - 60 mm - on trees - July through August, 8am to 5pm (best time is 8am to 4pm)
-
 Walker Cicada - 400 - 44 mm - on trees - July through September, 8am to 5pm (best time is August)
-
 Evening Cicada - 550 - 45 mm - on trees - July through August, 4am to 8am and 4pm to 7pm
-
 Lantern Fly - 1,800 [2,000] - 70 mm - on trees - June through September, 4pm to 7pm and 11pm to 8am
-
 Red Dragonfly* - 80 - 38 mm - in air - September through October, 8am to 7pm (best time is 4pm to 5pm)
-
 Darner Dragonfly* - 200 - 76 mm - in air - June through August, 8am to 5pm (best time is 4pm to 5pm)
-
 Banded Dragonfly* - 4,500 - 90 mm - in air - July through August, 8am to 5pm
-
 Ant** - 80 - 5 mm - on rotten turnips - all year, all day
-
 Pondskater** - 130 - 14 mm - on large and holding ponds - June through September, 8am to 7pm
-
 Snail - 250 - 45 mm - on flowers, usually during rain - April through September,all day (best times are 4pm to 8am, May; 4am to 7pm, June; and 7pm to 11pm, July through August)
-
 Cricket - 130 - 28 mm - on ground - September through November, 5pm to 8am
-
 Bell Cricket - 430 - 18 mm - on ground - September through October, 5pm to 8am
-
-Grasshopper* - 160 [130] - 43 mm - on ground - July, 4pm to 5pm - August through September, 8am to 5pm (best time is September)
-
+Grasshopper* - 160 [130] - 43 mm - on ground - July, 4pm to 5pm; August through September, 8am to 5pm (best time is September)
 Mole Cricket - 280 [200] - 35 mm - underground - November through May, all day (best time is December through February)
-
 Walkingstick - 600 - 85 mm - on trees - July through November, 4am to 7pm
-
 Ladybug* - 200 - 8 mm - on flowers - March through June and October, 8am to 5pm (best time is March through May)
-
 Fruit Beetle - 100 - 23 mm - on trees - July through August, all day (best time is 7pm to 4am); September, 7pm to 8am
-
 Scarab Beetle - 6,000 - 25 mm - on trees - July through August, 11pm to 8am
-
 Dung Beetle** - 800 - 35 mm - near snowballs - December through February, 5pm to 8am
-
 Goliath Beetle - 6,000 - 90 mm - on coconut palms - June through August, 7pm to 8am
-
 Firefly* - 300 [250] - 15 mm - near freshwater - June, 7pm to 4am
-
 Jewel Beetle - 2,400 - 35 mm - on trees - July through August, 8am to 5pm
-
 Longhorn Beetle - 260 [200] - 30 mm - on trees - June, 8am to 7pm; July through August, 8am to 5pm
-
 Saw Stag Beetle - 2,000 - 65 mm - on trees - July through August, all day (best time is 11pm to 8am)
-
 Stag Beetle - 2,000 - 66 mm - on trees - June through August, 7pm to 8am (best time is 11pm to 8am, July through August)
-
 Giant Beetle - 10,000 - 68 mm - on trees - July through August, 11pm to 8am
-
 Rainbow Stag - 10,000 - 68 mm - on trees - June through September, 7pm to 8am
-
 Dynastid Beetle - 1,350 - 80 mm - on trees - July through August, 7pm to 8am (best time is 11pm to 8am)
-
 Atlas Beetle - 8,000 - 120 mm - on coconut palms - July through August, 7pm to 8am
-
 Elephant Beetle - 8,000 - 115 mm - on coconut palms - July through August, 7pm to 8am
-
 Hercules Beetle - 12,000 [11,250] - 160 mm - on coconut palms - July through August, 11pm to 8am
-
 Flea** - 70 - 2 mm - on villager - March through November, all day
-
 Pillbug - 250 - 10 mm - under rocks - all year, all day (best time is November through March)
-
-Mosquito* ** - 130 - 6 mm - in air - June through September, 5pm to 4am (best time is 5pm to 7pm)
-
+Mosquito*** - 130 - 6 mm - in air - June through September, 5pm to 4am (best time is 5pm to 7pm)
 Fly** - 60 - 9 mm - near garbage, Rafflesia or rotten turnips - all year, all day
-
 Cockroach - 5 - 28 mm - on trees or rotten turnips - all year, all day
-
-Spider* ** - 300 - 28 mm - in trees - March through November, all day (best times are 4pm to 8am, April through May; 4am to 8am and 5pm to 7pm, June; 7pm to 8am, July; 5pm to 8am, August; 4am to 8am and 7pm to 11pm, September; and 5pm to 8am, October)
-
-Tarantula* ** - 8,000 - 65 mm - on ground - June through August, 7pm to 4am
-
-Scorpion* ** - 8,000 - 160 mm - on ground - July through September, 7pm to 4am
+Spider*** - 300 - 28 mm - in trees - March through November, all day (best times are 4pm to 8am, April through May; 4am to 8am and 5pm to 7pm, June; 7pm to 8am, July; 5pm to 8am, August; 4am to 8am and 7pm to 11pm, September; and 5pm to 8am, October)
+Tarantula*** - 8,000 - 65 mm - on ground - June through August, 7pm to 4am
+Scorpion*** - 8,000 - 160 mm - on ground - July through September, 7pm to 4am
