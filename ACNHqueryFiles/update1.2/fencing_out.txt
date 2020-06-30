@@ -1,0 +1,2 @@
+insert into acnh_fencing values(18, 0, 'hedge', '55', 'Crafting');
+insert into acnh_fencing values(19, 0, 'wedding fence', '411', 'Crafting');

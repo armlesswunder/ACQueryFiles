@@ -1,0 +1,111 @@
+using System;
+
+namespace queryGen
+{
+    class Program
+    {//change this value to work on a different query (ie: "furniture", "fish", "shirt", ...)
+        const string table = "insect";
+        static void Main(string[] args)
+        {
+
+            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_in.txt");
+            using (System.IO.StreamWriter file =
+            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_seasons_out.txt", true))
+            {
+                string lhs = "insert into acnh_" + table + " values(";
+                string str;
+                int count = 1;
+                foreach (string line in lines)
+                {
+
+                    if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
+                        continue;
+
+                    string[] arr = line.Split(" - ");
+                    String month = "jan";
+
+                    if (arr[10].Contains("Yes"))
+                    {
+                        month = "jan";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[11].Contains("Yes"))
+                    {
+                        month = "feb";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[12].Contains("Yes"))
+                    {
+                        month = "mar";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[13].Contains("Yes"))
+                    {
+                        month = "apr";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[14].Contains("Yes"))
+                    {
+                        month = "may";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[15].Contains("Yes"))
+                    {
+                        month = "jun";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[16].Contains("Yes"))
+                    {
+                        month = "jul";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[17].Contains("Yes"))
+                    {
+                        month = "aug1";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        month = "aug2";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[18].Contains("Yes"))
+                    {
+                        month = "sep1";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        month = "sep2";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[19].Contains("Yes"))
+                    {
+                        month = "oct";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[20].Contains("Yes"))
+                    {
+                        month = "nov";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+                    if (arr[21].Contains("Yes"))
+                    {
+                        month = "dec";
+                        Console.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                        file.WriteLine("insert into acnh_" + month + "_insect values (" + count + ");");
+                    }
+
+                    count++;
+                }
+            }
+        }
+    }
+}

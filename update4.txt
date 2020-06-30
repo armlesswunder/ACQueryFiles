@@ -1,0 +1,18 @@
+insert into acnh_dress values(912, 0, 'cake dress', 'orderable', '20000', 'Wedding Season', 'Elegant');
+insert into acnh_dress values(913, 0, 'wedding tuxedo', 'orderable', '12000', 'Wedding Season', 'Elegant');
+insert into acnh_fencing values(18, 0, 'hedge', '55', 'Crafting');
+insert into acnh_fencing values(19, 0, 'wedding fence', '411', 'Crafting');
+insert into acnh_flooring values(174, 0, 'brown wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_flooring values(175, 0, 'green wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_flooring values(176, 0, 'white wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_headwear values(696, 0, 'bridal veil', 'unorderable', '1150', 'Wedding Season', 'Elegant');
+insert into acnh_headwear values(697, 0, 'handmade crown', 'unorderable', '75', 'International Children''s Day', 'Active');
+insert into acnh_headwear values(698, 0, 'summer-solstice crown', 'unorderable', '390', 'Summer Solstice Festival', 'Active');
+insert into acnh_houseware values(1409, 0, 'wedding arch', 'unorderable', '5000', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1410, 0, 'wedding bench', 'unorderable', '875', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1411, 0, 'wedding chair', 'unorderable', '500', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1412, 0, 'wedding flower stand', 'unorderable', '1000', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1413, 0, 'wedding head table', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1414, 0, 'wedding pipe organ', 'unorderable', '25000', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1415, 0, 'wedding table', 'orderable', '6000', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_houseware values(1416, 0, 'wedding welcome board', 'unorderable', '375', 'Wedding Season', 'party', 'expensive', 'wedding');

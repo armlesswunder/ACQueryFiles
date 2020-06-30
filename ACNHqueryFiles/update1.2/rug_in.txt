@@ -1,0 +1,5 @@
+Name	Image	DIY	Buy	Sell	Color 1	Color 2	Size	Miles Price	Source	Source Notes	Version Added	Version Unlocked	HHA Concept 1	HHA Concept 2	HHA Series	Tag	Catalog	Filename	Internal ID	Unique Entry ID
+Bell-bag rug	#NAME?	No	NFS	6000	None	None	3x3	1200	Nook Miles Shop	Medium rug	1.2.0	1.2.0	expensive	None	None	Park Rugs	Not for sale	RugOtherBellM00	12214	KfRapmYKpizqQWzCg
+blue wedding rug	#NAME?	No	1500	375	None	None	3x2	NA		Medium rug	1.2.0	NA	party	expensive	wedding	Slender Pattern Rugs	Not for sale	RugRectJuneBrideM00	12462	ghEfAZG8Lt5sb8nt3
+red wedding rug	#NAME?	No	1500	375	None	None	3x2	NA		Medium rug	1.2.0	NA	party	expensive	wedding	Slender Pattern Rugs	Not for sale	RugRectJuneBrideM02	12465	LmxrQZwL5HrEzsHqK
+white wedding rug	#NAME?	No	1500	375	None	None	3x2	NA		Medium rug	1.2.0	NA	party	expensive	wedding	Slender Pattern Rugs	Not for sale	RugRectJuneBrideM03	12464	At7cbGksXn6rvhkQr

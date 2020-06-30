@@ -1,0 +1,2 @@
+insert into acnh_dress values(912, 0, 'cake dress', 'orderable', '20000', 'Wedding Season', 'Elegant');
+insert into acnh_dress values(913, 0, 'wedding tuxedo', 'orderable', '12000', 'Wedding Season', 'Elegant');
