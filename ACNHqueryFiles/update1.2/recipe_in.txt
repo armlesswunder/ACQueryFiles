@@ -1,4 +1,17 @@
-Name	#1	Material 1	#2	Material 2	#3	Material 3	#4	Material 4	#5	Material 5	#6	Material 6	Buy	Sell	Miles Price	Source	Source Notes	Version Added	Version Unlocked	Recipes to Unlock	Category	Serial ID	Internal ID	Unique Entry ID
-hedge	10	weed	5	branch	2	stone							NFS	200	NA	Tom Nook	Obtained from Tom Nook after completing one Nature Day Nook Miles+ task	1.2.0	1.2.0	0	Fencing	1291	713	m9LpprrQ6sP6EnArD
-wedding fence	5	iron nugget	3	softwood									NFS	200	NA	Harvey	Only available during Wedding Season	1.2.0	NA	0	Fencing	992	714	yZNfKe6dESLFFQ8J4
-wedding wand	1	wedding flower stand	3	star fragment									NFS	200	NA	Cyrus	Only available during Wedding Season	1.2.0	NA	0	Tools	3678	715	LokHc5XaxADprKGWJ
+hedge	10	clump of weeds	5	tree branch	2	stone							NFS	200	NA	Tom Nook	Obtained from Tom Nook after completing one Nature Day Nook Miles+ task	1.2.0	1.2.0	0	Other	12758	green	1291	713	m9LpprrQ6sP6EnArD
+mermaid bed	2	pearl	2	giant clam	5	sand dollar							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12558	white	2714	723	ALFTq4KukvjmL4fb5
+mermaid chair	1	pearl	1	giant clam	2	sand dollar							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12562	white	2718	727	pxAiAq33Mhuwn4Hkt
+mermaid closet	2	pearl	1	giant clam	2	coral	5	sand dollar					NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12559	white	2715	724	MEWXBzYjapeoEe2gB
+mermaid dresser	2	pearl	1	giant clam	3	coral							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12561	white	2717	726	Cw5hY5Rw3H3Dbj8Qm
+mermaid flooring	2	pearl	5	sand dollar	5	Stone							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Floors	12568	white	2761	730	x4MaMfyCjjfCbzaeX
+mermaid lamp	1	pearl	3	conch	2	coral	2	iron nugget					NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12556	white	2713	721	uSZ9gNznb8Muv7m5N
+mermaid rug	1	pearl	3	sand dollar									NFS	200	NA	Pascal		1.3.0	1.3.0	0	Rugs	12563	white	2771	728	RzoH6PAen4tofG5r4
+mermaid screen	2	pearl	3	giant clam	5	sand dollar							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12555	white	2712	720	SpWcH5ZkBLmmPPhkh
+mermaid shelf	1	pearl	1	giant clam	4	coral							NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12553	white	2710	718	BefPY5x6qmfpw6LYR
+mermaid sofa	1	pearl	10	sand dollar									NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12560	white	2716	725	ZAkqmq4rpvqx8Yjsh
+mermaid table	1	pearl	4	sand dollar									NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12552	white	2709	717	28F4e6Qn9Ljk9bujY
+mermaid vanity	1	pearl	1	giant clam	2	coral	2	iron nugget					NFS	200	NA	Pascal		1.3.0	1.3.0	0	Housewares	12554	white	2711	719	Ratk45mkyzj3MamAL
+mermaid wall	2	pearl	2	sea snail	2	sand dollar	2	coral	2	giant clam	2	cowrie	NFS	200	NA	Pascal		1.3.0	1.3.0	0	Wallpaper	12566	white	2750	729	iWw2Le7AvBey6icHL
+mermaid wall clock	1	pearl	3	sea snail	2	coral	2	iron nugget					NFS	200	NA	Pascal		1.3.0	1.3.0	0	Wall-mounted	12557	white	2730	722	5ofhYTXth4c5AKdau
+wedding fence	5	iron nugget	3	softwood									NFS	200	NA	Harvey	Only available during Wedding Season	1.2.0	1.2.1c	0	Other	12894	dark gray	992	714	yZNfKe6dESLFFQ8J4
+wedding wand	1	wedding flower stand	3	star fragment									NFS	200	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	0	Tools	12695	green	3678	715	LokHc5XaxADprKGWJ

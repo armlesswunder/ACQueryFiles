@@ -1,3 +1,5 @@
-Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Miles Price	Source	Source Notes	Version Added	Version Unlocked	Seasonal Availability	Mannequin Piece	Style	Label Themes	Villager Equippable	Catalog	Filename	Internal ID	Unique Entry ID
-wedding pumps	#NAME?	#NAME?	NA	No	3000	750	White	White	1x1	NA	Wedding Season		1.2.0	NA	All Year	No	Elegant	fairy tale; formal; theatrical	No	Not for sale	ShoesLowcutJunepumps0	12495	ZXMfkX6hWrb3Bf4cJ
-wedding shoes	#NAME?	#NAME?	NA	No	3000	750	White	White	1x1	NA	Wedding Season		1.2.0	NA	All Year	No	Elegant	fairy tale; formal; theatrical	No	Not for sale	ShoesLowcutJuneshoes0	12496	j2RAxuwc7BvaMTicF
+mermaid shoes	#NAME?	#NAME?	Pink	No	NFS	450	251	Pink	White	1x1	NA	Pascal		1.3.0	1.3.0	All Year	No	Cute	fairy tale; formal; party; theatrical	1	No	Not for sale	ShoesLowcutMermaid0	12660	8iHuRzCYLdvJauWuf
+mermaid shoes	#NAME?	#NAME?	Light blue	No	NFS	450	251	Light blue	White	1x1	NA	Pascal		1.3.0	1.3.0	All Year	No	Cute	fairy tale; formal; party; theatrical	2	No	Not for sale	ShoesLowcutMermaid1	13087	gYHhF8dKtAEM8aQwe
+pirate boots	#NAME?	#NAME?	NA	No	NFS	660	451	Brown	Beige	1x1	NA	Gullivarrr		1.3.0	1.3.0	All Year	No	Cool	fairy tale; goth; theatrical	1	No	Not for sale	ShoesKneePirates0	12665	zAZBCXyxcZiXQJeGt
+wedding pumps	#NAME?	#NAME?	NA	No	NFS	750	437	White	White	1x1	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	All Year	No	Elegant	fairy tale; formal; theatrical	1	No	Not for sale	ShoesLowcutJunepumps0	12495	ZXMfkX6hWrb3Bf4cJ
+wedding shoes	#NAME?	#NAME?	NA	No	NFS	750	437	White	White	1x1	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	All Year	No	Elegant	fairy tale; formal; theatrical	1	No	Not for sale	ShoesLowcutJuneshoes0	12496	j2RAxuwc7BvaMTicF

@@ -1,3 +1,5 @@
-brown wedding flooring - #NAME? -  - No - 3000 - 750 - None - None - NA - Wedding Season -  - 1.2.0 - NA - party - expensive - wedding - Tile Floors - Not for sale - RoomTexFloorMarbleTile01 - 12433 - hmyWP64oXEsMwBPua
-green wedding flooring - #NAME? -  - No - 3000 - 750 - None - None - NA - Wedding Season -  - 1.2.0 - NA - party - expensive - wedding - Tile Floors - Not for sale - RoomTexFloorMarbleTile02 - 12434 - uhmt88jsXSHpkqswZ
-white wedding flooring - #NAME? -  - No - 3000 - 750 - None - None - NA - Wedding Season -  - 1.2.0 - NA - party - expensive - wedding - Tile Floors - Not for sale - RoomTexFloorMarbleTile00 - 12431 - GYZ8kvbfYK7i2NcvT
+brown wedding flooring	#NAME?	No	No	NFS	750	None	None	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	437	party	expensive	wedding	Tile Floors	Not for sale	RoomTexFloorMarbleTile01	12433	hmyWP64oXEsMwBPua
+green wedding flooring	#NAME?	No	No	NFS	750	None	None	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	437	party	expensive	wedding	Tile Floors	Not for sale	RoomTexFloorMarbleTile02	12434	uhmt88jsXSHpkqswZ
+mermaid flooring	#NAME?	Yes	Yes	NFS	20975	Light blue	Pink	NA	Crafting		1.3.0	1.3.0	451	ocean	fancy	mermaid	Nature - White	Not for sale	RoomSpFloorMermaid00	12568	XLgLk68xXpgf344N2
+pirate flooring	#NAME?	No	No	NFS	750	Blue	Brown	NA	Gullivarrr		1.3.0	1.3.0	451	ocean	expensive	pirate	Luxury	Not for sale	RoomTexFloorPirates00	12569	RaD6jMvqDehvYkgSg
+white wedding flooring	#NAME?	No	No	NFS	750	None	None	NA	Cyrus	Only available during Wedding Season	1.2.0	1.2.1c	437	party	expensive	wedding	Tile Floors	Not for sale	RoomTexFloorMarbleTile00	12431	GYZ8kvbfYK7i2NcvT

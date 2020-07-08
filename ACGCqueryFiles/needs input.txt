@@ -1,1 +1,2 @@
 insert into acgc_carpet values(69, 0, 'Backyard Lawn', 'orderable', 'Grp ?');
+arapaima is available in june also

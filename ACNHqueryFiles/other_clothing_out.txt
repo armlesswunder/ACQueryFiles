@@ -1,0 +1,9 @@
+insert into acnh_other_clothing values(1, 0, 'horizontal-striped wet suit (Black)', 'orderable', '3000', 'Nook''s Cranny (Summer)', 'Active');
+insert into acnh_other_clothing values(2, 0, 'horizontal-striped wet suit (Red)', 'orderable', '3000', 'Nook''s Cranny (Summer)', 'Active');
+insert into acnh_other_clothing values(3, 0, 'horizontal-striped wet suit (Yellow)', 'orderable', '3000', 'Nook''s Cranny (Summer)', 'Active');
+insert into acnh_other_clothing values(4, 0, 'horizontal-striped wet suit (Blue)', 'orderable', '3000', 'Nook''s Cranny (Summer)', 'Active');
+insert into acnh_other_clothing values(5, 0, 'leaf-print wet suit (Yellow)', 'orderable', '3000', 'Nook Shopping Catalog (Summer)', 'Active');
+insert into acnh_other_clothing values(6, 0, 'leaf-print wet suit (Green)', 'orderable', '3000', 'Nook Shopping Catalog (Summer)', 'Active');
+insert into acnh_other_clothing values(7, 0, 'leaf-print wet suit (Light blue)', 'orderable', '3000', 'Nook Shopping Catalog (Summer)', 'Active');
+insert into acnh_other_clothing values(8, 0, 'leaf-print wet suit (Purple)', 'orderable', '3000', 'Nook Shopping Catalog (Summer)', 'Active');
+insert into acnh_other_clothing values(9, 0, 'Nook Inc. wet suit', 'unorderable', '4000', 'Nook Miles Shop (Summer)', 'Active');
