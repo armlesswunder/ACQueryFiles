@@ -1,0 +1,17 @@
+insert into acnh_recipe values(594, 0, 'hedge', '10 clump of weeds, 5 tree branch, 2 stone', 'Tom Nook');
+insert into acnh_recipe values(595, 0, 'mermaid bed', '2 pearl, 2 giant clam, 5 sand dollar', 'Pascal');
+insert into acnh_recipe values(596, 0, 'mermaid chair', '1 pearl, 1 giant clam, 2 sand dollar', 'Pascal');
+insert into acnh_recipe values(597, 0, 'mermaid closet', '2 pearl, 1 giant clam, 2 coral, 5 sand dollar', 'Pascal');
+insert into acnh_recipe values(598, 0, 'mermaid dresser', '2 pearl, 1 giant clam, 3 coral', 'Pascal');
+insert into acnh_recipe values(599, 0, 'mermaid flooring', '2 pearl, 5 sand dollar, 5 Stone', 'Pascal');
+insert into acnh_recipe values(600, 0, 'mermaid lamp', '1 pearl, 3 conch, 2 coral, 2 iron nugget', 'Pascal');
+insert into acnh_recipe values(601, 0, 'mermaid rug', '1 pearl, 3 sand dollar', 'Pascal');
+insert into acnh_recipe values(602, 0, 'mermaid screen', '2 pearl, 3 giant clam, 5 sand dollar', 'Pascal');
+insert into acnh_recipe values(603, 0, 'mermaid shelf', '1 pearl, 1 giant clam, 4 coral', 'Pascal');
+insert into acnh_recipe values(604, 0, 'mermaid sofa', '1 pearl, 10 sand dollar', 'Pascal');
+insert into acnh_recipe values(605, 0, 'mermaid table', '1 pearl, 4 sand dollar', 'Pascal');
+insert into acnh_recipe values(606, 0, 'mermaid vanity', '1 pearl, 1 giant clam, 2 coral, 2 iron nugget', 'Pascal');
+insert into acnh_recipe values(607, 0, 'mermaid wall', '2 pearl, 2 sea snail, 2 sand dollar, 2 coral, 2 giant clam, 2 cowrie', 'Pascal');
+insert into acnh_recipe values(608, 0, 'mermaid wall clock', '1 pearl, 3 sea snail, 2 coral, 2 iron nugget', 'Pascal');
+insert into acnh_recipe values(609, 0, 'wedding fence', '5 iron nugget, 3 softwood', 'Harvey');
+insert into acnh_recipe values(610, 0, 'wedding wand', '1 wedding flower stand, 3 star fragment', 'Cyrus');

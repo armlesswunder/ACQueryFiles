@@ -1,0 +1,6 @@
+insert into acnh_wallpaper values(244, 0, 'brown wedding wall', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wallpaper values(245, 0, 'green wedding wall', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wallpaper values(246, 0, 'mermaid wall', 'unorderable', '23520', 'Crafting', 'ocean', 'fancy', 'mermaid');
+insert into acnh_wallpaper values(247, 0, 'pirate wall', 'unorderable', '750', 'Gullivarrr', 'ocean', 'none', 'pirate');
+insert into acnh_wallpaper values(248, 0, 'wedding-party wall', 'unorderable', '437', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wallpaper values(249, 0, 'white wedding wall', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');

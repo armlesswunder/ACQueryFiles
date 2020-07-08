@@ -21,7 +21,7 @@ namespace queryGen
                     if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
                         continue;
 
-                    string[] arr = line.Split(" - ");
+                    string[] arr = line.Split("\t");
                     str = lhs + count + ", 0, '";
 
                     //variation/pattern
@@ -31,7 +31,7 @@ namespace queryGen
                     {
                         if (!arr[3].Contains("NA"))
                         {
-                            variation = " (" + arr[2].Replace("'", "''") + ")";
+                            variation = " (" + arr[3].Replace("'", "''") + ")";
                         }
                     }
 
@@ -40,7 +40,7 @@ namespace queryGen
 
 
                     //price and status
-                    if (arr[21].ToLower().Contains("no"))
+                    if (arr[23].ToLower().Contains("no"))
                     {
                         //price is sell value if unorderable
                         str += "unorderable', '" + arr[6].Replace("'", "''") + "', '";
@@ -52,10 +52,10 @@ namespace queryGen
                     }
 
                     //from
-                    str += arr[11].Replace("'", "''") + "', '";
+                    str += arr[12].Replace("'", "''") + "', '";
 
                     //style
-                    str += arr[17].Replace("'", "''") + "');";
+                    str += arr[18].Replace("'", "''") + "');";
 
                     count++;
                     Console.WriteLine(str);

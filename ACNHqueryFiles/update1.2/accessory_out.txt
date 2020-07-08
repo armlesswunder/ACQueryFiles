@@ -1,0 +1,9 @@
+insert into acnh_accessory values(223, 0, 'Nook Inc. snorkel', 'unorderable', '2500', 'Nook Miles Shop', 'Active');
+insert into acnh_accessory values(224, 0, 'pirate beard', 'unorderable', '245', 'Gullivarrr', 'Cool');
+insert into acnh_accessory values(225, 0, 'pirate eye patch', 'unorderable', '70', 'Gullivarrr', 'Cool');
+insert into acnh_accessory values(226, 0, 'snorkel mask (Black)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');
+insert into acnh_accessory values(227, 0, 'snorkel mask (Red)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');
+insert into acnh_accessory values(228, 0, 'snorkel mask (Pink)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');
+insert into acnh_accessory values(229, 0, 'snorkel mask (Orange)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');
+insert into acnh_accessory values(230, 0, 'snorkel mask (Green)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');
+insert into acnh_accessory values(231, 0, 'snorkel mask (Blue)', 'orderable', '700', 'Nintendo; Able Sisters', 'Active');

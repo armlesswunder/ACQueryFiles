@@ -1,0 +1,2 @@
+insert into acnh_tool values(63, 0, 'wedding wand', 'Crafting');
+insert into acnh_tool values(64, 0, 'worn axe', 'May Day Tour');

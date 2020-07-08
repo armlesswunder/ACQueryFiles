@@ -21,15 +21,26 @@ namespace queryGen
                     if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
                         continue;
 
-                    string[] arr = line.Split(" - ");
+                    string[] arr = line.Split("\t");
                     str = lhs + count + ", 0, '";
 
+                    //variation/pattern
+                    String variation = "";
+                    //don't show variation/pattern for diys
+                    if (arr[6].ToLower().Contains("no"))
+                    {
+                        if (!arr[2].Contains("NA"))
+                        {
+                            variation = " (" + arr[2].Replace("'", "''") + ")";
+                        }
+                    }
+
                     //name
-                    str += arr[0].Replace("'", "''") + "', '";
+                    str += arr[0].Replace("'", "''") + variation + "', '";
 
 
                     //price and status
-                    if (arr[28].ToLower().Contains("no"))
+                    if (arr[31].ToLower().Contains("no"))
                     {
                         //price is sell value if unorderable
                         str += "unorderable', '" + arr[11].Replace("'", "''") + "', '";
@@ -41,14 +52,14 @@ namespace queryGen
                     }
 
                     //from
-                    str += arr[16].Replace("'", "''") + "', '";
+                    str += arr[17].Replace("'", "''") + "', '";
 
                     //hha concept1&2
-                    str += arr[20].Replace("'", "''") + "', '";
-                    str += arr[21].Replace("'", "''") + "', '";
+                    str += arr[22].Replace("'", "''") + "', '";
+                    str += arr[23].Replace("'", "''") + "', '";
 
                     //hha series
-                    str += arr[22].Replace("'", "''") + "');";
+                    str += arr[24].Replace("'", "''") + "');";
 
                     count++;
                     Console.WriteLine(str);

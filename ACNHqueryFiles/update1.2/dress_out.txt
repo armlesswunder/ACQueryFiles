@@ -1,2 +1,13 @@
-insert into acnh_dress values(912, 0, 'cake dress', 'orderable', '20000', 'Wedding Season', 'Elegant');
-insert into acnh_dress values(913, 0, 'wedding tuxedo', 'orderable', '12000', 'Wedding Season', 'Elegant');
+insert into acnh_dress values(912, 0, 'wedding dress', 'unorderable', '5000', 'Cyrus', 'Elegant');
+insert into acnh_dress values(913, 0, 'mermaid fishy dress (Pink)', 'unorderable', '1000', 'Pascal', 'Cute');
+insert into acnh_dress values(914, 0, 'mermaid fishy dress (Light blue)', 'unorderable', '1000', 'Pascal', 'Cute');
+insert into acnh_dress values(915, 0, 'mermaid princess dress (Pink)', 'unorderable', '1500', 'Pascal', 'Cute');
+insert into acnh_dress values(916, 0, 'mermaid princess dress (Light blue)', 'unorderable', '1500', 'Pascal', 'Cute');
+insert into acnh_dress values(917, 0, 'pirate dress (Black)', 'unorderable', '630', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(918, 0, 'pirate dress (Red)', 'unorderable', '630', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(919, 0, 'pirate dress (Blue)', 'unorderable', '630', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(920, 0, 'pirate outfit (Black)', 'unorderable', '750', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(921, 0, 'pirate outfit (Red)', 'unorderable', '750', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(922, 0, 'pirate outfit (Blue)', 'unorderable', '750', 'Gullivarrr', 'Cool');
+insert into acnh_dress values(923, 0, 'pirate-treasure robe', 'unorderable', '3000', 'Gullivarrr', 'Gorgeous');
+insert into acnh_dress values(924, 0, 'wedding tuxedo', 'unorderable', '3000', 'Cyrus', 'Elegant');

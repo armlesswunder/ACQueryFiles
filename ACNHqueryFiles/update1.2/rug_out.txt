@@ -1,0 +1,6 @@
+insert into acnh_rug values(129, 0, 'Bell-bag rug', 'unorderable', '6000', 'Nintendo; Nook Miles Shop', 'expensive', 'None', 'None');
+insert into acnh_rug values(130, 0, 'blue wedding rug', 'unorderable', '375', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_rug values(131, 0, 'mermaid rug', 'unorderable', '10360', 'Crafting', 'ocean', 'fancy', 'mermaid');
+insert into acnh_rug values(132, 0, 'pirate rug', 'unorderable', '375', 'Gullivarrr', 'ocean', 'none', 'pirate');
+insert into acnh_rug values(133, 0, 'red wedding rug', 'unorderable', '375', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_rug values(134, 0, 'white wedding rug', 'unorderable', '375', 'Cyrus', 'party', 'expensive', 'wedding');

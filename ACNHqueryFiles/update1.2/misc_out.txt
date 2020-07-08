@@ -1,0 +1,10 @@
+insert into acnh_misc values(865, 0, 'Reese & Cyrus photo plate', 'unorderable', '100', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(866, 0, 'Rover''s briefcase', 'unorderable', '2000', 'Rover', 'living room', 'None', 'None');
+insert into acnh_misc values(867, 0, 'thank-you Dad mug', 'unorderable', '150', 'Nook Shopping Seasonal', 'living room', 'den', 'None');
+insert into acnh_misc values(868, 0, 'thank-you Mom mug', 'unorderable', '150', 'Nook Shopping Seasonal', 'living room', 'fancy', 'None');
+insert into acnh_misc values(869, 0, 'wedding cake (Cute)', 'unorderable', '1000', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(870, 0, 'wedding cake (Chic)', 'unorderable', '1000', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(871, 0, 'wedding cake (Garden)', 'unorderable', '1000', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(872, 0, 'wedding candle set (Cute)', 'unorderable', '300', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(873, 0, 'wedding candle set (Chic)', 'unorderable', '300', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_misc values(874, 0, 'wedding candle set (Garden)', 'unorderable', '300', 'Cyrus', 'party', 'expensive', 'wedding');

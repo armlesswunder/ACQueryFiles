@@ -8,30 +8,30 @@ namespace queryGen
         static void Main(string[] args)
         {
 
-            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_in.txt");
+            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACNHqueryFiles\\update1.2\\" + table + "_in.txt");
             using (System.IO.StreamWriter file =
-            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_out.txt", true))
+            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACNHqueryFiles\\update1.2\\" + table + "_out.txt", true))
             {
                 string lhs = "insert into acnh_" + table + " values(";
                 string str;
-                int count = 1;
+                int count = 453;
                 foreach (string line in lines)
                 {
 
                     if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
                         continue;
 
-                    string[] arr = line.Split(" - ");
+                    string[] arr = line.Split("\t");
                     str = lhs + count + ", 0, '";
 
                     //variation/pattern
                     String variation = "";
                     //don't show variation/pattern for diys
-                    if (arr[3].ToLower().Contains("no"))
+                    if (arr[4].ToLower().Contains("no"))
                     {
-                        if (!arr[2].Contains("NA"))
+                        if (!arr[3].Contains("NA"))
                         {
-                            variation = " (" + arr[2].Replace("'", "''") + ")";
+                            variation = " (" + arr[3].Replace("'", "''") + ")";
                         }
                     }
 
@@ -40,22 +40,22 @@ namespace queryGen
 
 
                     //price and status
-                    if (arr[13].ToLower().Contains("no"))
+                    if (arr[22].ToLower().Contains("no"))
                     {
                         //price is sell value if unorderable
-                        str += "unorderable', '" + arr[5].Replace("'", "''") + "', '";
+                        str += "unorderable', '" + arr[6].Replace("'", "''") + "', '";
                     }
                     else
                     {
                         str += "orderable', '";
-                        str += arr[4].Replace("'", "''") + "', '";
+                        str += arr[5].Replace("'", "''") + "', '";
                     }
 
                     //from
-                    str += arr[9].Replace("'", "''") + "', '";
+                    str += arr[12].Replace("'", "''") + "', '";
 
                     //style
-                    str += arr[12].Replace("'", "''") + "');";
+                    str += arr[18].Replace("'", "''") + "');";
 
                     count++;
                     Console.WriteLine(str);

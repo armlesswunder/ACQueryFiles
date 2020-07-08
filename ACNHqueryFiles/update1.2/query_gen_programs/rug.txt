@@ -8,28 +8,28 @@ namespace queryGen
         static void Main(string[] args)
         {
 
-            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_in.txt");
+            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACNHqueryFiles\\update1.2\\" + table + "_in.txt");
             using (System.IO.StreamWriter file =
-            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACNHqueryFiles\\" + table + "_out.txt", true))
+            new System.IO.StreamWriter("C:\\Users\\000ab\\Desktop\\ACQueryFiles\\ACNHqueryFiles\\update1.2\\" + table + "_out.txt", true))
             {
                 string lhs = "insert into acnh_" + table + " values(";
                 string str;
-                int count = 1;
+                int count = 129;
                 foreach (string line in lines)
                 {
 
                     if (line == "" || line.StartsWith(' ') || line.StartsWith('-') || line.EndsWith(':') || line.StartsWith('\t') || line.StartsWith('\n'))
                         continue;
 
-                    string[] arr = line.Split(" - ");
+                    string[] arr = line.Split("\t");
                     str = lhs + count + ", 0, '";
 
                     //name
                     str += arr[0].Replace("'", "''") + "', '";
-                    
+
 
                     //price and status
-                    if (arr[15].ToLower().Contains("not") || arr[15].Contains("NA"))
+                    if (arr[19].ToLower().Contains("no"))
                     {
                         //price is sell price if unorderable
                         str += "unorderable', '" + arr[4].Replace("'", "''") + "', '";
@@ -41,14 +41,14 @@ namespace queryGen
                     }
 
                     //from
-                    str += arr[8].Replace("'", "''") + "', '";
+                    str += arr[10].Replace("'", "''") + "', '";
 
                     //hha concept1&2
-                    str += arr[11].Replace("'", "''") + "', '";
-                    str += arr[12].Replace("'", "''") + "', '";
+                    str += arr[15].Replace("'", "''") + "', '";
+                    str += arr[16].Replace("'", "''") + "', '";
 
                     //hha series
-                    str += arr[13].Replace("'", "''") + "');";
+                    str += arr[17].Replace("'", "''") + "');";
 
                     count++;
                     Console.WriteLine(str);

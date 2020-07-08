@@ -1,0 +1,5 @@
+insert into acnh_shoe values(453, 0, 'mermaid shoes (Pink)', 'unorderable', '450', 'Pascal', 'Cute');
+insert into acnh_shoe values(454, 0, 'mermaid shoes (Light blue)', 'unorderable', '450', 'Pascal', 'Cute');
+insert into acnh_shoe values(455, 0, 'pirate boots', 'unorderable', '660', 'Gullivarrr', 'Cool');
+insert into acnh_shoe values(456, 0, 'wedding pumps', 'unorderable', '750', 'Cyrus', 'Elegant');
+insert into acnh_shoe values(457, 0, 'wedding shoes', 'unorderable', '750', 'Cyrus', 'Elegant');

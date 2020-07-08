@@ -1,0 +1,9 @@
+insert into acnh_wall_mounted values(313, 0, 'bug plaque', 'unorderable', '300', 'International Museum Day', 'expensive', 'den', 'None');
+insert into acnh_wall_mounted values(314, 0, 'fish plaque', 'unorderable', '300', 'International Museum Day', 'expensive', 'den', 'None');
+insert into acnh_wall_mounted values(315, 0, 'fossil plaque', 'unorderable', '300', 'International Museum Day', 'expensive', 'den', 'None');
+insert into acnh_wall_mounted values(316, 0, 'mermaid wall clock', 'unorderable', '12290', 'Crafting', 'ocean', 'fancy', 'mermaid');
+insert into acnh_wall_mounted values(317, 0, 'wedding decoration (Cute)', 'unorderable', '250', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wall_mounted values(318, 0, 'wedding decoration (Chic)', 'unorderable', '250', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wall_mounted values(319, 0, 'wedding decoration (Garden)', 'unorderable', '250', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_wall_mounted values(320, 0, 'world map (Pacific Ocean)', 'orderable', '640', 'Nintendo; Nook Shopping', 'child''s room', 'den', 'None');
+insert into acnh_wall_mounted values(321, 0, 'world map (Atlantic Ocean)', 'orderable', '640', 'Nintendo; Nook Shopping', 'child''s room', 'den', 'None');

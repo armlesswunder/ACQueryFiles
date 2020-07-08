@@ -1,0 +1,7 @@
+insert into acnh_top values(1118, 0, 'Coral Nook Inc. aloha shirt', 'unorderable', '3000', 'Nook Miles Shop', 'Simple');
+insert into acnh_top values(1119, 0, 'Green Nook Inc. aloha shirt', 'unorderable', '3000', 'Nook Miles Shop', 'Simple');
+insert into acnh_top values(1120, 0, 'handmade cape', 'unorderable', '125', 'Nook Shopping Seasonal', 'Active');
+insert into acnh_top values(1121, 0, 'sea captain''s coat (Black)', 'unorderable', '1200', 'Gullivarrr', 'Cool');
+insert into acnh_top values(1122, 0, 'sea captain''s coat (Red)', 'unorderable', '1200', 'Gullivarrr', 'Cool');
+insert into acnh_top values(1123, 0, 'sea captain''s coat (Blue)', 'unorderable', '1200', 'Gullivarrr', 'Cool');
+insert into acnh_top values(1124, 0, 'winter-solstice sweater', 'unorderable', '300', 'Nook Shopping Seasonal', 'Simple');

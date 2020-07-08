@@ -1,3 +1,5 @@
-insert into acnh_flooring values(174, 0, 'brown wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
-insert into acnh_flooring values(175, 0, 'green wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
-insert into acnh_flooring values(176, 0, 'white wedding flooring', 'unorderable', '750', 'Wedding Season', 'party', 'expensive', 'wedding');
+insert into acnh_flooring values(174, 0, 'brown wedding flooring', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_flooring values(175, 0, 'green wedding flooring', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');
+insert into acnh_flooring values(176, 0, 'mermaid flooring', 'unorderable', '20975', 'Crafting', 'ocean', 'fancy', 'mermaid');
+insert into acnh_flooring values(177, 0, 'pirate flooring', 'unorderable', '750', 'Gullivarrr', 'ocean', 'expensive', 'pirate');
+insert into acnh_flooring values(178, 0, 'white wedding flooring', 'unorderable', '750', 'Cyrus', 'party', 'expensive', 'wedding');

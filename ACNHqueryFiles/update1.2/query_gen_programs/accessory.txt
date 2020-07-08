@@ -4,7 +4,7 @@ namespace queryGen
 {
     class Program
     {//change this value to work on a different query (ie: "furniture", "fish", "shirt", ...)
-        const string table = "flooring";
+        const string table = "accessory";
         static void Main(string[] args)
         {
 
@@ -14,7 +14,7 @@ namespace queryGen
             {
                 string lhs = "insert into acnh_" + table + " values(";
                 string str;
-                int count = 174;
+                int count = 223;
                 foreach (string line in lines)
                 {
 
@@ -24,31 +24,38 @@ namespace queryGen
                     string[] arr = line.Split("\t");
                     str = lhs + count + ", 0, '";
 
+                    //variation/pattern
+                    String variation = "";
+                    //don't show variation/pattern for diys
+                    if (arr[4].ToLower().Contains("no"))
+                    {
+                        if (!arr[3].Contains("NA"))
+                        {
+                            variation = " (" + arr[3].Replace("'", "''") + ")";
+                        }
+                    }
+
                     //name
-                    str += arr[0].Replace("'", "''") + "', '";
+                    str += arr[0].Replace("'", "''") + variation + "', '";
 
 
                     //price and status
-                    if (arr[18].ToLower().Contains("no"))
+                    if (arr[23].ToLower().Contains("no"))
                     {
-                        //price is sell price if unorderable
-                        str += "unorderable', '" + arr[5].Replace("'", "''") + "', '";
+                        //price is sell value if unorderable
+                        str += "unorderable', '" + arr[6].Replace("'", "''") + "', '";
                     }
                     else
                     {
                         str += "orderable', '";
-                        str += arr[4].Replace("'", "''") + "', '";
+                        str += arr[5].Replace("'", "''") + "', '";
                     }
 
                     //from
-                    str += arr[9].Replace("'", "''") + "', '";
+                    str += arr[12].Replace("'", "''") + "', '";
 
-                    //hha concept1&2
-                    str += arr[14].Replace("'", "''") + "', '";
-                    str += arr[15].Replace("'", "''") + "', '";
-
-                    //hha series
-                    str += arr[16].Replace("'", "''") + "');";
+                    //style
+                    str += arr[18].Replace("'", "''") + "');";
 
                     count++;
                     Console.WriteLine(str);

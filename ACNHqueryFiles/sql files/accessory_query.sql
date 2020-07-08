@@ -1,5 +1,5 @@
 ﻿drop table if exists acnh_accessory;
-create table acnh_accessory ("Index" int primary key, Selected int, Name varchar(63), Status varchar(31), Price varchar(31), "From" varchar(63), Style varchar(31));
+create table acnh_accessory ("Index" int, Selected int, Name varchar(63), Status varchar(31), Price varchar(31), "From" varchar(63), Style varchar(31));
 insert into acnh_accessory values(1, 0, '3D glasses (White)', 'orderable', '490', 'Able Sisters', 'Active');
 insert into acnh_accessory values(2, 0, '3D glasses (Black)', 'orderable', '490', 'Able Sisters', 'Active');
 insert into acnh_accessory values(3, 0, 'bandage (Beige)', 'orderable', '140', 'Able Sisters', 'Active');

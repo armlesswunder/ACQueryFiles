@@ -1,0 +1,1 @@
+insert into acnh_bottom values(727, 0, 'pirate pants', 'unorderable', '800', 'Gullivarrr', 'Cool');

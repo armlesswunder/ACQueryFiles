@@ -1,3 +1,9 @@
-insert into acnh_headwear values(696, 0, 'bridal veil', 'unorderable', '1150', 'Wedding Season', 'Elegant');
-insert into acnh_headwear values(697, 0, 'handmade crown', 'unorderable', '75', 'International Children''s Day', 'Active');
-insert into acnh_headwear values(698, 0, 'summer-solstice crown', 'unorderable', '390', 'Summer Solstice Festival', 'Active');
+insert into acnh_headwear values(696, 0, 'bridal veil', 'unorderable', '1150', 'Cyrus', 'Elegant');
+insert into acnh_headwear values(697, 0, 'handmade crown', 'unorderable', '75', 'Nook Shopping Seasonal', 'Active');
+insert into acnh_headwear values(698, 0, 'mermaid tiara', 'unorderable', '1250', 'Pascal', 'Cute');
+insert into acnh_headwear values(699, 0, 'pirate bandanna (Black)', 'unorderable', '200', 'Gullivarrr', 'Cool');
+insert into acnh_headwear values(700, 0, 'pirate bandanna (Red)', 'unorderable', '200', 'Gullivarrr', 'Cool');
+insert into acnh_headwear values(701, 0, 'pirate bandanna (Blue)', 'unorderable', '200', 'Gullivarrr', 'Cool');
+insert into acnh_headwear values(702, 0, 'pirate-treasure crown', 'unorderable', '2500', 'Gullivarrr', 'Gorgeous');
+insert into acnh_headwear values(703, 0, 'pirate''s hat', 'unorderable', '860', 'Gullivarrr', 'Cool');
+insert into acnh_headwear values(704, 0, 'summer-solstice crown', 'unorderable', '390', 'Nook Shopping Seasonal', 'Active');
