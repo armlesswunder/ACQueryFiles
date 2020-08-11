@@ -13,3 +13,5 @@ update acnh_wall_mounted set "Name" = 'study poster (Alphabet)' where "Index" = 
 update acnh_wall_mounted set "Name" = 'study poster (Multiplication tables)' where "Index" = 310;
 update acnh_wall_mounted set "Name" = 'study poster (Periodic table)' where "Index" = 311;
 update acnh_wall_mounted set "Name" = 'study poster (Constellations)' where "Index" = 312;
+drop table if exists preferences;
+create table preferences (table_name varchar(127) primary key, selected_filter int, "from" varchar (127));
