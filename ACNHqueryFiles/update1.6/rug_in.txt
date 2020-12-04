@@ -1,0 +1,6 @@
+festive rug	#NAME?	Yes	NFS	1500	Brown	Colorful	4x4	Large	NA	NA	Crafting		ornaments	201	party	fancy	festive	Pattern Rugs	Not for sale	1.6.0	Yes		RugSquareChristmasL00	7544	gtnhB8Je9YTRgmJgE
+moon rug	#NAME?	No	2000	500	Yellow	Yellow	3x3	Medium	NA	NA	Nook Shopping Seasonal		Moon-Viewing Day	201	space	zen-style	None	Shaggy Round Rugs	Not in catalog	1.4.0	Yes	2020-09-07; NTP	RugRoundMoonM00	13287	ZSc6ADmEcAnG92DWv
+spooky rug	#NAME?	No	NFS	2000	Orange	Purple	4x4	Large	NA	NA	Villagers	Trade candy or a lollipop with a villager	Halloween	231	horror	None	spooky	Pattern Rugs	Not for sale	1.5.0	Yes		RugSquareHalloweenL00	7545	vgzmZDqaGRtrDN7Pv
+summer-shell rug	#NAME?	Yes	NFS	7200	Aqua	Aqua	3x3	Medium	NA	NA	Crafting		summer shells	201	ocean	fancy	None	Park Rugs	Not for sale	1.6.0	Yes		RugOtherShellSnailM00	12217	fBGGF9Cqbudi6cmsk
+sunflower rug	#NAME?	No	1500	375	Yellow	Brown	3x3	Medium	NA	NA	Nook Shopping Seasonal		Summer Solstice (northern hemisphere); Summer Solstice (southern hemisphere)	201	fancy	child's room	flowers	Icon Rugs	Not in catalog	1.6.0	Yes		RugOtherSunflowerM00	13596	D8jXWc5Nq678JDmpr
+Turkey Day rug	#NAME?	No	NFS	500	Beige	Beige	4x4	Large	NA	NA	Franklin	Reward for giving Franklin the requested ingredients	Turkey Day	351	party	None	None	Pattern Rugs	Not for sale	1.6.0	Yes	2020-11-26; BCAT; 1.6.0a	RugSquareHarvestL00	13525	S3E3mJ2PfFsqN6FPq

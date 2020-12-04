@@ -1,0 +1,12 @@
+insert into acnh_shoe values(458, 0, 'flashy animal boots (White)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(459, 0, 'flashy animal boots (Black)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(460, 0, 'flashy animal boots (Red)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(461, 0, 'flashy animal boots (Orange)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(462, 0, 'flashy animal boots (Green)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(463, 0, 'flashy animal boots (Purple)', 'orderable', '1260', 'Able Sisters', 'Cute');
+insert into acnh_shoe values(464, 0, 'mage''s boots (White)', 'orderable', '1800', 'Able Sisters', 'Simple');
+insert into acnh_shoe values(465, 0, 'mage''s boots (Black)', 'orderable', '1800', 'Able Sisters', 'Simple');
+insert into acnh_shoe values(466, 0, 'mage''s boots (Red)', 'orderable', '1800', 'Able Sisters', 'Simple');
+insert into acnh_shoe values(467, 0, 'mage''s boots (Orange)', 'orderable', '1800', 'Able Sisters', 'Simple');
+insert into acnh_shoe values(468, 0, 'mage''s boots (Green)', 'orderable', '1800', 'Able Sisters', 'Simple');
+insert into acnh_shoe values(469, 0, 'mage''s boots (Purple)', 'orderable', '1800', 'Able Sisters', 'Simple');

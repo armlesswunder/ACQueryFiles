@@ -1,0 +1,5 @@
+insert into acnh_wallpaper values(250, 0, 'aurora wall', 'unorderable', '1750', 'Nook Shopping Seasonal', 'freezing cold', 'fancy', 'None');
+insert into acnh_wallpaper values(251, 0, 'falling-snow wall', 'unorderable', '2700', 'Crafting', 'freezing cold', 'None', 'None');
+insert into acnh_wallpaper values(252, 0, 'fireworks-show wall', 'unorderable', '750', 'Saharah; Nintendo', 'outdoors', 'ocean', 'None');
+insert into acnh_wallpaper values(253, 0, 'spooky wall', 'unorderable', '3000', 'All villagers', 'horror', 'None', 'spooky');
+insert into acnh_wallpaper values(254, 0, 'Turkey Day wall', 'unorderable', '750', 'Franklin', 'party', 'None', 'None');

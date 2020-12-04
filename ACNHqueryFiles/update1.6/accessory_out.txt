@@ -1,0 +1,2 @@
+insert into acnh_accessory values(232, 0, 'animal nose', 'orderable', '560', 'Able Sisters', 'Cute');
+insert into acnh_accessory values(233, 0, 'Santa beard', 'orderable', '1480', 'Able Sisters', 'Simple');

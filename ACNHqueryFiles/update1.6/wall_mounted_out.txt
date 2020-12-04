@@ -1,0 +1,14 @@
+insert into acnh_wall_mounted values(322, 0, 'festive wreath', 'unorderable', '375', 'All villagers', 'party', 'fancy', 'festive');
+insert into acnh_wall_mounted values(323, 0, 'Jack''s portrait', 'unorderable', '2000', 'Jack', 'horror', 'None', 'None');
+insert into acnh_wall_mounted values(324, 0, 'New Year''s shimekazari', 'unorderable', '500', 'Nook Shopping Seasonal', 'zen-style', 'None', 'None');
+insert into acnh_wall_mounted values(325, 0, 'set of stockings (Colorful)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(326, 0, 'set of stockings (Cute)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(327, 0, 'set of stockings (Cool)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(328, 0, 'set of stockings (Chic)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(329, 0, 'set of stockings (Elegant)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(330, 0, 'set of stockings (Natural)', 'orderable', '2000', 'Nook''s Cranny', 'None', 'None', 'None');
+insert into acnh_wall_mounted values(331, 0, 'spooky garland', 'unorderable', '1650', 'Crafting; All villagers', 'horror', 'party', 'spooky');
+insert into acnh_wall_mounted values(332, 0, 'spooky garland', 'unorderable', '1650', 'Crafting; All villagers', 'horror', 'party', 'spooky');
+insert into acnh_wall_mounted values(333, 0, 'spooky garland', 'unorderable', '1650', 'Crafting; All villagers', 'horror', 'party', 'spooky');
+insert into acnh_wall_mounted values(334, 0, 'spooky garland', 'unorderable', '1650', 'Crafting; All villagers', 'horror', 'party', 'spooky');
+insert into acnh_wall_mounted values(335, 0, 'Toy Day stockings', 'unorderable', '500', 'Jingle', 'child''s room', 'fancy', 'festive');

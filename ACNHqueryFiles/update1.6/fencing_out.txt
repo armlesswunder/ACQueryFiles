@@ -1,0 +1,1 @@
+insert into acnh_fencing values(20, 0, 'spooky fence', '585', 'Crafting');

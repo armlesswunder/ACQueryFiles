@@ -1,0 +1,15 @@
+insert into acnh_tool values(65, 0, 'blue balloon', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(66, 0, 'blue sparkler', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(67, 0, 'bubble blower', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(68, 0, 'green balloon', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(69, 0, 'magic bag', 'Jingle');
+insert into acnh_tool values(70, 0, 'Nook Inc. handheld pennant', 'Nook Miles Redemption');
+insert into acnh_tool values(71, 0, 'pink balloon', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(72, 0, 'pinwheel', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(73, 0, 'red balloon', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(74, 0, 'red sparkler', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(75, 0, 'sparkling cider', 'Nook Shopping Seasonal');
+insert into acnh_tool values(76, 0, 'spooky wand', 'Crafting');
+insert into acnh_tool values(77, 0, 'tweeter', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(78, 0, 'uchiwa fan', 'Redd''s Raffle; Nook''s Cranny');
+insert into acnh_tool values(79, 0, 'yellow balloon', 'Redd''s Raffle; Nook''s Cranny');

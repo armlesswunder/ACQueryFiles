@@ -1,0 +1,1 @@
+insert into acnh_bottom values(728, 0, 'Santa pants', 'orderable', '2150', 'Able Sisters', 'Simple');

@@ -1,0 +1,2 @@
+insert into acnh_flooring values(178, 0, 'spooky flooring', 'unorderable', '3000', 'Villagers', 'horror', 'none', 'spooky');
+insert into acnh_flooring values(179, 0, 'Turkey Day flooring', 'unorderable', '750', 'Franklin', 'party', 'none', 'none');

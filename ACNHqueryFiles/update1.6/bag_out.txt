@@ -1,0 +1,7 @@
+insert into acnh_bag values(97, 0, 'grape-harvest basket', 'unorderable', '200', 'Nook Shopping Seasonal', 'Simple');
+insert into acnh_bag values(98, 0, 'impish wings (White)', 'orderable', '1000', 'Kicks', 'Cool');
+insert into acnh_bag values(99, 0, 'impish wings (Black)', 'orderable', '1000', 'Kicks', 'Cool');
+insert into acnh_bag values(100, 0, 'impish wings (Red)', 'orderable', '1000', 'Kicks', 'Cool');
+insert into acnh_bag values(101, 0, 'impish wings (Orange)', 'orderable', '1000', 'Kicks', 'Cool');
+insert into acnh_bag values(102, 0, 'impish wings (Green)', 'orderable', '1000', 'Kicks', 'Cool');
+insert into acnh_bag values(103, 0, 'impish wings (Purple)', 'orderable', '1000', 'Kicks', 'Cool');

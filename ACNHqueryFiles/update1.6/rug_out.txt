@@ -1,0 +1,6 @@
+insert into acnh_rug values(135, 0, 'festive rug', 'unorderable', '1500', 'Crafting', 'party', 'fancy', 'festive');
+insert into acnh_rug values(136, 0, 'moon rug', 'unorderable', '500', 'Nook Shopping Seasonal', 'space', 'zen-style', 'None');
+insert into acnh_rug values(137, 0, 'spooky rug', 'unorderable', '2000', 'Villagers', 'horror', 'None', 'spooky');
+insert into acnh_rug values(138, 0, 'summer-shell rug', 'unorderable', '7200', 'Crafting', 'ocean', 'fancy', 'None');
+insert into acnh_rug values(139, 0, 'sunflower rug', 'unorderable', '375', 'Nook Shopping Seasonal', 'fancy', 'child''s room', 'flowers');
+insert into acnh_rug values(140, 0, 'Turkey Day rug', 'unorderable', '500', 'Franklin', 'party', 'None', 'None');
